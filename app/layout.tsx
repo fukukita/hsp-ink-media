@@ -52,10 +52,12 @@ export default function RootLayout({
             <a href="/" className="text-xl font-bold text-indigo-700">
               hsp.ink
             </a>
-            <nav className="flex gap-6 text-sm text-gray-600">
+            <nav className="flex gap-4 text-sm text-gray-600 flex-wrap">
               <a href="/category/hss-hsp" className="hover:text-indigo-700 transition-colors">HSS型HSPとは</a>
-              <a href="/category/life" className="hover:text-indigo-700 transition-colors">生き方</a>
-              <a href="/category/work" className="hover:text-indigo-700 transition-colors">仕事</a>
+              <a href="/category/work" className="hover:text-indigo-700 transition-colors">仕事・キャリア</a>
+              <a href="/category/relationships" className="hover:text-indigo-700 transition-colors">人間関係</a>
+              <a href="/category/habits" className="hover:text-indigo-700 transition-colors">消耗しない習慣</a>
+              <a href="/category/strengths" className="hover:text-indigo-700 transition-colors">強みを活かす</a>
             </nav>
           </div>
         </header>
