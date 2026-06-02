@@ -106,6 +106,47 @@ export const post = defineType({
             },
           ],
         },
+        {
+          type: 'object',
+          name: 'checklist',
+          title: 'チェックリスト',
+          fields: [
+            {
+              name: 'items',
+              title: '項目',
+              type: 'array',
+              of: [{ type: 'string' }],
+            },
+          ],
+          preview: {
+            select: { items: 'items' },
+            prepare({ items }: { items?: string[] }) {
+              return {
+                title: '☑ チェックリスト',
+                subtitle: (items || []).join(' / '),
+              }
+            },
+          },
+        },
+        {
+          type: 'object',
+          name: 'lineCallout',
+          title: 'LINE誘導（記事内）',
+          fields: [
+            {
+              name: 'text',
+              title: '誘導文（任意）',
+              type: 'text',
+              rows: 3,
+            },
+          ],
+          preview: {
+            select: { text: 'text' },
+            prepare({ text }: { text?: string }) {
+              return { title: '📢 LINE誘導', subtitle: text || '（文言なし）' }
+            },
+          },
+        },
       ],
     }),
     defineField({

@@ -3,6 +3,7 @@ import { postBySlugQuery, recentPostsQuery } from '@/sanity/lib/queries'
 import { PortableText } from 'next-sanity'
 import Image from 'next/image'
 import { urlForImage } from '@/sanity/lib/image'
+import { LINE_URL } from '@/lib/site'
 import type { Metadata } from 'next'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
@@ -52,18 +53,72 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 const components = {
   block: {
     h2: ({ children }: { children?: React.ReactNode }) => (
-      <h2 className="text-2xl font-bold mt-10 mb-4 text-ink border-l-4 border-brand-400 pl-4">
+      <h2 className="text-xl sm:text-2xl font-bold mt-12 mb-4 text-ink border-l-4 border-brand-400 pl-4 leading-snug">
         {children}
       </h2>
     ),
     h3: ({ children }: { children?: React.ReactNode }) => (
-      <h3 className="text-xl font-bold mt-8 mb-3 text-gray-800">{children}</h3>
+      <h3 className="text-lg sm:text-xl font-bold mt-9 mb-3 text-ink">{children}</h3>
     ),
     h4: ({ children }: { children?: React.ReactNode }) => (
-      <h4 className="text-lg font-semibold mt-6 mb-2 text-gray-800">{children}</h4>
+      <h4 className="text-base sm:text-lg font-semibold mt-6 mb-2 text-ink">{children}</h4>
     ),
     normal: ({ children }: { children?: React.ReactNode }) => (
-      <p className="leading-8 text-gray-700 mb-5">{children}</p>
+      <p className="leading-[1.9] text-gray-700 mb-5">{children}</p>
+    ),
+  },
+  list: {
+    bullet: ({ children }: { children?: React.ReactNode }) => (
+      <ul className="my-6 space-y-2.5">{children}</ul>
+    ),
+    number: ({ children }: { children?: React.ReactNode }) => (
+      <ol className="my-6 space-y-2.5 list-decimal pl-6 marker:text-brand-500 marker:font-bold">
+        {children}
+      </ol>
+    ),
+  },
+  listItem: {
+    bullet: ({ children }: { children?: React.ReactNode }) => (
+      <li className="flex gap-3 text-gray-700 leading-[1.8]">
+        <span className="mt-[0.7em] h-1.5 w-1.5 rounded-full bg-brand-400 shrink-0" />
+        <span>{children}</span>
+      </li>
+    ),
+    number: ({ children }: { children?: React.ReactNode }) => (
+      <li className="text-gray-700 leading-[1.8] pl-1">{children}</li>
+    ),
+  },
+  types: {
+    checklist: ({ value }: { value?: { items?: string[] } }) => (
+      <div className="my-7 rounded-2xl border border-brand-100 bg-brand-50/60 p-5 sm:p-6">
+        <ul className="space-y-3.5">
+          {(value?.items || []).map((item, i) => (
+            <li key={i} className="flex gap-3 items-start">
+              <span className="mt-0.5 shrink-0 grid place-items-center h-5 w-5 rounded-md bg-brand-500 text-white text-[11px] font-bold">
+                ✓
+              </span>
+              <span className="text-gray-700 leading-[1.7]">{item}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    ),
+    lineCallout: ({ value }: { value?: { text?: string } }) => (
+      <aside className="my-9 rounded-2xl bg-gradient-to-br from-brand-50 to-brand-100 border border-brand-200 p-6 sm:p-7 text-center">
+        {value?.text && (
+          <p className="text-sm sm:text-[0.95rem] text-gray-700 leading-relaxed mb-5 max-w-md mx-auto">
+            {value.text}
+          </p>
+        )}
+        <a
+          href={LINE_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 bg-brand-500 hover:bg-brand-600 text-white font-bold text-sm py-3 px-7 rounded-full transition-colors shadow-sm"
+        >
+          公式LINEで受け取る <span aria-hidden>→</span>
+        </a>
+      </aside>
     ),
   },
   marks: {
