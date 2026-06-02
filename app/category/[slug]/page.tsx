@@ -49,12 +49,12 @@ export default async function CategoryPage({ params }: Props) {
     <div className="max-w-4xl mx-auto px-4 py-12">
       {/* パンくずリスト */}
       <nav className="text-sm text-gray-400 mb-6 flex gap-2">
-        <a href="/" className="hover:text-indigo-600">トップ</a>
+        <a href="/" className="hover:text-brand-600">トップ</a>
         <span>›</span>
         <span>{category.title}</span>
       </nav>
 
-      <h1 className="text-2xl font-bold text-gray-800 mb-2">{category.title}</h1>
+      <h1 className="text-2xl font-bold text-ink mb-2">{category.title}</h1>
       {category.description && (
         <p className="text-gray-500 mb-8">{category.description}</p>
       )}
@@ -67,8 +67,8 @@ export default async function CategoryPage({ params }: Props) {
             href={`/category/${cat.slug.current}`}
             className={`px-4 py-1.5 rounded-full text-sm transition-colors ${
               cat.slug.current === slug
-                ? 'bg-indigo-600 text-white'
-                : 'bg-indigo-50 text-indigo-700 hover:bg-indigo-100'
+                ? 'bg-brand-500 text-white'
+                : 'bg-brand-50 text-brand-700 hover:bg-brand-100'
             }`}
           >
             {cat.title}

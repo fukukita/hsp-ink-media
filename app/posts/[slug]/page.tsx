@@ -1,6 +1,8 @@
 import { client } from '@/sanity/lib/client'
 import { postBySlugQuery, recentPostsQuery } from '@/sanity/lib/queries'
 import { PortableText } from 'next-sanity'
+import Image from 'next/image'
+import { urlForImage } from '@/sanity/lib/image'
 import type { Metadata } from 'next'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
@@ -50,7 +52,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 const components = {
   block: {
     h2: ({ children }: { children?: React.ReactNode }) => (
-      <h2 className="text-2xl font-bold mt-10 mb-4 text-gray-800 border-l-4 border-indigo-500 pl-4">
+      <h2 className="text-2xl font-bold mt-10 mb-4 text-ink border-l-4 border-brand-400 pl-4">
         {children}
       </h2>
     ),
@@ -70,7 +72,7 @@ const components = {
         href={value?.href}
         target={value?.blank ? '_blank' : '_self'}
         rel={value?.blank ? 'noopener noreferrer' : undefined}
-        className="text-indigo-600 underline hover:text-indigo-800"
+        className="text-brand-600 underline hover:text-brand-700"
       >
         {children}
       </a>
@@ -91,11 +93,11 @@ export default async function PostPage({ params }: Props) {
     <article className="max-w-3xl mx-auto px-4 py-12">
       {/* パンくずリスト */}
       <nav className="text-sm text-gray-400 mb-6 flex gap-2">
-        <a href="/" className="hover:text-indigo-600">トップ</a>
+        <a href="/" className="hover:text-brand-600">トップ</a>
         <span>›</span>
         {post.category && (
           <>
-            <a href={`/category/${post.category.slug.current}`} className="hover:text-indigo-600">
+            <a href={`/category/${post.category.slug.current}`} className="hover:text-brand-600">
               {post.category.title}
             </a>
             <span>›</span>
@@ -108,7 +110,7 @@ export default async function PostPage({ params }: Props) {
       {post.category && (
         <a
           href={`/category/${post.category.slug.current}`}
-          className="text-xs text-indigo-600 font-medium bg-indigo-50 px-3 py-1 rounded-full"
+          className="text-xs text-brand-600 font-medium bg-brand-50 px-3 py-1 rounded-full"
         >
           {post.category.title}
         </a>
@@ -121,16 +123,30 @@ export default async function PostPage({ params }: Props) {
 
       {/* 公開日 */}
       {post.publishedAt && (
-        <p className="text-sm text-gray-400 mb-8">
+        <p className="text-sm text-gray-400 mb-6">
           {new Date(post.publishedAt).toLocaleDateString('ja-JP', {
             year: 'numeric', month: 'long', day: 'numeric',
           })}
         </p>
       )}
 
+      {/* アイキャッチ画像 */}
+      {post.mainImage ? (
+        <div className="relative aspect-[16/9] rounded-2xl overflow-hidden mb-8 bg-gradient-to-br from-brand-100 to-brand-300">
+          <Image
+            src={urlForImage(post.mainImage)!.width(1200).height(675).url()}
+            alt={post.title}
+            fill
+            sizes="(max-width: 768px) 100vw, 768px"
+            priority
+            className="object-cover"
+          />
+        </div>
+      ) : null}
+
       {/* リード文 */}
       {post.excerpt && (
-        <p className="text-gray-600 bg-gray-50 border-l-4 border-indigo-300 pl-4 py-3 mb-8 rounded-r-lg">
+        <p className="text-gray-600 bg-brand-50 border-l-4 border-brand-300 pl-4 py-3 mb-8 rounded-r-lg">
           {post.excerpt}
         </p>
       )}

@@ -1,5 +1,7 @@
 import { client } from '@/sanity/lib/client'
 import { postsQuery, categoriesQuery } from '@/sanity/lib/queries'
+import { urlForImage } from '@/sanity/lib/image'
+import Image from 'next/image'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
 
@@ -27,53 +29,101 @@ export default async function Home() {
     client.fetch<Category[]>(categoriesQuery),
   ])
 
-  return (
-    <div className="max-w-4xl mx-auto px-4 py-12">
-      {/* ヒーロー */}
-      <section className="text-center mb-16">
-        <h1 className="text-3xl font-bold text-indigo-800 mb-4">
-          HSS型HSPの気質を活かして、<br className="hidden sm:block" />
-          自分らしく生きる
-        </h1>
-        <p className="text-gray-600 leading-relaxed max-w-xl mx-auto">
-          刺激を求めながらも深く疲れる。そんなHSS型HSPの生きづらさと強みを、
-          具体的な視点でお届けするメディアです。
-        </p>
-      </section>
+  const heroPost = posts[0] ?? null
+  const restPosts = posts.slice(1)
 
-      {/* カテゴリナビ */}
-      {categories.length > 0 && (
-        <section className="mb-10">
-          <div className="flex flex-wrap gap-2">
-            {categories.map((cat) => (
-              <a
-                key={cat._id}
-                href={`/category/${cat.slug.current}`}
-                className="px-4 py-1.5 rounded-full bg-indigo-50 text-indigo-700 text-sm hover:bg-indigo-100 transition-colors"
-              >
-                {cat.title}
-              </a>
-            ))}
+  return (
+    <div>
+      {/* ===== ファーストビュー：画像の上にテキストをオーバーレイ ===== */}
+      {heroPost ? (
+        <section className="relative overflow-hidden min-h-[600px] h-[72vh] lg:h-[86vh] bg-gradient-to-br from-brand-100 to-brand-300">
+          {/* 背景画像 */}
+          {heroPost.mainImage ? (
+            <Image
+              src={urlForImage(heroPost.mainImage)!.width(1408).fit('clip').url()}
+              alt={heroPost.title}
+              fill
+              sizes="100vw"
+              priority
+              quality={90}
+              className="object-cover"
+            />
+          ) : null}
+
+          {/* オーバーレイ：スマホは上から白くフェード、PCは左から白くフェード */}
+          <div className="absolute inset-0 bg-gradient-to-b from-white/20 via-white/75 to-white/95 sm:bg-gradient-to-r sm:from-white/92 sm:via-white/70 sm:to-white/10" />
+
+          {/* テキストコンテンツ */}
+          <div className="relative z-10 flex items-center min-h-[600px] h-[72vh] lg:h-[86vh]">
+            <div className="max-w-5xl w-full mx-auto px-6 pb-12 sm:pb-0 sm:py-16 overflow-hidden">
+              <div className="max-w-[min(100%,32rem)]">
+                <p className="text-xs font-medium tracking-[0.2em] text-brand-600 uppercase mb-5">
+                  HSS型HSPに寄り添うメディア
+                </p>
+                <h1 className="font-serif font-bold text-ink mb-6 leading-snug" style={{ fontSize: 'clamp(1.25rem, 5.5vw, 3.2rem)' }}>
+                  <a
+                    href={`/posts/${heroPost.slug.current}`}
+                    className="hover:text-brand-700 transition-colors"
+                  >
+                    {heroPost.title}
+                  </a>
+                </h1>
+                {heroPost.excerpt && (
+                  <p className="text-gray-600 leading-relaxed mb-8 max-w-sm">
+                    {heroPost.excerpt}
+                  </p>
+                )}
+                <a
+                  href={`/posts/${heroPost.slug.current}`}
+                  className="inline-flex items-center gap-2 text-sm font-bold text-ink border-b-2 border-brand-400 pb-1 hover:border-brand-600 transition-colors"
+                >
+                  記事を読む <span aria-hidden>→</span>
+                </a>
+              </div>
+            </div>
           </div>
+        </section>
+      ) : (
+        <section className="bg-brand-50 py-24 text-center px-6">
+          <h1 className="font-serif text-3xl font-bold text-ink">HSP Partner</h1>
+          <p className="text-gray-500 mt-4">記事を準備中です。</p>
         </section>
       )}
 
-      {/* 記事一覧 */}
-      <section>
-        <h2 className="text-xl font-bold mb-6 text-gray-700">新着記事</h2>
-        {posts.length === 0 ? (
-          <p className="text-gray-400">記事を準備中です。</p>
-        ) : (
-          <div className="grid gap-6 sm:grid-cols-2">
-            {posts.map((post) => (
-              <PostCard key={post._id} post={post} />
-            ))}
-          </div>
-        )}
-      </section>
+      <div className="max-w-5xl mx-auto px-6 py-16">
 
-      {/* LINE誘導CTA */}
-      <LineCta />
+        {/* ===== テーマから探す ===== */}
+        {categories.length > 0 && (
+          <section className="mb-16">
+            <h2 className="font-serif text-xl font-bold text-ink mb-6">テーマから探す</h2>
+            <div className="flex flex-wrap gap-3">
+              {categories.map((cat) => (
+                <a
+                  key={cat._id}
+                  href={`/category/${cat.slug.current}`}
+                  className="px-5 py-2.5 rounded-full border border-gray-200 text-sm text-gray-600 bg-white hover:border-brand-400 hover:text-brand-600 transition-all"
+                >
+                  {cat.title}
+                </a>
+              ))}
+            </div>
+          </section>
+        )}
+
+        {/* ===== 新着記事 ===== */}
+        {restPosts.length > 0 && (
+          <section>
+            <h2 className="font-serif text-xl font-bold text-ink mb-6">新着記事</h2>
+            <div className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
+              {restPosts.map((post) => (
+                <PostCard key={post._id} post={post} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        <LineCta />
+      </div>
     </div>
   )
 }
