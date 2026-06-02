@@ -57,11 +57,13 @@ export default async function Home() {
                 {HERO_COPY.eyebrow}
               </p>
               <h1
-                className="font-serif font-bold text-ink leading-snug mb-5"
-                style={{ fontSize: 'clamp(1.4rem, 2.6vw, 2.5rem)' }}
+                className="font-serif font-bold text-ink leading-[1.32] mb-5"
+                style={{ fontSize: 'clamp(1.6rem, 4vw, 3.1rem)' }}
               >
                 {HERO_COPY.heading.split('\n').map((line, i) => (
-                  <span key={i}>{line}{i === 0 && <br />}</span>
+                  <span key={i} className="block whitespace-nowrap">
+                    {line}
+                  </span>
                 ))}
               </h1>
               <p className="text-gray-600 leading-relaxed mb-8 text-sm sm:text-base max-w-xs">

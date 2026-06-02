@@ -2,6 +2,10 @@ import type { Metadata } from 'next'
 import { Noto_Serif_JP, Noto_Sans_JP } from 'next/font/google'
 import Logo from '@/components/Logo'
 import { LINE_URL } from '@/lib/site'
+import {
+  GoogleTagManagerScript,
+  GoogleTagManagerNoScript,
+} from '@/components/GoogleTagManager'
 import './globals.css'
 
 const notoSerifJP = Noto_Serif_JP({
@@ -49,6 +53,8 @@ export default function RootLayout({
       className={`${notoSerifJP.variable} ${notoSansJP.variable}`}
     >
       <body className="min-h-screen flex flex-col bg-white text-gray-800 antialiased overflow-x-hidden">
+        <GoogleTagManagerScript />
+        <GoogleTagManagerNoScript />
         <header className="border-b border-gray-100 bg-white/90 backdrop-blur-md sticky top-0 z-20">
           <div className="max-w-6xl mx-auto px-6 h-16 flex items-center justify-between gap-6">
             <a href="/" aria-label="HSP Partner トップへ" className="shrink-0">
