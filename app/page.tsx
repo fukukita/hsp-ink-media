@@ -52,13 +52,13 @@ export default async function Home() {
         {/* 固定テキストコンテンツ */}
         <div className="relative z-10 flex items-center h-full">
           <div className="max-w-5xl mx-auto px-6 py-12 w-full">
-            <div className="max-w-md">
+            <div className="max-w-lg">
               <p className="text-xs font-medium tracking-[0.2em] text-brand-600 uppercase mb-5">
                 {HERO_COPY.eyebrow}
               </p>
               <h1
                 className="font-serif font-bold text-ink leading-snug mb-5"
-                style={{ fontSize: 'clamp(1.9rem, 5vw, 3.2rem)' }}
+                style={{ fontSize: 'clamp(1.4rem, 2.6vw, 2.5rem)' }}
               >
                 {HERO_COPY.heading.split('\n').map((line, i) => (
                   <span key={i}>{line}{i === 0 && <br />}</span>
