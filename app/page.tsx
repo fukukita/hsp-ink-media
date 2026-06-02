@@ -1,9 +1,9 @@
 import { client } from '@/sanity/lib/client'
 import { postsQuery, categoriesQuery } from '@/sanity/lib/queries'
-import { urlForImage } from '@/sanity/lib/image'
 import Image from 'next/image'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
+import { HERO_IMAGE_URL, HERO_COPY } from '@/lib/site'
 
 type Post = {
   _id: string
@@ -29,69 +29,58 @@ export default async function Home() {
     client.fetch<Category[]>(categoriesQuery),
   ])
 
-  const heroPost = posts[0] ?? null
-  const restPosts = posts.slice(1)
-
   return (
     <div>
-      {/* ===== ファーストビュー：画像の上にテキストをオーバーレイ ===== */}
-      {heroPost ? (
-        <section className="relative overflow-hidden min-h-[600px] h-[72vh] lg:h-[86vh] bg-gradient-to-br from-brand-100 to-brand-300">
-          {/* 背景画像 */}
-          {heroPost.mainImage ? (
-            <Image
-              src={urlForImage(heroPost.mainImage)!.width(1408).fit('clip').url()}
-              alt={heroPost.title}
-              fill
-              sizes="100vw"
-              priority
-              quality={90}
-              className="object-cover"
-            />
-          ) : null}
+      {/* ===== 固定ヒーロー（記事に依存しない・キャッチコピーは変わらない） ===== */}
+      <section className="relative overflow-hidden h-[72vh] lg:h-[86vh] min-h-[520px] bg-brand-100">
+        {/* フルブリード背景画像 */}
+        <Image
+          src={HERO_IMAGE_URL}
+          alt="HSP Partner"
+          fill
+          priority
+          quality={90}
+          sizes="100vw"
+          className="object-cover object-center"
+        />
 
-          {/* オーバーレイ：スマホは上から白くフェード、PCは左から白くフェード */}
-          <div className="absolute inset-0 bg-gradient-to-b from-white/20 via-white/75 to-white/95 sm:bg-gradient-to-r sm:from-white/92 sm:via-white/70 sm:to-white/10" />
+        {/* 左から右へのグラデーション（テキストを読みやすく） */}
+        <div className="absolute inset-0 bg-gradient-to-r from-white/88 via-white/55 to-white/5" />
+        {/* モバイル：上から下へ追加 */}
+        <div className="absolute inset-0 bg-gradient-to-b from-white/30 via-transparent to-white/50 sm:hidden" />
 
-          {/* テキストコンテンツ */}
-          <div className="relative z-10 flex items-center min-h-[600px] h-[72vh] lg:h-[86vh]">
-            <div className="max-w-5xl w-full mx-auto px-6 pb-12 sm:pb-0 sm:py-16 overflow-hidden">
-              <div className="max-w-[min(100%,32rem)]">
-                <p className="text-xs font-medium tracking-[0.2em] text-brand-600 uppercase mb-5">
-                  HSS型HSPに寄り添うメディア
-                </p>
-                <h1 className="font-serif font-bold text-ink mb-6 leading-snug" style={{ fontSize: 'clamp(1.25rem, 5.5vw, 3.2rem)' }}>
-                  <a
-                    href={`/posts/${heroPost.slug.current}`}
-                    className="hover:text-brand-700 transition-colors"
-                  >
-                    {heroPost.title}
-                  </a>
-                </h1>
-                {heroPost.excerpt && (
-                  <p className="text-gray-600 leading-relaxed mb-8 max-w-sm">
-                    {heroPost.excerpt}
-                  </p>
-                )}
-                <a
-                  href={`/posts/${heroPost.slug.current}`}
-                  className="inline-flex items-center gap-2 text-sm font-bold text-ink border-b-2 border-brand-400 pb-1 hover:border-brand-600 transition-colors"
-                >
-                  記事を読む <span aria-hidden>→</span>
-                </a>
-              </div>
+        {/* 固定テキストコンテンツ */}
+        <div className="relative z-10 flex items-center h-full">
+          <div className="max-w-5xl mx-auto px-6 py-12 w-full">
+            <div className="max-w-md">
+              <p className="text-xs font-medium tracking-[0.2em] text-brand-600 uppercase mb-5">
+                {HERO_COPY.eyebrow}
+              </p>
+              <h1
+                className="font-serif font-bold text-ink leading-snug mb-5"
+                style={{ fontSize: 'clamp(1.9rem, 5vw, 3.2rem)' }}
+              >
+                {HERO_COPY.heading.split('\n').map((line, i) => (
+                  <span key={i}>{line}{i === 0 && <br />}</span>
+                ))}
+              </h1>
+              <p className="text-gray-600 leading-relaxed mb-8 text-sm sm:text-base max-w-xs">
+                {HERO_COPY.body.split('\n').map((line, i) => (
+                  <span key={i}>{line}{i === 0 && <br className="hidden sm:block" />}</span>
+                ))}
+              </p>
+              <a
+                href={HERO_COPY.ctaHref}
+                className="inline-flex items-center gap-2 text-sm font-bold text-ink border-b-2 border-brand-400 pb-1 hover:border-brand-600 transition-colors"
+              >
+                {HERO_COPY.cta} <span aria-hidden>→</span>
+              </a>
             </div>
           </div>
-        </section>
-      ) : (
-        <section className="bg-brand-50 py-24 text-center px-6">
-          <h1 className="font-serif text-3xl font-bold text-ink">HSP Partner</h1>
-          <p className="text-gray-500 mt-4">記事を準備中です。</p>
-        </section>
-      )}
+        </div>
+      </section>
 
       <div className="max-w-5xl mx-auto px-6 py-16">
-
         {/* ===== テーマから探す ===== */}
         {categories.length > 0 && (
           <section className="mb-16">
@@ -110,12 +99,20 @@ export default async function Home() {
           </section>
         )}
 
-        {/* ===== 新着記事 ===== */}
-        {restPosts.length > 0 && (
+        {/* ===== 新着記事（最新3本） ===== */}
+        {posts.length > 0 && (
           <section>
-            <h2 className="font-serif text-xl font-bold text-ink mb-6">新着記事</h2>
+            <div className="flex items-center justify-between mb-6">
+              <h2 className="font-serif text-xl font-bold text-ink">新着記事</h2>
+              <a
+                href="/posts"
+                className="text-sm text-brand-600 hover:text-brand-700 transition-colors font-medium"
+              >
+                すべて見る →
+              </a>
+            </div>
             <div className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
-              {restPosts.map((post) => (
+              {posts.slice(0, 3).map((post) => (
                 <PostCard key={post._id} post={post} />
               ))}
             </div>
