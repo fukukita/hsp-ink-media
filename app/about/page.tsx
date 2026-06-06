@@ -22,14 +22,14 @@ export default function AboutPage() {
   return (
     <article className="pb-4">
       {/* ヒーロー写真（後ろ姿） */}
-      <div className="relative w-full aspect-[3/2] sm:aspect-[21/9] bg-brand-100">
+      <div className="relative w-full max-w-3xl mx-auto aspect-[4/3] sm:aspect-[16/10] sm:rounded-2xl overflow-hidden bg-brand-100 sm:mt-8">
         <Image
-          src="/images/profile-hero.jpg"
+          src="/images/fukukita01.jpg"
           alt="ふくきた｜才気道 家元"
           fill
           priority
           quality={90}
-          sizes="100vw"
+          sizes="(max-width: 768px) 100vw, 768px"
           className="object-cover object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/25 via-transparent to-transparent" />

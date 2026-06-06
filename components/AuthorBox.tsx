@@ -9,7 +9,7 @@ export default function AuthorBox() {
       <div className="flex flex-col sm:flex-row sm:items-start gap-5">
         {/* アバター（後ろ姿の写真。顔出しNGでも世界観を保てる） */}
         <Image
-          src="/images/profile-hero.jpg"
+          src="/images/fukukita01.jpg"
           alt="ふくきた｜才気道 家元"
           width={96}
           height={96}
