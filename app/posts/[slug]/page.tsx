@@ -7,6 +7,7 @@ import { LINE_URL } from '@/lib/site'
 import type { Metadata } from 'next'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
+import LineBanner from '@/components/LineBanner'
 import { notFound } from 'next/navigation'
 
 type Props = { params: Promise<{ slug: string }> }
@@ -50,10 +51,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 // Portable Text コンポーネント定義
-const components = {
+type Heading = { id: string; text: string }
+const makeComponents = (headings: Heading[]) => ({
   block: {
-    h2: ({ children }: { children?: React.ReactNode }) => (
-      <h2 className="text-xl sm:text-2xl font-bold mt-12 mb-4 text-ink border-l-4 border-brand-400 pl-4 leading-snug">
+    h2: ({ children, value }: { children?: React.ReactNode; value?: { _key?: string } }) => (
+      <h2
+        id={value?._key}
+        className="scroll-mt-24 text-xl sm:text-2xl font-bold mt-12 mb-4 text-ink border-l-4 border-brand-400 pl-4 leading-snug"
+      >
         {children}
       </h2>
     ),
@@ -89,6 +94,31 @@ const components = {
     ),
   },
   types: {
+    lineBanner: () => <LineBanner />,
+    toc: () =>
+      headings.length >= 2 ? (
+        <nav
+          aria-label="目次"
+          className="my-8 rounded-2xl border border-brand-100 bg-brand-50/70 p-5 sm:p-6"
+        >
+          <p className="text-sm font-bold text-ink mb-3">目次</p>
+          <ol className="space-y-2.5">
+            {headings.map((h, i) => (
+              <li key={h.id}>
+                <a
+                  href={`#${h.id}`}
+                  className="group flex gap-2.5 text-sm text-gray-700 hover:text-brand-700 leading-snug"
+                >
+                  <span className="text-brand-400 font-bold shrink-0">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                  <span className="group-hover:underline">{h.text}</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+        </nav>
+      ) : null,
     checklist: ({ value }: { value?: { items?: string[] } }) => (
       <div className="my-7 rounded-2xl border border-brand-100 bg-brand-50/60 p-5 sm:p-6">
         <ul className="space-y-3.5">
@@ -133,7 +163,7 @@ const components = {
       </a>
     ),
   },
-}
+})
 
 export default async function PostPage({ params }: Props) {
   const { slug } = await params
@@ -143,6 +173,40 @@ export default async function PostPage({ params }: Props) {
   ])
 
   if (!post) notFound()
+
+  // 本文のH2から目次を生成し、最初のH2の直前に目次を差し込む
+  const blocks = (post.body ?? []) as Array<{
+    _type?: string
+    _key?: string
+    style?: string
+    children?: Array<{ text?: string }>
+  }>
+  const headings: Heading[] = blocks
+    .filter((b) => b._type === 'block' && b.style === 'h2')
+    .map((b) => ({
+      id: b._key ?? '',
+      text: (b.children ?? []).map((c) => c.text ?? '').join(''),
+    }))
+  const firstH2Index = blocks.findIndex(
+    (b) => b._type === 'block' && b.style === 'h2'
+  )
+  // 最初のH2の直前に「LINE誘導バナー → 目次」の順で差し込む
+  const inserts: Array<{ _type: string; _key: string }> = []
+  if (firstH2Index >= 0) {
+    inserts.push({ _type: 'lineBanner', _key: '__linebanner' })
+    if (headings.length >= 2) {
+      inserts.push({ _type: 'toc', _key: '__toc' })
+    }
+  }
+  const bodyWithToc =
+    firstH2Index >= 0
+      ? [
+          ...blocks.slice(0, firstH2Index),
+          ...inserts,
+          ...blocks.slice(firstH2Index),
+        ]
+      : blocks
+  const components = makeComponents(headings)
 
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
@@ -210,7 +274,7 @@ export default async function PostPage({ params }: Props) {
       <div className="prose-custom">
         {post.body && (
           // @ts-expect-error PortableText型の互換性
-          <PortableText value={post.body} components={components} />
+          <PortableText value={bodyWithToc} components={components} />
         )}
       </div>
 

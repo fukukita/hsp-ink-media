@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Noto_Serif_JP, Noto_Sans_JP } from 'next/font/google'
 import Logo from '@/components/Logo'
+import StickyLineFooter from '@/components/StickyLineFooter'
 import { LINE_URL } from '@/lib/site'
 import {
   GoogleTagManagerScript,
@@ -52,7 +53,7 @@ export default function RootLayout({
       lang="ja"
       className={`${notoSerifJP.variable} ${notoSansJP.variable}`}
     >
-      <body className="min-h-screen flex flex-col bg-white text-gray-800 antialiased overflow-x-hidden">
+      <body className="min-h-screen flex flex-col bg-white text-gray-800 antialiased overflow-x-hidden pb-28 sm:pb-0">
         <GoogleTagManagerScript />
         <GoogleTagManagerNoScript />
         <header className="border-b border-gray-100 bg-white/90 backdrop-blur-md sticky top-0 z-20">
@@ -94,6 +95,7 @@ export default function RootLayout({
             <p className="text-xs text-gray-400 mt-3">© 2026 HSP Partner All rights reserved.</p>
           </div>
         </footer>
+        <StickyLineFooter />
       </body>
     </html>
   )
