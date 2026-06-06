@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { LINE_URL } from '@/lib/site'
 
 // リード文直後に置く、コンパクトなLINE誘導バナー。
@@ -6,6 +7,17 @@ export default function LineBanner() {
   return (
     <aside className="my-8 rounded-2xl border border-brand-200 bg-gradient-to-br from-brand-50 to-brand-100 p-5 sm:p-6">
       <div className="sm:flex sm:items-center sm:gap-6">
+        {/* イラスト */}
+        <div className="flex justify-center sm:justify-start sm:shrink-0 mb-4 sm:mb-0">
+          <Image
+            src="/images/Illustration-for-linepromotion-banner01.jpg"
+            alt="スマホを見てほっとしている女性のイラスト"
+            width={120}
+            height={120}
+            className="rounded-xl object-cover"
+          />
+        </div>
+
         {/* テキスト */}
         <div className="flex-1 mb-5 sm:mb-0">
           <span className="inline-block bg-white/70 text-brand-700 text-xs font-bold px-3 py-1 rounded-full mb-3">
