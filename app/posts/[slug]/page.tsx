@@ -8,6 +8,7 @@ import type { Metadata } from 'next'
 import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
 import LineBanner from '@/components/LineBanner'
+import AuthorBox from '@/components/AuthorBox'
 import { notFound } from 'next/navigation'
 
 type Props = { params: Promise<{ slug: string }> }
@@ -280,6 +281,9 @@ export default async function PostPage({ params }: Props) {
 
       {/* LINE誘導CTA */}
       <LineCta />
+
+      {/* 著者ボックス */}
+      <AuthorBox />
 
       {/* 関連記事 */}
       {post.relatedPosts && post.relatedPosts.length > 0 && (

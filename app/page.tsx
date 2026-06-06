@@ -121,6 +121,34 @@ export default async function Home() {
           </section>
         )}
 
+        {/* ===== 運営者プロフィール ===== */}
+        <section className="mt-16">
+          <h2 className="font-serif text-xl font-bold text-ink mb-6">運営者について</h2>
+          <div className="rounded-2xl border border-gray-200 bg-gray-50/70 p-6 sm:p-8">
+            <div className="flex flex-col sm:flex-row sm:items-center gap-6">
+              <Image
+                src="/images/profile-hero.jpg"
+                alt="ふくきた｜才気道 家元"
+                width={120}
+                height={120}
+                className="rounded-2xl object-cover w-24 h-24 sm:w-32 sm:h-32 shrink-0"
+              />
+              <div className="flex-1">
+                <p className="font-bold text-ink mb-2">ふくきた｜才気道 家元</p>
+                <p className="text-sm text-gray-600 leading-relaxed mb-4">
+                  HSS型HSP当事者。好奇心旺盛なのに繊細、社交的に見えて実は人見知り——いくつもの矛盾した気質を抱えて生きてきました。短期離職や営業職での挫折を重ねるなかで自己理解を深め、同じように「生きづらい」と感じる人へ、経験から得た気づきを届けています。
+                </p>
+                <a
+                  href="/about"
+                  className="inline-flex items-center gap-2 text-sm font-bold text-brand-600 hover:text-brand-700 border-b-2 border-brand-300 hover:border-brand-500 pb-0.5 transition-colors"
+                >
+                  プロフィールを見る <span aria-hidden>→</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <LineCta />
       </div>
     </div>

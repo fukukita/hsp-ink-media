@@ -92,6 +92,10 @@ export default function RootLayout({
             <div className="flex justify-center mb-4">
               <Logo />
             </div>
+            <nav className="flex justify-center gap-5 text-sm text-gray-500">
+              <a href="/about" className="hover:text-brand-600 transition-colors">運営者プロフィール</a>
+              <a href="/posts" className="hover:text-brand-600 transition-colors">記事一覧</a>
+            </nav>
             <p className="text-xs text-gray-400 mt-3">© 2026 HSP Partner All rights reserved.</p>
           </div>
         </footer>
