@@ -45,3 +45,6 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
+
+# 原稿素材（音声書き起こし・エッセイ。非公開・ローカルのみ）
+/docs/source/
