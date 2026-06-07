@@ -37,6 +37,7 @@ export const postBySlugQuery = groq`
     excerpt,
     body,
     publishedAt,
+    _updatedAt,
     mainImage,
     category-> { title, slug },
     tags,

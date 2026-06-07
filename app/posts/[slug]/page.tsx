@@ -20,6 +20,7 @@ type Post = {
   excerpt: string | null
   body: unknown[]
   publishedAt: string | null
+  _updatedAt: string | null
   mainImage: unknown
   category: { title: string; slug: { current: string } } | null
   tags: string[] | null
@@ -241,14 +242,24 @@ export default async function PostPage({ params }: Props) {
         {post.title}
       </h1>
 
-      {/* 公開日 */}
-      {post.publishedAt && (
-        <p className="text-sm text-gray-400 mb-6">
-          {new Date(post.publishedAt).toLocaleDateString('ja-JP', {
-            year: 'numeric', month: 'long', day: 'numeric',
-          })}
-        </p>
-      )}
+      {/* 公開日・更新日 */}
+      <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gray-400 mb-6">
+        {post.publishedAt && (
+          <span>
+            公開日：{new Date(post.publishedAt).toLocaleDateString('ja-JP', {
+              year: 'numeric', month: 'long', day: 'numeric',
+            })}
+          </span>
+        )}
+        {post._updatedAt && post.publishedAt &&
+          new Date(post._updatedAt).toDateString() !== new Date(post.publishedAt).toDateString() && (
+          <span>
+            更新日：{new Date(post._updatedAt).toLocaleDateString('ja-JP', {
+              year: 'numeric', month: 'long', day: 'numeric',
+            })}
+          </span>
+        )}
+      </div>
 
       {/* アイキャッチ画像 */}
       {post.mainImage ? (
