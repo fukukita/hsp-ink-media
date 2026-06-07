@@ -5,6 +5,8 @@ import LineCta from '@/components/LineCta'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 
+export const revalidate = 0
+
 type Props = { params: Promise<{ slug: string }> }
 
 type Category = {

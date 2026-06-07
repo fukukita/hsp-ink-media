@@ -3,6 +3,8 @@ import { postsQuery, categoriesQuery } from '@/sanity/lib/queries'
 import PostCard from '@/components/PostCard'
 import type { Metadata } from 'next'
 
+export const revalidate = 0
+
 export const metadata: Metadata = {
   title: '新着記事',
   description: 'HSS型HSPに寄り添うメディア「HSP Partner」の記事一覧。気質を活かして自分らしく生きるヒントを届けています。',

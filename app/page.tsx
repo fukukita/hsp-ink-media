@@ -5,6 +5,9 @@ import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
 import { HERO_IMAGE_URL, HERO_COPY } from '@/lib/site'
 
+// Sanityで記事を公開するたびに最新データを反映させるため、常に動的レンダリングに設定
+export const revalidate = 0
+
 type Post = {
   _id: string
   title: string
