@@ -32,7 +32,7 @@ export default async function Home() {
   return (
     <div>
       {/* ===== 固定ヒーロー（記事に依存しない・キャッチコピーは変わらない） ===== */}
-      <section className="relative overflow-hidden h-[72vh] lg:h-[86vh] min-h-[520px] bg-brand-100">
+      <section className="relative overflow-hidden h-[72vh] lg:h-[86vh] min-h-[520px] max-h-[700px] bg-brand-100">
         {/* フルブリード背景画像 */}
         <Image
           src={HERO_IMAGE_URL}
