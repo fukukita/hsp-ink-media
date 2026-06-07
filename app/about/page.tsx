@@ -24,7 +24,7 @@ export default function AboutPage() {
       {/* ヒーロー写真（後ろ姿） */}
       <div className="relative w-full max-w-3xl mx-auto aspect-[4/3] sm:aspect-[16/10] sm:rounded-2xl overflow-hidden bg-brand-100 sm:mt-8">
         <Image
-          src="/images/fukukita01.jpg"
+          src="/images/fukukita-for-profile-page02.jpg"
           alt="ふくきた｜才気道 家元"
           fill
           priority
