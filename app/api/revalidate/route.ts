@@ -10,9 +10,11 @@ export async function POST(req: NextRequest) {
 
   try {
     // 全ページのキャッシュを破棄して再生成を強制する
-    revalidatePath('/', 'layout')   // 全ページ共通
-    revalidatePath('/', 'page')     // トップページ
-    revalidatePath('/posts', 'page') // 記事一覧
+    revalidatePath('/', 'layout')         // 全ページ共通（rootレイアウト配下すべて）
+    revalidatePath('/', 'page')           // トップページ
+    revalidatePath('/posts', 'page')      // 記事一覧
+    revalidatePath('/posts/[slug]', 'page') // 個別記事ページ（全スラッグ対象）
+    revalidatePath('/category/[slug]', 'page') // カテゴリページ
 
     return NextResponse.json({ revalidated: true, now: Date.now() })
   } catch (err) {
