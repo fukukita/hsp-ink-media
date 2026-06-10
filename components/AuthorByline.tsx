@@ -31,6 +31,9 @@ export default function AuthorByline({ publishedAt, updatedAt }: Props) {
       />
       <div className="min-w-0">
         <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
+          <span className="text-[11px] font-bold text-brand-600 bg-brand-50 px-1.5 py-0.5 rounded">
+            著者
+          </span>
           <a
             href="/about"
             className="font-bold text-ink text-sm hover:text-brand-600 transition-colors"
