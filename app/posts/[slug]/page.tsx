@@ -9,6 +9,7 @@ import PostCard from '@/components/PostCard'
 import LineCta from '@/components/LineCta'
 import LineBanner from '@/components/LineBanner'
 import AuthorBox from '@/components/AuthorBox'
+import AuthorByline from '@/components/AuthorByline'
 import { notFound } from 'next/navigation'
 
 type Props = { params: Promise<{ slug: string }> }
@@ -242,24 +243,8 @@ export default async function PostPage({ params }: Props) {
         {post.title}
       </h1>
 
-      {/* 公開日・更新日 */}
-      <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-sm text-gray-400 mb-6">
-        {post.publishedAt && (
-          <span>
-            公開日：{new Date(post.publishedAt).toLocaleDateString('ja-JP', {
-              year: 'numeric', month: 'long', day: 'numeric',
-            })}
-          </span>
-        )}
-        {post._updatedAt && post.publishedAt &&
-          new Date(post._updatedAt).toDateString() !== new Date(post.publishedAt).toDateString() && (
-          <span>
-            更新日：{new Date(post._updatedAt).toLocaleDateString('ja-JP', {
-              year: 'numeric', month: 'long', day: 'numeric',
-            })}
-          </span>
-        )}
-      </div>
+      {/* 著者バイライン（公開日・更新日を含む） */}
+      <AuthorByline publishedAt={post.publishedAt} updatedAt={post._updatedAt} />
 
       {/* アイキャッチ画像 */}
       {post.mainImage ? (
