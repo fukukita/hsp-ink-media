@@ -48,12 +48,9 @@ export default function PostCard({ post }: { post: Post }) {
             {post.category.title}
           </span>
         )}
-        <h3 className="mt-2 font-bold text-ink leading-snug line-clamp-2 group-hover:text-brand-600 transition-colors">
+        <h3 className="mt-2 font-bold text-ink leading-snug line-clamp-2 min-h-[2.75rem] group-hover:text-brand-600 transition-colors">
           {post.title}
         </h3>
-        {post.excerpt && (
-          <p className="mt-2 text-sm text-gray-500 line-clamp-2">{post.excerpt}</p>
-        )}
         {post.publishedAt && (
           <p className="mt-3 text-xs text-gray-400">
             {new Date(post.publishedAt).toLocaleDateString('ja-JP')}
