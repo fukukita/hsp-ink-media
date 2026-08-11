@@ -62,11 +62,12 @@ export default function RootLayout({
               <Logo />
             </a>
             <nav className="hidden lg:flex items-center gap-1 text-sm text-gray-600">
-              <a href="/category/hss-hsp" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">HSS型HSPとは</a>
+              <a href="/category/hss-hsp" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">気質を知る</a>
               <a href="/category/work" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">仕事・キャリア</a>
               <a href="/category/relationships" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">人間関係</a>
               <a href="/category/habits" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">消耗しない習慣</a>
               <a href="/category/strengths" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">強みを活かす</a>
+              <a href="/category/mind-care" className="px-3.5 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">心の整え方</a>
             </nav>
             <a
               href={LINE_URL}
@@ -79,11 +80,12 @@ export default function RootLayout({
           </div>
           {/* タブレット・モバイル用カテゴリナビ */}
           <nav className="lg:hidden flex gap-1 overflow-x-auto px-4 pb-2 text-sm text-gray-600 whitespace-nowrap scrollbar-none">
-            <a href="/category/hss-hsp" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">HSS型HSPとは</a>
+            <a href="/category/hss-hsp" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">気質を知る</a>
             <a href="/category/work" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">仕事・キャリア</a>
             <a href="/category/relationships" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">人間関係</a>
             <a href="/category/habits" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">消耗しない習慣</a>
             <a href="/category/strengths" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">強みを活かす</a>
+            <a href="/category/mind-care" className="px-3 py-2 rounded-lg hover:bg-brand-50 hover:text-brand-600 transition-colors">心の整え方</a>
           </nav>
         </header>
         <main className="flex-1">{children}</main>

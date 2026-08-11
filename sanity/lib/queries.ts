@@ -9,6 +9,7 @@ export const postsQuery = groq`
     excerpt,
     publishedAt,
     mainImage,
+    audience,
     category-> { title, slug },
     tags
   }
@@ -23,6 +24,7 @@ export const postsByCategoryQuery = groq`
     excerpt,
     publishedAt,
     mainImage,
+    audience,
     category-> { title, slug },
     tags
   }

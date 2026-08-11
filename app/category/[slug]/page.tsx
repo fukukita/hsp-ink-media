@@ -7,7 +7,12 @@ import { notFound } from 'next/navigation'
 
 export const revalidate = 0
 
-type Props = { params: Promise<{ slug: string }> }
+type Audience = 'hsp' | 'hss-hsp' | 'both'
+
+type Props = {
+  params: Promise<{ slug: string }>
+  searchParams: Promise<{ audience?: string }>
+}
 
 type Category = {
   _id: string
@@ -23,9 +28,16 @@ type Post = {
   excerpt: string | null
   publishedAt: string | null
   mainImage: unknown
+  audience?: Audience
   category: { title: string; slug: { current: string } } | null
   tags: string[] | null
 }
+
+const AUDIENCE_TABS: { value: Audience | 'all'; label: string }[] = [
+  { value: 'all', label: 'すべて' },
+  { value: 'hss-hsp', label: 'HSS型HSP向け' },
+  { value: 'hsp', label: 'HSP向け' },
+]
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
@@ -38,14 +50,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default async function CategoryPage({ params }: Props) {
+export default async function CategoryPage({ params, searchParams }: Props) {
   const { slug } = await params
-  const [posts, categories] = await Promise.all([
+  const { audience: audienceParam } = await searchParams
+  const audience: Audience | 'all' =
+    audienceParam === 'hsp' || audienceParam === 'hss-hsp' ? audienceParam : 'all'
+
+  const [allPosts, categories] = await Promise.all([
     client.fetch<Post[]>(postsByCategoryQuery, { categorySlug: slug }),
     client.fetch<Category[]>(categoriesQuery),
   ])
   const category = categories.find((c) => c.slug.current === slug)
   if (!category) notFound()
+
+  const posts =
+    audience === 'all'
+      ? allPosts
+      : allPosts.filter((p) => p.audience === audience || p.audience === 'both')
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
@@ -58,15 +79,40 @@ export default async function CategoryPage({ params }: Props) {
 
       <h1 className="text-2xl font-bold text-ink mb-2">{category.title}</h1>
       {category.description && (
-        <p className="text-gray-500 mb-8">{category.description}</p>
+        <p className="text-gray-500 mb-6">{category.description}</p>
       )}
+
+      {/* 対象読者フィルター */}
+      <div className="flex flex-wrap gap-2 mb-4">
+        {AUDIENCE_TABS.map((tab) => (
+          <a
+            key={tab.value}
+            href={
+              tab.value === 'all'
+                ? `/category/${slug}`
+                : `/category/${slug}?audience=${tab.value}`
+            }
+            className={`px-3.5 py-1.5 rounded-full text-xs font-bold transition-colors ${
+              audience === tab.value
+                ? 'bg-ink text-white'
+                : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
+            }`}
+          >
+            {tab.label}
+          </a>
+        ))}
+      </div>
 
       {/* カテゴリナビ */}
       <div className="flex flex-wrap gap-2 mb-8">
         {categories.map((cat) => (
           <a
             key={cat._id}
-            href={`/category/${cat.slug.current}`}
+            href={
+              audience === 'all'
+                ? `/category/${cat.slug.current}`
+                : `/category/${cat.slug.current}?audience=${audience}`
+            }
             className={`px-4 py-1.5 rounded-full text-sm transition-colors ${
               cat.slug.current === slug
                 ? 'bg-brand-500 text-white'
@@ -80,7 +126,7 @@ export default async function CategoryPage({ params }: Props) {
 
       {/* 記事一覧 */}
       {posts.length === 0 ? (
-        <p className="text-gray-400">この カテゴリの記事はまだありません。</p>
+        <p className="text-gray-400">このテーマの記事はまだありません。</p>
       ) : (
         <div className="grid gap-6 sm:grid-cols-2">
           {posts.map((post) => (

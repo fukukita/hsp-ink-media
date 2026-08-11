@@ -32,8 +32,23 @@ export const post = defineType({
       options: { hotspot: true },
     }),
     defineField({
+      name: 'audience',
+      title: '対象読者',
+      type: 'string',
+      options: {
+        list: [
+          { title: 'HSP向け', value: 'hsp' },
+          { title: 'HSS型HSP向け', value: 'hss-hsp' },
+          { title: '両方向け', value: 'both' },
+        ],
+        layout: 'radio',
+      },
+      initialValue: 'hss-hsp',
+      validation: (Rule) => Rule.required(),
+    }),
+    defineField({
       name: 'category',
-      title: 'カテゴリ',
+      title: 'カテゴリ（テーマ）',
       type: 'reference',
       to: [{ type: 'category' }],
     }),

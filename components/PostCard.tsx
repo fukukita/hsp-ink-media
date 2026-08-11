@@ -1,6 +1,8 @@
 import Image from 'next/image'
 import { urlForImage } from '@/sanity/lib/image'
 
+type Audience = 'hsp' | 'hss-hsp' | 'both'
+
 type Post = {
   _id: string
   title: string
@@ -8,7 +10,14 @@ type Post = {
   excerpt: string | null
   publishedAt: string | null
   mainImage?: unknown
+  audience?: Audience
   category: { title: string; slug: { current: string } } | null
+}
+
+const AUDIENCE_LABEL: Record<Audience, string> = {
+  hsp: 'HSP',
+  'hss-hsp': 'HSS型HSP',
+  both: 'HSP・HSS型HSP',
 }
 
 export default function PostCard({ post }: { post: Post }) {
@@ -43,11 +52,18 @@ export default function PostCard({ post }: { post: Post }) {
       </div>
 
       <div className="p-5">
-        {post.category && (
-          <span className="text-xs text-brand-600 font-medium bg-brand-50 px-2 py-0.5 rounded-full">
-            {post.category.title}
-          </span>
-        )}
+        <div className="flex flex-wrap items-center gap-1.5">
+          {post.audience && (
+            <span className="text-xs text-gray-500 font-medium bg-gray-100 px-2 py-0.5 rounded-full">
+              {AUDIENCE_LABEL[post.audience]}
+            </span>
+          )}
+          {post.category && (
+            <span className="text-xs text-brand-600 font-medium bg-brand-50 px-2 py-0.5 rounded-full">
+              {post.category.title}
+            </span>
+          )}
+        </div>
         <h3 className="mt-2 font-bold text-ink leading-snug line-clamp-2 min-h-[2.75rem] group-hover:text-brand-600 transition-colors">
           {post.title}
         </h3>

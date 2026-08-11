@@ -1,12 +1,14 @@
 import { client } from '@/sanity/lib/client'
 import { postsQuery, categoriesQuery } from '@/sanity/lib/queries'
 import Image from 'next/image'
-import PostCard from '@/components/PostCard'
+import AudienceExplorer from '@/components/AudienceExplorer'
 import LineCta from '@/components/LineCta'
 import { HERO_IMAGE_URL, HERO_COPY } from '@/lib/site'
 
 // Sanityで記事を公開するたびに最新データを反映させるため、常に動的レンダリングに設定
 export const revalidate = 0
+
+type Audience = 'hsp' | 'hss-hsp' | 'both'
 
 type Post = {
   _id: string
@@ -15,6 +17,7 @@ type Post = {
   excerpt: string | null
   publishedAt: string | null
   mainImage: unknown
+  audience?: Audience
   category: { title: string; slug: { current: string } } | null
   tags: string[] | null
 }
@@ -86,43 +89,8 @@ export default async function Home() {
       </section>
 
       <div className="max-w-5xl mx-auto px-6 py-16">
-        {/* ===== テーマから探す ===== */}
-        {categories.length > 0 && (
-          <section className="mb-16">
-            <h2 className="font-serif text-xl font-bold text-ink mb-6">テーマから探す</h2>
-            <div className="flex flex-wrap gap-3">
-              {categories.map((cat) => (
-                <a
-                  key={cat._id}
-                  href={`/category/${cat.slug.current}`}
-                  className="px-5 py-2.5 rounded-full border border-gray-200 text-sm text-gray-600 bg-white hover:border-brand-400 hover:text-brand-600 transition-all"
-                >
-                  {cat.title}
-                </a>
-              ))}
-            </div>
-          </section>
-        )}
-
-        {/* ===== 新着記事（最新3本） ===== */}
-        {posts.length > 0 && (
-          <section>
-            <div className="flex items-center justify-between mb-6">
-              <h2 className="font-serif text-xl font-bold text-ink">新着記事</h2>
-              <a
-                href="/posts"
-                className="text-sm text-brand-600 hover:text-brand-700 transition-colors font-medium"
-              >
-                すべて見る →
-              </a>
-            </div>
-            <div className="grid gap-7 sm:grid-cols-2 lg:grid-cols-3">
-              {posts.slice(0, 3).map((post) => (
-                <PostCard key={post._id} post={post} />
-              ))}
-            </div>
-          </section>
-        )}
+        {/* ===== 読者切り替えタブ＋新着記事＋テーマから探す ===== */}
+        <AudienceExplorer posts={posts} categories={categories} />
 
         {/* ===== 運営者プロフィール ===== */}
         <section className="mt-16">
