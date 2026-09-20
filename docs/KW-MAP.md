@@ -16,7 +16,9 @@
 | shokuba-kizutsuku | HSP 職場 傷つく | HSP 注意されると落ち込む（320）。補助：怒られたことが頭から離れない 140 | hsp | △ |
 | aruaru（下書き） | HSS型HSP あるある | 同じ（1,000） | hss-hsp | △ 加筆 |
 | ikizurai-gradation | HSS型HSP 生きづらい | 生きづらい＋しんどい（390） | hss-hsp | △ |
-| shikou-seiri | HSS型HSP 思考整理 | 候補：HSP 考えすぎてしまう（720）。調査後に決定 | both？ | △ |
+| shikou-seiri | HSS型HSP 思考整理 | HSS型HSP 頭の中 ごちゃごちゃ（書き出しに無し。上位はnote中心で取りやすい） | hss-hsp | △ |
+| （新規） | — | HSP 考えすぎてしまう（720）。既存の思考整理とは意図が別（感情の受容＋止める対処法） | both | 新規 |
+| （新規） | — | HSS型HSP 変わってる（720） | hss-hsp | 新規 |
 | zero-ichi | HSS型HSP 0→1 1→10 | HSS型HSP 仕事 続かない（40。HSP全般は390） | hss-hsp | △ |
 | ningenkankei | HSS型HSP 人間関係 | 同じ（50）。新規候補：嫌われる 390／友達いない 320 | hss-hsp | △ |
 | soudan | HSS型HSP 相談 | 案：HSP 相談できない／誰に相談（相談したい側）。要確認 | both | ✕ |
