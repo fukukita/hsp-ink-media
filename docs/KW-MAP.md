@@ -5,6 +5,42 @@
 > 2026-08-11 カテゴリ再編：「HSS型HSPとは」→「気質を知る」に改名（中立化、HSP記事の受け皿）。「心の整え方」を新設し、自己肯定感・セルフイメージ系4本（jiko-koteikan, self-image, shippai, jiko-rikai）を「強みを活かす」から移動。あわせて全記事に対象読者（audience）フィールドを追加、既存32本はすべて「hss-hsp」。以下の表の「カテゴリ」列は当時のままの箇所があるため、最新のカテゴリ構成はSanity側を正とする。
 カニバリ（同一KWの重複）を防ぐため、着手前に必ずこの表を確認すること。
 
+> **2026-09-20 監査（docs/audit-2026-09-20/report.md）**：全記事の対策KWを Keyword Tool の書き出し（docs/kw/）と上位調査（docs/serp/）で突き合わせた。以下は監査後の対策KWの案（ふくきたさんの承認待ち。承認後に下の表を書き換える）。
+
+| slug | 旧KW | 新KW（案） | 読者 | 判定 |
+|---|---|---|---|---|
+| muiteru-shigoto | HSS型HSP 向いてる仕事 | 同じ（880） | hss-hsp | ✕ 作り直し |
+| towa | HSS型HSPとは | 同じ（4,400）。補助：特徴 480／何人に1人 320 | hss-hsp | △ |
+| tsukareyasui | HSS型HSP 疲れやすい | 疲れやすい（20）＋補助：キャパオーバー 480／限界サイン 480 | hss-hsp | △ |
+| kishitsu-shippai | HSS型HSP 失敗 | HSP 失敗 引きずる（320） | both | △ |
+| shokuba-kizutsuku | HSP 職場 傷つく | HSP 注意されると落ち込む（320）。補助：怒られたことが頭から離れない 140 | hsp | △ |
+| aruaru（下書き） | HSS型HSP あるある | 同じ（1,000） | hss-hsp | △ 加筆 |
+| ikizurai-gradation | HSS型HSP 生きづらい | 生きづらい＋しんどい（390） | hss-hsp | △ |
+| shikou-seiri | HSS型HSP 思考整理 | 候補：HSP 考えすぎてしまう（720）。調査後に決定 | both？ | △ |
+| zero-ichi | HSS型HSP 0→1 1→10 | HSS型HSP 仕事 続かない（40。HSP全般は390） | hss-hsp | △ |
+| ningenkankei | HSS型HSP 人間関係 | 同じ（50）。新規候補：嫌われる 390／友達いない 320 | hss-hsp | △ |
+| soudan | HSS型HSP 相談 | 案：HSP 相談できない／誰に相談（相談したい側）。要確認 | both | ✕ |
+| jiko-sekinin | HSS型HSP 自己責任 | HSP 自分を責める（検索量未確認） | both | ✕ |
+| idea | HSS型HSP アイデア | HSS型HSP 頭の回転（480） | hss-hsp | △ |
+| kaishain | HSS型HSP 会社員 | HSS型HSP 会社員 向いてない（shokuba-hyouka を吸収） | hss-hsp | △ |
+| tsuyomi | HSS型HSP 強み | 同じ（10。chosho-tansho を吸収） | hss-hsp | △ |
+| fukugyou | HSS型HSP 副業 | 同じ（10） | hss-hsp | △ |
+| yotei-yohaku | HSS型HSP 予定 | HSP 予定があると落ち着かない（140） | both | △ |
+| mistake | HSS型HSP ケアレスミス | HSP 仕事 ミスが多い（検索量未確認） | both | △ |
+| rikai-sarenai | HSS型HSP 理解されない | 同じ（10。HSP側は90） | hss-hsp | △ |
+| jiko-koteikan | HSS型HSP 自己肯定感 | 同じ | hss-hsp | ○ |
+| self-image | HSP セルフイメージ | 同じ（読者設定を both に） | both | ○ |
+| jiko-rikai | HSS型HSP 自己理解 | HSS型HSP やりたいことがわからない | hss-hsp | ○ |
+| kanrishoku | HSS型HSP 管理職 | 同じ（10） | hss-hsp | ○ |
+| tairyoku | HSS型HSP 体力 | HSP 体力がない（30） | both | △ |
+| smartphone | HSS型HSP スマホ | HSP スマホ 疲れる（検索量未確認） | both | ○ |
+| tsutaekata（下書き） | HSS型HSP 伝え方 | HSP 話がまとまらない（検索量未確認） | both | △ |
+| shokuba-hyouka | HSS型HSP 職場・評価 | KW無し → kaishain に統合、※お蔵入り | — | ✕ |
+| chosho-tansho | HSS型HSP 長所・短所 | KW無し → tsuyomi に統合、※お蔵入り | — | ✕ |
+| keiken-tsumiagaranai（下書き） | HSS型HSP 経験が積み上がらない | KW無し → jiko-rikai・zero-ichi に統合、※お蔵入り | — | ✕ |
+| akisho-tsukiaikata | HSS型HSP 飽き性 | 同じ（20） | hss-hsp | ○ |
+
+
 戦略の詳細は `docs/STRATEGY.md` を参照。
 
 ---
