@@ -1,0 +1,929 @@
+{
+  "published": {
+    "_createdAt": "2026-06-06T01:48:18Z",
+    "_id": "ad5cb9ce-c03b-429d-94b7-d3638c4b3f76",
+    "_rev": "tBcogDXojUmA6UVKksRxDX",
+    "_system": {
+      "base": {
+        "id": "ad5cb9ce-c03b-429d-94b7-d3638c4b3f76",
+        "rev": "dnTQu44qsvlQi39J9iy9pg"
+      }
+    },
+    "_type": "post",
+    "_updatedAt": "2026-09-20T17:26:37Z",
+    "audience": "hss-hsp",
+    "body": [
+      {
+        "_key": "t01",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t01s",
+            "_type": "span",
+            "marks": [],
+            "text": "「人と会うのは好きなのに、家に帰るとぐったりして動けない」"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t02",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t02s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPの方なら、この感覚に覚えがあるのではないでしょうか。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t03",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t03s",
+            "_type": "span",
+            "marks": [],
+            "text": "好奇心のままにあちこち動き回り、興味のあることにはのめり込む。それなのに、気づけばエネルギーが切れて潰れてしまう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t04",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t04s",
+            "_type": "span",
+            "marks": [],
+            "text": "刺激を求めて出かけていくのに、人一倍疲れてしまう。この矛盾こそ、HSS型HSPが抱える消耗の正体です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t05",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t05s",
+            "_type": "span",
+            "marks": [],
+            "text": "まずは、こんな心当たりがないか振り返ってみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t06",
+        "_type": "checklist",
+        "items": [
+          "好奇心のままに予定を詰め込み、あとでどっと疲れる",
+          "人と会うのは好きなのに、帰宅するとぐったりして動けない",
+          "静かな場所でも、周りの音や視線が気になって消耗する",
+          "平日を乗り切るだけで精一杯で、やりたいことに手が回らない",
+          "「これくらいで疲れる自分は弱い」と責めてしまう"
+        ]
+      },
+      {
+        "_key": "t07",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t07s",
+            "_type": "span",
+            "marks": [],
+            "text": "一つでも当てはまるなら、あなたの疲れやすさは性格の問題ではありません。HSS型HSPという気質の仕組みから、自然に起きていることです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t08",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t08a",
+            "_type": "span",
+            "marks": [],
+            "text": "気質そのものについては、"
+          },
+          {
+            "_key": "t08b",
+            "_type": "span",
+            "marks": [
+              "tlnk1"
+            ],
+            "text": "HSS型HSPの生きづらさは「濃淡」で変わる"
+          },
+          {
+            "_key": "t08c",
+            "_type": "span",
+            "marks": [],
+            "text": "でも整理しています。あわせてご覧ください。"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "tlnk1",
+            "_type": "link",
+            "blank": false,
+            "href": "https://hsp.ink/posts/hss-hsp-ikizurai-gradation"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t10",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t10s",
+            "_type": "span",
+            "marks": [],
+            "text": "なぜHSS型HSPはこんなに疲れやすいのか"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t11s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPが疲れやすいのには、はっきりとした理由があります。それは「刺激を求める力」と「刺激に弱い繊細さ」を同時に持っているからです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t12",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t12s",
+            "_type": "span",
+            "marks": [],
+            "text": "一見正反対のこの2つが、いつも体のなかで綱引きをしています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t13s",
+            "_type": "span",
+            "marks": [],
+            "text": "刺激を求めるアクセルと繊細なブレーキ"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "t14",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t14s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型のあなたは、新しいことや刺激を求めて前に進もうとします。これは強力なアクセルです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t15s",
+            "_type": "span",
+            "marks": [],
+            "text": "一方でHSPの繊細さは、その刺激から大きなダメージを受けます。こちらはブレーキの役割です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t16",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t16s",
+            "_type": "span",
+            "marks": [],
+            "text": "アクセルとブレーキを同時に踏み続ければ、エンジンには大きな負荷がかかります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t16b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t16bs",
+            "_type": "span",
+            "text": "全力で進もうとしているのに、内側ではブレーキも踏んでいる。だからこそ人一倍エネルギーを使ってしまうのです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t17s",
+            "_type": "span",
+            "marks": [],
+            "text": "受け取る情報量が多く脳がオーバーヒートする"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "t18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t18s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSPの気質があると、感受性が高く、周りの情報を無意識に拾い続けます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t19s",
+            "_type": "span",
+            "marks": [],
+            "text": "声のトーン、表情、場の空気、ちょっとした物音。普通なら流せる刺激も、敏感にキャッチしてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t20s",
+            "_type": "span",
+            "marks": [],
+            "text": "しかも、受け取った情報を一つひとつ深く処理しようとします。つまり、ただそこにいるだけで脳のメモリを大量に消費している状態です。これでは疲れて当然です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t21s",
+            "_type": "span",
+            "marks": [],
+            "text": "「気合」で乗り切ろうとすると逆効果になる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t22s",
+            "_type": "span",
+            "marks": [],
+            "text": "疲れているとき、多くの人は「気合が足りない」と考えてしまいます。しかしHSS型HSPの場合、気合で消耗を乗り切ろうとするのは悪手です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t23s",
+            "_type": "span",
+            "marks": [],
+            "text": "無理を重ねると、ある日ふっとエネルギーが切れて、しばらく動けなくなります。燃え尽きてから休むのでは、回復にも時間がかかります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t24s",
+            "_type": "span",
+            "marks": [],
+            "text": "大切なのは、疲れてから回復することではありません。疲れすぎる前に、エネルギーを守る仕組みを持っておくことです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t25s",
+            "_type": "span",
+            "marks": [],
+            "text": "エネルギーを取り戻す日常のメンテナンス"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t26",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t26s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPにとって、休息は「サボり」ではありません。高性能で繊細なマシンを動かし続けるための、冷却とメンテナンスです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t27s",
+            "_type": "span",
+            "marks": [],
+            "text": "特別なことは必要なく、土台となる習慣を整えるだけで消耗はかなり変わります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t28s",
+            "_type": "span",
+            "marks": [],
+            "text": "睡眠を「最優先の予定」にする"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "t29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t29s",
+            "_type": "span",
+            "marks": [],
+            "text": "まず見直したいのが睡眠です。HSS型HSPは脳のクールダウンに時間がかかるため、睡眠を削ると翌日のパフォーマンスが大きく落ちます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t30",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t30s",
+            "_type": "span",
+            "marks": [],
+            "text": "「余った時間に寝る」のではなく「寝る時間を先に確保する」と順番を逆にしてみてください。睡眠は削るものではなく、死守するものです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t31s",
+            "_type": "span",
+            "marks": [],
+            "text": "入浴で強制的にリラックスする"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "t32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t32s",
+            "_type": "span",
+            "marks": [],
+            "text": "次におすすめなのが入浴です。シャワーで済ませず、湯船に浸かって体を温めると、緊張モードからリラックスモードへ切り替わりやすくなります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t33s",
+            "_type": "span",
+            "marks": [],
+            "text": "一日中張りつめていた神経を意図的にゆるめる時間を作るイメージです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t34",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t34s",
+            "_type": "span",
+            "marks": [],
+            "text": "栄養と運動で「土台」をつくる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "t35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t35s",
+            "_type": "span",
+            "marks": [],
+            "text": "体は、食べたものと動いた分でできています。栄養が偏ると、それだけで疲れやすくなり、集中力も続きません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t36",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t36s",
+            "_type": "span",
+            "marks": [],
+            "text": "軽い運動やストレッチで血流を促すだけでも、回復力は変わってきます。派手な対策よりも、こうした土台づくりのほうが効いてきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t37",
+        "_type": "lineCallout",
+        "text": "睡眠・入浴・運動。どれも大事ですが、本当に効く配分は人によって違います。あなたに合った消耗対策を一緒に見つけませんか。"
+      },
+      {
+        "_key": "t38",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t38s",
+            "_type": "span",
+            "marks": [],
+            "text": "疲れる前に「刺激を減らす」発想を持つ"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t39s",
+            "_type": "span",
+            "marks": [],
+            "text": "回復と同じくらい大切なのが、そもそも受け取る刺激を減らすことです。HSS型HSPは刺激を足すのは得意ですが、引くのは苦手です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t40",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t40s",
+            "_type": "span",
+            "marks": [],
+            "text": "予定を詰め込みすぎていないか。常に音や人の中に身を置いていないか。一度見直してみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t41",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t41s",
+            "_type": "span",
+            "marks": [],
+            "text": "何もしない時間をあえて予定に入れるだけでも、消耗のスピードは大きく変わります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "tr01",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr01s",
+            "_type": "span",
+            "text": "もう一歩進んだ回復の小ワザ"
+          }
+        ],
+        "style": "h2"
+      },
+      {
+        "_key": "tr02",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr02s",
+            "_type": "span",
+            "text": "睡眠や入浴に加えて、日中の消耗をこまめにリセットする工夫もあります。どれも今日から試せる小さな習慣です。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr03",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr03s",
+            "_type": "span",
+            "text": "昼寝（パワーナップ）で脳をリセットする"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "tr04",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr04s",
+            "_type": "span",
+            "text": "日中に頭が重くなったら、短い昼寝が効きます。とくに脳をフル稼働させるHSS型HSPは、午後の一回のリセットでパフォーマンスが大きく変わります。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr05",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr05s",
+            "_type": "span",
+            "text": "15～20分ほど目を閉じるだけでも十分です。昼寝をした日としない日では、午後の集中力に雲泥の差が出ます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr06",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr06s",
+            "_type": "span",
+            "text": "会社で横になれなくても、デスクで少し目を閉じるだけでも構いません。短い休止が、夕方の消耗を防いでくれます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr07",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr07s",
+            "_type": "span",
+            "text": "血糖値の乱高下を防ぐ"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "tr08",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr08s",
+            "_type": "span",
+            "text": "食後に強烈な眠気やだるさを感じるなら、血糖値の急上昇が原因かもしれません。甘いものや炭水化物を一気に取ると、血糖値が乱高下し、強い眠気と疲労を招きます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr09",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr09s",
+            "_type": "span",
+            "text": "間食の甘いものを控えめにし、食事をゆっくり取るだけでも、午後の消耗は変わります。エネルギー切れを防ぐ、地味だけれど効く習慣です。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr10",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr10s",
+            "_type": "span",
+            "text": "自律神経を意識的にゆるめる"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "tr11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr11s",
+            "_type": "span",
+            "text": "HSS型HSPの疲れは、神経の緊張からくる部分も大きいもの。だからこそ、副交感神経を優位にする時間を意図的に作るのが効果的です。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr12",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr12s",
+            "_type": "span",
+            "text": "深呼吸、ストレッチ、軽い瞑想（マインドフルネス）。どれも数分でできて、高ぶった神経を鎮めてくれます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "tr13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "tr13s",
+            "_type": "span",
+            "text": "一日のどこかに、意識的に「ゆるめる」スイッチを入れる。それだけで、疲れの抜け方が変わってきます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "t42",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t42s",
+            "_type": "span",
+            "marks": [],
+            "text": "まとめ｜疲れやすさは「守り方」で変えられる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "t43",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t43s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPが疲れやすいのは、刺激を求める気質と繊細さを併せ持っているからです。能力が低いわけでも、気合が足りないわけでもありません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t44",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t44s",
+            "_type": "span",
+            "marks": [],
+            "text": "エネルギーの守り方さえ身につければ、消耗はぐっと減らせます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t45",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t45s",
+            "_type": "span",
+            "marks": [],
+            "text": "疲れやすさは性格ではなく、気質の仕組みから来ている"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t46",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t46s",
+            "_type": "span",
+            "marks": [],
+            "text": "気合で乗り切らず、疲れすぎる前に回復の習慣を持つ"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t47",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t47s",
+            "_type": "span",
+            "marks": [],
+            "text": "睡眠・入浴・栄養・運動という土台を整える"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t48",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t48s",
+            "_type": "span",
+            "marks": [],
+            "text": "受け取る刺激そのものを「引く」発想を持つ"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t49",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t49s",
+            "_type": "span",
+            "marks": [],
+            "text": "とはいえ、どの対策をどの順番で取り入れるかは、人によって最適解が違います。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "t50",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "t50s",
+            "_type": "span",
+            "marks": [],
+            "text": "自分に合ったエネルギーの守り方を知りたい方は、公式LINEをのぞいてみてください。同じ気質の視点から、消耗を減らすヒントを配信しています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "_ref": "category-habits",
+      "_type": "reference"
+    },
+    "excerpt": "刺激を求めて動くのに、人一倍疲れてしまう。HSS型HSPの疲れやすさは性格ではなく気質です。なぜ消耗するのかと、エネルギーを守る考え方を当事者の視点で整理します。",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-8c6362bdd00ee3b20b0098b0768180651d3ea540-1024x572-jpg",
+        "_type": "reference"
+      }
+    },
+    "publishedAt": "2026-06-06T03:00:00.000Z",
+    "relatedPosts": [
+      {
+        "_key": "trel1",
+        "_ref": "0f70de70-62a5-43a7-ac9e-d1bbdbda5ecc",
+        "_type": "reference"
+      },
+      {
+        "_key": "trel2",
+        "_ref": "3cdc3d5c-1c46-4f79-a01d-be39c966bb95",
+        "_type": "reference"
+      }
+    ],
+    "seoDescription": "HSS型HSPは刺激を求めて動くのに繊細ですぐ疲れます。この矛盾した気質ゆえに人一倍消耗するのです。なぜ疲れやすいのかという理由と、エネルギーを回復し温存する日常の工夫を当事者の視点で解説します。",
+    "seoTitle": "HSS型HSPが疲れやすい理由｜刺激追求×繊細の消耗対策",
+    "slug": {
+      "_type": "slug",
+      "current": "hss-hsp-tsukareyasui"
+    },
+    "tags": [
+      "HSS型HSP",
+      "疲れる",
+      "疲れやすい",
+      "消耗",
+      "HSP",
+      "休息"
+    ],
+    "title": "HSS型HSPが疲れやすいのは気質｜消耗を防ぐエネルギーの守り方"
+  }
+}
