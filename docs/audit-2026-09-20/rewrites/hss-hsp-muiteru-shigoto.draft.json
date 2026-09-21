@@ -1,0 +1,2569 @@
+{
+  "_id": "drafts.709ad8ee-ffd5-45f4-9cbb-b42c2cf65040",
+  "_system": {
+    "base": {
+      "id": "709ad8ee-ffd5-45f4-9cbb-b42c2cf65040",
+      "rev": "y4BywqEWcbqV9HpVgmyYY2"
+    }
+  },
+  "_type": "post",
+  "audience": "hss-hsp",
+  "body": [
+    {
+      "_type": "block",
+      "_key": "f9e778f4b579",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7954cb5aba20",
+          "text": "「自分はサラリーマンに向いていないのではないか」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "290d18585135",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2bf055edb42c",
+          "text": "最初は夢中で取り組んだ仕事なのに、慣れた途端に飽きてしまう。細かく管理される環境だと、力を出しきれない。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f7b35c906c1c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6a93381d2a1c",
+          "text": "その結果、転職を繰り返して「自分はどこでも通用しないのでは」と落ち込む。このように感じたことはありませんか。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "eb2698f236d4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8b4b5c633492",
+          "text": "HSS型HSPであれば、仕事選びで悩んだ経験が一度はあると思います。私も20代は短期離職の連続で、営業会社では半年も持ちませんでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5bb26d231374",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9d55710ed812",
+          "text": "ただ、合わないのは「特定の働き方」です。自分の気質が活きる条件さえ分かれば、向いてる仕事は見つかります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "39df95f3f1a7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a99a3b1af7f",
+          "text": "この記事では、HSS型HSPに向いてる仕事15選と向いてない仕事の特徴、適職を見極める3つの視点について解説していきます。仕事が続かず悩んでいるなら、ぜひ参考にしてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c5c38783f948",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4e067017e46d",
+          "text": "まずは、こんな心当たりがないか振り返ってみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "70aead12940f",
+      "items": [
+        "ルールが細かく決められた環境にいると、息苦しくなる",
+        "慣れて刺激がなくなった仕事は、急にやる気が出なくなる",
+        "上司に細かく管理されると、パフォーマンスが落ちる",
+        "興味のある仕事には、寝食を忘れるほどのめり込める",
+        "転職や部署異動のたびに、ゼロからやり直している感覚がある"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "343b3c630efc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0a169d4f1420",
+          "text": "当てはまる項目が多いほど、今の環境が気質に合っていない可能性があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fa534af40795",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aeecbf1b263e",
+          "text": "なぜHSS型HSPは仕事が続かないと感じるのか",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "422a8a68c937",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "80b42532b2a0",
+          "text": "向いてる仕事を探す前に、続かない理由を押さえておくと選びやすくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3f2bdaffb30f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "30c5dfe34169",
+          "text": "理由は気質にあり、忍耐力の問題ではないからです。ここを取り違えると、次の仕事でも同じことが起きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ca26a4625a5f",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c7b742590d63",
+          "text": "慣れると刺激が消えて熱が冷める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a0cb47b32a08",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "34bbc0a067f2",
+          "text": "HSS型HSPは、新しいことに強い集中力を発揮します。ところが仕事の全体像が見えて刺激がなくなると、急に熱が冷めます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b1de9483f3f7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d3f3a1153d0f",
+          "text": "刺激を求める気質（HSS）が「もう分かった」と判断した瞬間に、興味が次へ移るからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "880ff03da169",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "884e1c5ce7a6",
+          "text": "私も「これだ」と思って始めた仕事の多くを軌道に乗った頃に手放してきました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5b6b5cb7b89a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "af0acd9b5844",
+          "text": "飽きは意志では止められないので、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "53c48f4abc05",
+          "text": "飽きても回る仕組み",
+          "marks": [
+            "1affd9a11154"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "5e1019a94035",
+          "text": "を先に作るか、飽きづらい仕事を選ぶかの2択になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "1affd9a11154",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-akisho-tsukiaikata",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "620323d27aac",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a9e680bc9f73",
+          "text": "繊細さで消耗する環境がある",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ee6022d92361",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "768612e21ec1",
+          "text": "もう1つの理由は、繊細さ（HSP）です。人の機嫌や場の空気を拾い続けるため、圧の強い職場では気力が先に尽きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d6c6bb6c4b9b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a11d8c029699",
+          "text": "怒鳴る上司やノルマの詰めが日常にある環境では、仕事そのものより人間関係で消耗します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b644cc95f91f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "740e14bba70c",
+          "text": "飛び込み営業の会社にいた頃の私がそうでした。仕事がきついというより上司の詰め方がきつく、半年持たずに辞めています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c3dcb9aafdbd",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f27f9ff8b957",
+          "text": "続かないのは忍耐力ではなく環境とのミスマッチ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "53a6a93d1bde",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "386fc6d5e410",
+          "text": "つまり、続かないのは「刺激が消える」と「消耗する」の2つが重なったときです。どちらも気質と環境の組み合わせで起きています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "849bf021f841",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f04ea5726d77",
+          "text": "同じ営業会社で活躍していた人は、気持ちの切り替えが早く圧に強いタイプでした。私に足りなかったのは根性ではなく、環境の選び方です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "05a83ea83ba0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e3480a21d099",
+          "text": "だから仕事選びでは、職種名の前に「どんな条件なら自分の気質が活きるか」を決める必要があります。次で条件を4つに整理します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "45f889ae6af8",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "81bec9a2c911",
+          "text": "HSS型HSPに向いてる仕事の条件4つ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "28daa5c0cbc0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c0d89d392810",
+          "text": "先に結論です。HSS型HSPに向いてる仕事は、次の4つの条件を満たしやすい仕事です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "11454c776e99",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ebce97b900c2",
+          "text": "職種名はこの条件を満たしやすい例にすぎません。同じ職種でも会社によって条件は変わるので、まず条件から覚えておくと迷いません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4d871c569a70",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6bcdd41f1482",
+          "text": "①変化があり同じ日が続かない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "22c81045f8c9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f6dd6adbe887",
+          "text": "1つ目は、変化があることです。案件やテーマが入れ替わる仕事は、刺激が途切れないので飽きが来にくくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e7f5a8821fda",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7f04aa071992",
+          "text": "逆に毎日同じ手順を繰り返す仕事は、慣れた瞬間に退屈になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b0af5198bd60",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8a863ed27867",
+          "text": "企画・制作・改善のように、次々と新しい課題が来る仕事が合います。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "47810e7ab865",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "44d95fe9f6ee",
+          "text": "②自分の裁量で進め方を決められる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cf1ec9634ebe",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd1b3a4957c1",
+          "text": "2つ目は、裁量です。やり方を自分で決めて試せる仕事だと、HSS型HSPの行動力がそのまま成果になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c32d16ab6f0b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ba237ee26435",
+          "text": "細かく管理されると、繊細さも相まって力が出ません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3a7e1f6b5e57",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f51e26a553df",
+          "text": "私は今、自分で計画を立てて試し、数字を見て直すことを任されています。上司が細かく言わない環境になってから、成果も気持ちも安定しました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c5b92b556be4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f00973f64e78",
+          "text": "③興味を持てる分野である",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c05ee21beb43",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ac2ef4b03d64",
+          "text": "3つ目は、興味です。HSS型HSPは興味のある分野には深く入り込めますが、興味のない分野は頭に入りません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e3db31da36d0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "32a609123979",
+          "text": "興味がないと集中力が出ず、ミスも増えて評価も下がる。この連鎖が「向いてない」という実感を作ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b8798e35c7e6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3a01a3d0fb62",
+          "text": "扱う商品やテーマに少しでも面白さを感じられるかを職種名より先に見るのがおすすめです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a87cf9e5d0ee",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bdcbfc6e3f64",
+          "text": "④刺激の量を自分で調整できる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ced00ffda11d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c2a77588d071",
+          "text": "4つ目は、刺激の量を調整できることです。人に会う日と1人で作業する日を自分で配分できると、消耗を防げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e26a57fdb6dd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1513e75342f8",
+          "text": "音や視線が気になるなら、席や在宅の可否も条件に入ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2c4167f871fd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ea52a39df6bf",
+          "text": "刺激を「増やす」より「減らせる」余地がある仕事のほうが、長く続きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1b64040ffc16",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1866f07258e7",
+          "text": "HSS型HSPに向いてる仕事15選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9aa63e5644cb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "53ddae15c087",
+          "text": "ここからは、4つの条件を満たしやすい職種を15個紹介します。特性別に4つのグループに分けました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2a8d8799f1b9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "55e606e92930",
+          "text": "自分の興味と重なるものがないか、探しながら読んでみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "22ed13106c62",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4e75a5a782cd",
+          "text": "【つくる仕事】アイデアを形にする",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1b32e4ea18c9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e6d678cc104a",
+          "text": "1. Webライター：テーマが毎回変わり、調べて書く工程に集中できます。書く仕事は、私が10年近く飽きずに続いている数少ない仕事です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "225e5a4dce38",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "52f3446dd39d",
+          "text": "向くのは、調べるのが好きで1人の作業が苦にならない人です。案件を選べる立場になるまでは単価が低いので、副業から始めると安全です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e5cbb7c91722",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "412f2f62a150",
+          "text": "2. 編集者：企画を立てて人に書いてもらい、形にします。全体を見る力と細部への感度の両方を使う仕事です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1cd305cc3876",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "69728933ef9f",
+          "text": "向くのは、自分で書くより人に任せて全体を整えるほうが好きな人です。締切の管理が続くので、進行はツールに任せる仕組みが要ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "672945b4c619",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "94562f185184",
+          "text": "3. Webデザイナー：感受性を見た目の設計に活かせます。修正依頼が多い職場だと消耗するので、裁量の幅を確かめてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d8ed46a35b77",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c6e2c5993f6d",
+          "text": "向くのは、見た目の細部に気づける人です。制作物で判断される仕事なので、職歴の空白や転職回数は不利になりにくいです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5f02ae16a303",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "36b491529732",
+          "text": "4. 動画編集者：素材から完成まで自分で組み立てられます。納期が詰まると刺激が多すぎるので、本数の調整が鍵です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cbe6566bc88f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "92c75fd227d5",
+          "text": "向くのは、手を動かして完成に近づく感覚が好きな人です。在宅で完結しやすく、刺激の量を自分で調整しやすい仕事です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9db948dd3e47",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9140eecb9fc3",
+          "text": "5. 企画職・商品企画：新しいものを考える工程は、HSS型HSPが最も力を出しやすい場面です。原価や仕入れの細かな計算は分担できるかを見ます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "12bf7aa220c5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3ac1da296000",
+          "text": "向くのは、情報をつなげて新しい案を出すのが好きな人です。私も企画の入り口（調べる・案を出す）は得意で、細かな計算は人に頼っています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3cb1f3ba4d6f",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9513c044690c",
+          "text": "【変化を動かす仕事】仕組みを作り直す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1d87eb533f87",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b67c66e003d1",
+          "text": "6. Webディレクター：進行・設計・改善を回す仕事で、変化と裁量の両方があります。私が本業で続けているのもこの領域です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e46ae9b55f53",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c55da2ec1ddb",
+          "text": "向くのは、全体を見て人を動かすのが苦にならない人です。板挟みになりやすいので、決める権限がどこまであるかを確かめます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4116a251b360",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "020dadadfb45",
+          "text": "7. Webマーケター：数字を見て打ち手を変える工程が毎週あります。試して直す好奇心が、そのまま成果になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cd4c5978a368",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c292e4a898e5",
+          "text": "向くのは、数字を見るのが嫌いではない人です。成果が数字で出るため、成果が出れば自由度が上がりやすい職種でもあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a68c8754b024",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4692630c2f02",
+          "text": "8. コンサルタント・業務改善：課題ごとに相手が変わり、飽きにくい仕事です。長時間労働の会社は消耗するので、働き方を確かめます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9d9358d2021d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "66f4327cb5f7",
+          "text": "向くのは、人の話を聞いて課題を整理するのが好きな人です。私が10年近く続けている「聞いて整理して形にする」仕事もここに入ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "410758bdeb2b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "deeb950f3442",
+          "text": "9. 提案型の営業：既存のお客さんに提案して関係を育てる営業は、共感力が活きます。飛び込みやノルマ中心の営業とは別物です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a5b7768a221a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "245ca209386f",
+          "text": "向くのは、相手の変化に気づいて先回りできる人です。数字の詰め方が厳しい会社は避け、既存のお客さんの比率が高い会社を選びます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ac56cab3a71e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8925efb03388",
+          "text": "10. 広報・PR：会社の外と中をつなぎ、企画と発信を繰り返します。人と会う量が多いので、1人で作業する時間を確保できるかが鍵です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1f71ac285b7a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa243e5bbf5f",
+          "text": "向くのは、書くことと話すことの両方に抵抗がない人です。イベントが続く時期は消耗するので、忙しさの波を事前に聞いておきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f88dfcc16318",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "438165b96982",
+          "text": "【人の変化に寄り添う仕事】共感力を活かす",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "14fc021e3eb6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6e166f1c5326",
+          "text": "11. カウンセラー・コーチ：相手の小さな変化に気づける繊細さが、そのまま仕事の質になります。感情を受け取りすぎるので、件数と休息の設計が要ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4d315094413c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "512337ead7c9",
+          "text": "向くのは、人の話を最後まで聞けて、解決を急がない人です。学ぶ期間が要るので、まず講座や副業から近づく形が現実的です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fc306d584e4a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c3475edbcc35",
+          "text": "12. セラピスト・整体師：体の反応を読み取る仕事です。1対1で静かに集中できるため、刺激が少ない環境を作りやすい職種です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "19f7c644995f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "793494552b0d",
+          "text": "向くのは、体を使う仕事が苦にならず、1人の相手にじっくり向き合いたい人です。技術の習得に時間がかかる点は見込んでおきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "441c9ad77f98",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6d92d1a93d0d",
+          "text": "13. 講師・トレーナー：教える相手が変わり、伝え方を工夫する余地があります。人前で話す消耗は大きいので、準備の時間を確保します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9c76416df560",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "66fac3568131",
+          "text": "向くのは、自分が学んだことを人に伝えるのが好きな人です。決まった教材の繰り返しだと飽きるので、内容を工夫できる場を選びます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b442e5377aea",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2248c5ac354e",
+          "text": "【変化を感じ取る仕事】観察力を活かす",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "105b5c2134b1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "258859544c40",
+          "text": "14. 動物に関わる仕事：トリマーやドッグトレーナーなど、言葉を話さない相手の状態を読む仕事です。感受性がそのまま強みになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fd52dded9b40",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "42d0d4c8dd26",
+          "text": "向くのは、人より動物といるほうが落ち着く人です。体力を使い、収入は高くない職種が多いので、条件と生活費の両方で考えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "12ff514cfc2e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ddfb3a143084",
+          "text": "15. フリーランス・複業：職種というより働き方ですが、裁量と変化を最大にできます。収入の不安は大きいので、会社員のまま副業から始める形が現実的です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b9ffccd31ea8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "72150f6e23d9",
+          "text": "向くのは、自分で仕事を取りに行く行動力がある人です。飽きて手放した仕事でも、次の仕事につながる経験として残ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "76ae9d167f70",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3a5754e53ba4",
+          "text": "どの職種も、4つの条件を満たしやすいというだけで、会社によって中身は変わります。求人票では条件のほうを見てください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "e572c1162c4c",
+      "text": "気になる職種はありましたか。「向いてるかも」を「自分の強み」に変える視点を公式LINEで発信しています。"
+    },
+    {
+      "_type": "block",
+      "_key": "b87a82dc9e57",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2938ab1cb0a8",
+          "text": "HSS型HSPに向いてない仕事の特徴と職種例",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8bbf2df7a041",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a78bff05e849",
+          "text": "向いてる仕事と同じくらい、向いてない仕事を知っておくことが大切です。避けるべき条件が分かると、求人の見方が変わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "15f1f57f4bf1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3f0b818db4f7",
+          "text": "特徴は3つ。それぞれに職種の例を添えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3ea3fe3445f3",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3464c386563c",
+          "text": "同じことの繰り返しが多い仕事",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5d9739c52702",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f706ba6d7862",
+          "text": "毎日同じ作業を繰り返す仕事は、刺激を求める気質と相性が悪いです。慣れた瞬間に飽きが来て、苦痛になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1a3214c86d32",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca8a53f1abb7",
+          "text": "職種の例は、工場のライン作業、データ入力、定型の事務処理です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f414de6b1a01",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e35758862753",
+          "text": "私も20代に短期間コールセンターで働きましたが、同じ対応の繰り返しに耐えられず、すぐに辞めました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dfb21b7017bb",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bc91c5ad2955",
+          "text": "裁量がなく細かく管理される仕事",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4eed05c53ca8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "891eeaa35529",
+          "text": "マニュアルどおりを強く求められ、工夫の余地がない仕事もつらいです。上司に逐一チェックされる環境では、繊細さも相まって力が出ません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f6aa1bf99d8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "de5ba1352ecd",
+          "text": "職種の例は、マニュアル厳守の接客、進捗を分単位で管理される作業です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "825c5cf6c242",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6ff632c15b6b",
+          "text": "同じ職種でも会社によって管理の強さは違うので、面接で「どこまで任せてもらえるか」を聞いておくと安心です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3517f39cd9b8",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e9eb78fd5ac8",
+          "text": "強いプレッシャーが続く仕事",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1c15f4a1dcb5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "61aaa8ba14c7",
+          "text": "ノルマや責任が重くのしかかり続ける環境も、消耗の原因になります。繊細な気質は、強い圧に長くは耐えられません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a1c854585184",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9b4d4ebe5042",
+          "text": "職種の例は、飛び込みや新規開拓が中心のノルマ営業、上下の板挟みが続く管理職です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3a7ee6ade931",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c423b80db132",
+          "text": "私が半年で崩れたのも、この型の営業会社でした。数字が取れない人に居場所がない空気は、HSS型HSPには長く持ちません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "da7b8a186410",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e9c41b142026",
+          "text": "向いてる仕事を見極める3つの視点",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ebadfab29296",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0fce32ceb223",
+          "text": "職種の候補が見えたら、次は自分に当てはめて絞り込みます。私が失敗を重ねてたどり着いた見極め方は3つです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3ffbf560224a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c187e4284229",
+          "text": "どれも「気質から逆算する」という同じ考え方に基づいています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "91f99056ad30",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "827c3165746c",
+          "text": "①適性で成果を出すと自由度が上がる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0b296e0ba268",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cc9f6cbab062",
+          "text": "1つ目は、適性のある職種を選ぶことです。適性があれば成果が出やすく、成果が出ると周りが細かく言わなくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f13f9bc436e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e4afd888a71",
+          "text": "自由度が上がるほど、HSS型HSPは飽きにくくなります。仮に飽きても、成果が出ていれば人に任せる選択肢も生まれます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "22ecf7ac92c9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7b0845dbd302",
+          "text": "「適性→成果→自由度→飽きにくさ」の順に回るこの循環が、仕事選びの土台です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "220cafccf308",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd6ddb98c595",
+          "text": "②職種だけでなく会社の規模と自由度を見る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ab4cf64dda80",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "84f3ff468285",
+          "text": "2つ目は、会社の規模です。同じ職種でも、規模が大きいほどルールが厳格になり、小さいほど自由度が高くなる傾向があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "86d9df1cdac0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "691d0ce54e64",
+          "text": "大企業は安定していますが、HSS型HSPには窮屈に感じられることが多いです。ベンチャーや中小企業は業務の幅が広く、自由度も高めです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "acecc6075c67",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5f85138a2b04",
+          "text": "私も前職のベンチャーでは、社長から「好きにやっていい」と言われ、実際に自由に動けました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "57a9e8e67f62",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3122f830936d",
+          "text": "③最後は飽きにくさと得意で絞り込む",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1d0855bde0aa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "323bafb79768",
+          "text": "3つ目は、候補を「飽きにくくて得意なこと」で絞ることです。飽きにくいことは自然と続き、続けるうちに得意になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5e68baf862ae",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "29836efdcb81",
+          "text": "私の場合、ライティング代行は成果が出ても飽きて手放しましたが、人の話を聞いて内容に落とし込む仕事は10年近く続いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2de6e43b465e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "91e340cd9f08",
+          "text": "違いは「好きな形で続けられるか」でした。同じ書く仕事でも、決まった型の量産は続かず、自分で考えて組み立てる仕事は続いたのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d09b042460f2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f684512ca4cc",
+          "text": "私の職歴から分かった続く仕事と続かない仕事",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "342eb41f5f4f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f484e46e7f40",
+          "text": "ここまでの条件は、私自身の失敗から見えてきたものです。参考までに、実際の職歴を条件に当てはめて振り返ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9bc63ec516a9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "826a0cf193e6",
+          "text": "順風満帆とは程遠く、失敗のほうが圧倒的に多い職歴です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "13332ccadea1",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e254dd857b96",
+          "text": "飛び込み営業は半年で崩れた",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "91e64e53c029",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "92a982529a9e",
+          "text": "最初の失敗は、飛び込み営業の会社です。仕事の内容より、数字が取れない人への詰め方がきつく、半年持たずに逃げるように辞めました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "71055d12d9ed",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "416357d06b62",
+          "text": "条件で見ると、裁量なし・刺激の調整不可・圧が強いの三拍子でした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "544a23c7fcee",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "560d8ddb0a3e",
+          "text": "今振り返っても、あの環境で強くなれたとは思えません。合わない環境で耐えるのは、成長ではなく消耗です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4b70406cad80",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "03e74075888e",
+          "text": "成果が出ても飽きて手放した仕事がある",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a8cff10ccf87",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "35f93a09ceea",
+          "text": "副業で始めたライティング代行は、成果が出て月40万円ほどになりました。それでも途中で手放しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "38bca56e2241",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ffeb07d4d4c4",
+          "text": "決まった型の記事を量産する形になり、自分の好きな書き方から離れていったからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0dc3e07c34ca",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8fe4bb25b25c",
+          "text": "条件で見ると、変化が消えて興味が薄れた状態でした。成果が出ていても、条件が崩れると続きません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b6f372dbde34",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f84cd34c8535",
+          "text": "続いているのは考えて組み立てる仕事",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5178367a1dc7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "907885377453",
+          "text": "一方で、人の話を聞いて内容を整理し、コンテンツにする仕事は10年近く続いています。今の本業のWeb周りの仕事も同じ型です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "456201a013b9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "911d6329ff2e",
+          "text": "テーマが毎回変わり、やり方を自分で決められ、興味のある分野で、人と会う量を調整できる。4つの条件が揃っていました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "41740cfd433e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e713cd7eadf",
+          "text": "向いてる仕事とは、条件が揃っていて自然に続く仕事のことだと分かりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c2448c792f40",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1cba6df39cc5",
+          "text": "得意な仕事の比率を4割から8割にした",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cedf38e12aab",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "87e64367a20e",
+          "text": "もう1つ、職種を変えずに楽になった経験があります。業務時間を計測するツールで、何に何分使っているかを記録したことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a24e1dfc8529",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "82441181e995",
+          "text": "つらかった時期は、得意な業務が全体の4割しかありませんでした。得意で成果を出し、上司と交渉して、今は8割を得意な業務に充てています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d095aaddc27e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8873f87ec74e",
+          "text": "同じ会社でも、仕事の中身の比率を変えるだけで消耗は減ります。転職の前に試す価値があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "98060a9ebb85",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7e90e814a581",
+          "text": "向いてる仕事の探し方｜小さく試して確かめる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ade3049d53b5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8ce1a0e56b7b",
+          "text": "条件と職種が分かっても、頭で考えるだけでは「本当に合うか」は分かりません。HSS型HSPは、試して初めて分かる気質だからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a5d8c3ceea38",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b7708b291234",
+          "text": "一発で当てようとせず、小さく試して確かめる探し方を4つ紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1d853a053ad9",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "74ca96115b2b",
+          "text": "副業で小さく試す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ba68a061d2c9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1a838e7657d9",
+          "text": "1つ目は、会社を辞めずに副業で試すことです。気になる職種の一部を小さく請け負うと、興味が続くかを低いリスクで確かめられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3c0c0c350682",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6f9b3bc2d155",
+          "text": "私も",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "4f986c5de9eb",
+          "text": "副業",
+          "marks": [
+            "d447e5009dfc"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "924e8d7a6633",
+          "text": "で複数の仕事を試し、続いたものと続かなかったものがはっきり分かれました。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "d447e5009dfc",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-fukugyou",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "9d6714ff0c70",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4913353d98a6",
+          "text": "他に収入源があると「最悪辞めても何とかなる」と思えて、本業の消耗も減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c85c4ac5a829",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "18d77d4db557",
+          "text": "やりたくないことから書き出す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4f7eed55e8af",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ed19392c5af9",
+          "text": "2つ目は、やりたいことより先に「やりたくないこと」を書き出すことです。HSS型HSPは興味が広く、やりたいことは絞りにくいからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4d06531c4b35",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7ac70649139b",
+          "text": "「毎日同じ作業」「細かく管理される」「圧の強い人が多い」のように避けたい条件を並べると、消去法で候補が残ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0f256b80e25e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "58b2b311dc42",
+          "text": "私の場合も、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "2ac9a5e4795a",
+          "text": "やりたくないことから書き出す方法",
+          "marks": [
+            "85b25ec77f10"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "cc54dc3234ce",
+          "text": "で候補が絞れました。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "85b25ec77f10",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-rikai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "8f9f1c35edb3",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e71942b721d",
+          "text": "面接で自由度を確かめる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "85550271d29e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "53053403de78",
+          "text": "3つ目は、入る前に会社を調べ、面接で「どこまで任せてもらえるか」を聞くことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "995009e199c1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e3a104e73581",
+          "text": "面接官は入社後のミスマッチを避けたいので、極端な嘘は言いません。私は前職も今の会社も、自由にやらせてもらえそうな空気を面接で感じて選びました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2efcbadc78f1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b04ab3f07611",
+          "text": "結果はどちらも当たりでした。運もありますが、聞いたことは反映されます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "124ce29a65e4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "03cc26fb57cb",
+          "text": "入社後1年は成果に集中して自由度を得る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d8007ff10194",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3ec56a23fe0b",
+          "text": "4つ目は、入ってからの話です。最初の1年は成果に集中し、社内の信用を作ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "61bfe7db903c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0f17c955433e",
+          "text": "信用が積み重なると細かく言われなくなり、自分のやり方で働ける範囲が広がります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "102ac3607456",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b8b706223573",
+          "text": "それでも合わなければ、何が無理なのかを言葉にして、部署や上司の変更を相談します。私は上司と合わず、上の上司に相談してチームが変わり、働きやすさが大きく変わりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "77c3ee134c9a",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "980e467df484",
+          "text": "HSS型HSPの仕事選びでよくある疑問",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8f50499559bc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b0926b0e3721",
+          "text": "最後に、仕事選びの相談でよく聞かれる疑問に3つ答えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ea011243b30d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "742447b9421a",
+          "text": "どれも私自身が長く抱えていた疑問です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2c94d739f4d6",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d67c39922162",
+          "text": "正社員には向いていないのか",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4463c77065d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5d3122b0d8d9",
+          "text": "向いていないのは正社員という形そのものではなく、裁量がなく管理の強い環境です。自由度の高い会社なら、正社員でも力を出せます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "448e50a62f4f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2da80e5e11ce",
+          "text": "私も今は会社員として自由度の高い環境で働き、成果も出ています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1ae3b5b327e4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b85fbf5942b1",
+          "text": "転職を考える前に、今の会社で得意な仕事の比率を上げられないかを試す価値があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "177a46b74487",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "178872506871",
+          "text": "転職を繰り返していても大丈夫か",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a58c2dd042b1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c776f4338127",
+          "text": "回数そのものより、次を選ぶ基準があるかが問われます。「合わなかった条件」が言葉になっていれば、面接でも説明でき、同じ失敗を避けられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8027b7eb60ba",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3670df6c147c",
+          "text": "私も短期離職を重ねましたが、続いた仕事と続かなかった仕事の違いを言葉にしてから、選び方が安定しました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "04cf08aea737",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f917e988c119",
+          "text": "回数を悔やむより、条件を言葉にするほうが先です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "59b96c9fdd91",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "36e9cb694d92",
+          "text": "未経験でも向いてる仕事に就けるか",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cdd0208a4f2d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0ba2adb6f1ec",
+          "text": "つくる仕事と変化を動かす仕事は、制作物や実績で判断される割合が高く、未経験から入りやすい領域です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9dc05a35416e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eda3ddacc45f",
+          "text": "いきなり転職せず、副業で小さな実績を作ってから応募すると、面接で話せる材料が増えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f8ce18527e73",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1d60bec312fa",
+          "text": "私のライター業も、最初は副業の小さな案件からでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "378ef081c373",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "780ae937424b",
+          "text": "まとめ｜向いてる仕事は「気質」から逆算できる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8112bebcfdf2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c0d9b1dc04ff",
+          "text": "HSS型HSPがサラリーマンに向いていないと感じるのは、環境と気質が合っていないからです。自分を責める必要はありません。合う条件を選び直せば済みます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3041beeb39ed",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01eca9fd9734",
+          "text": "続かないのは忍耐力ではなく、刺激が消えることと消耗する環境の重なり",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "40e92f087648",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b0952c9a0e9e",
+          "text": "向いてる仕事の条件は「変化・裁量・興味・刺激を調整できる」の4つ",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "ed0ba0bc2baf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f5643e8aa0af",
+          "text": "職種はつくる・変化を動かす・人に寄り添う・変化を感じ取るの4系統から15",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "bf0296eb064a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "06bfda1a57b4",
+          "text": "ルーティン・裁量なし・強い圧の仕事は避け、会社の規模と自由度も見る",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "1e31919250a8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3265d17f6c76",
+          "text": "副業と書き出しで小さく試し、面接で自由度を確かめる",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "c9fe2a165507",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "df37ae545590",
+          "text": "ただし、条件が分かっても「自分の得意が何か」を取り違えていると、同じ失敗を繰り返します。得意は、自分ではいちばん見えにくいからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a9794fb316aa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6382edd87ca5",
+          "text": "「結局、自分には何が向いているのか」を整理したい方は、公式LINEをのぞいてみてください。同じ気質の視点から、適職を見つけるヒントを配信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "category": {
+    "_ref": "category-work",
+    "_type": "reference"
+  },
+  "excerpt": "サラリーマンに向いていないと感じるHSS型HSPへ。向いてる仕事15選と向いてない仕事の特徴、適職を見極める3つの視点を、当事者の職歴から整理します。",
+  "mainImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-47bc47b02891fe83402f5f14345f9d35c5068e1b-1024x572-jpg",
+      "_type": "reference"
+    }
+  },
+  "publishedAt": "2026-06-06T02:00:00.000Z",
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "246cb4de526e",
+      "_ref": "3cdc3d5c-1c46-4f79-a01d-be39c966bb95"
+    },
+    {
+      "_type": "reference",
+      "_key": "0f198bbd6823",
+      "_ref": "7b06601c-2f85-449e-b2e7-20d427e36e2d"
+    },
+    {
+      "_type": "reference",
+      "_key": "e1b3149a5b81",
+      "_ref": "e13082a5-5ac1-4e6b-848e-b1a0c7af8cb5"
+    }
+  ],
+  "seoDescription": "HSS型HSPに向いてる仕事を15の職種で紹介。向いてない仕事の特徴と職種例、適性・自由度・飽きにくさで見極める3つの視点、小さく試して確かめる探し方まで、営業で半年で崩れた当事者の職歴から解説します。",
+  "seoTitle": "HSS型HSPに向いてる仕事15選｜適職を見極める3つの視点",
+  "slug": {
+    "_type": "slug",
+    "current": "hss-hsp-muiteru-shigoto"
+  },
+  "tags": [
+    "HSS型HSP",
+    "向いてる仕事",
+    "適職",
+    "仕事",
+    "キャリア",
+    "転職"
+  ],
+  "title": "HSS型HSPに向いてる仕事の選び方｜適性と飽きにくさで見極める"
+}

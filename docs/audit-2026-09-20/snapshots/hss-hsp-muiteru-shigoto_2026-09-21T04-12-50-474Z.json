@@ -1,0 +1,931 @@
+{
+  "published": {
+    "_createdAt": "2026-06-06T01:48:18Z",
+    "_id": "709ad8ee-ffd5-45f4-9cbb-b42c2cf65040",
+    "_rev": "9I1TyPaxC6m0CvrgBpXZLP",
+    "_system": {
+      "base": {
+        "id": "709ad8ee-ffd5-45f4-9cbb-b42c2cf65040",
+        "rev": "y4BywqEWcbqV9HpVgmyYY2"
+      }
+    },
+    "_type": "post",
+    "_updatedAt": "2026-08-14T23:24:29Z",
+    "audience": "hss-hsp",
+    "body": [
+      {
+        "_key": "5e392ac25967",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "868da7e94feb",
+            "_type": "span",
+            "marks": [],
+            "text": "「自分はサラリーマンに向いていないのではないか」"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "d7548d52279d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bd6509fdb3f7",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPとして働いていると、ふとそう感じる瞬間があるのではないでしょうか。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "529baf48beed",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9f1b1817dc4b",
+            "_type": "span",
+            "marks": [],
+            "text": "最初は情熱的に取り組んだ仕事も、慣れた途端に飽きてしまう。自由が利かない環境だと、力を出しきれない。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "87d1c5617c11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5bac08b9ce4c",
+            "_type": "span",
+            "marks": [],
+            "text": "その結果、転職を繰り返し「自分はどこでも通用しないのでは」と落ち込んでしまう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fc9c865cbff0",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c85db022587b",
+            "_type": "span",
+            "marks": [],
+            "text": "ですが、安心してください。HSS型HSPに向いていないのは「特定の働き方」であって、仕事そのものではありません。向いてる仕事は、必ず存在します。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "160c3bb1d58b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "7981a47e59f0",
+            "_type": "span",
+            "marks": [],
+            "text": "まずは、こんな心当たりがないか振り返ってみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "153767495813",
+        "_type": "checklist",
+        "items": [
+          "ルールが細かく決められた環境にいると、息苦しくなる",
+          "慣れて刺激がなくなった仕事は、急にやる気が出なくなる",
+          "上司に細かく管理されると、パフォーマンスが落ちる",
+          "興味のある仕事には、寝食を忘れるほどのめり込める",
+          "転職や部署異動のたびに、ゼロからやり直している感覚がある"
+        ]
+      },
+      {
+        "_key": "0afbe549961d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9df5c29201a1",
+            "_type": "span",
+            "marks": [],
+            "text": "当てはまる項目が多いほど、今の環境が気質に合っていない可能性があります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "72079d184dc9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "655aa2814279",
+            "_type": "span",
+            "marks": [],
+            "text": "なぜHSS型HSPは「仕事が続かない」と感じるのか"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "bb51cb0eaf8e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "de460570294b",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPは、興味のあることには高い集中力を発揮します。しかし慣れて刺激がなくなると、急速に熱が冷めてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c52d43dccca6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "50f896d84092",
+            "_type": "span",
+            "marks": [],
+            "text": "さらに繊細さもあるため、自由の利かない環境やプレッシャーの強い職場では消耗します。この2つが重なって「仕事が続かない」状態が生まれます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "437f53aeadf9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bb407fe6b0ab",
+            "_type": "span",
+            "marks": [],
+            "text": "つまり、続かないのは忍耐力の問題ではなく、環境と気質のミスマッチなのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "29f9c21f3484",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "964b546b8210",
+            "_type": "span",
+            "marks": [],
+            "text": "私自身、20代は短期離職の連続でした。ゴリゴリの営業会社に入ったときは、半年も持たずにメンタルを崩して辞めています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "59202165c14f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "db1c69829eb4",
+            "_type": "span",
+            "marks": [],
+            "text": "逆にHSS型HSPが「向いてない仕事」の特徴"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "5dff029ccae6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "d661e717b2bd",
+            "_type": "span",
+            "marks": [],
+            "text": "向いてる仕事を探す前に、向いていない働き方を知っておくと選びやすくなります。次のような仕事は、消耗しやすい傾向があります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "cdf4ddc53c35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fd7cbf62b386",
+            "_type": "span",
+            "marks": [],
+            "text": "同じことの繰り返しが多い仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "d0878c1211f9",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "7d7ea8ccb2f2",
+            "_type": "span",
+            "marks": [],
+            "text": "毎日まったく同じ作業を繰り返すルーティンワークは、刺激を求める気質と相性が悪いです。慣れた瞬間に飽きが来て、苦痛になりがちです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "36659e43d0e8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "29eac7616b3a",
+            "_type": "span",
+            "marks": [],
+            "text": "単調な事務作業や、変化の少ない定型業務は、HSS型HSPには退屈に感じられやすいでしょう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "452bed35646d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "84653bfd5caa",
+            "_type": "span",
+            "marks": [],
+            "text": "裁量がなく細かく管理される仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "5db048d4ef4e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "42f20fe46f14",
+            "_type": "span",
+            "marks": [],
+            "text": "マニュアル通りを強く求められ、自分で工夫する余地がない仕事もつらいです。自由を奪われると、力を発揮できません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "142c527f6e01",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "194b10efcc07",
+            "_type": "span",
+            "marks": [],
+            "text": "上司に逐一チェックされる環境では、繊細さも相まってパフォーマンスが落ちてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "1c131f303e8e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ae46b3632134",
+            "_type": "span",
+            "marks": [],
+            "text": "強いプレッシャーが続く仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "98d300ebf429",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cdcdcddd3e2f",
+            "_type": "span",
+            "marks": [],
+            "text": "ノルマや責任が重くのしかかり続ける環境も、消耗の原因になります。繊細な気質は、強いプレッシャーに長くは耐えられません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "8f6dc674b580",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ead6af5178fd",
+            "_type": "span",
+            "marks": [],
+            "text": "上下の板挟みが続く管理職のような役割も、HSS型HSPには負担が大きい傾向があります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "905965cc22e6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "57fc5b43fb87",
+            "_type": "span",
+            "marks": [],
+            "text": "仕事選びで外せない大原則は「適性」"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f6221b5f6514",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "9edbbd5cb104",
+            "_type": "span",
+            "marks": [],
+            "text": "向いてる仕事を選ぶうえで、最も大切なのは「適性のある職種」を選ぶことです。適性があれば、成果が出しやすくなります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c397b2f7521a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "a07407986052",
+            "_type": "span",
+            "marks": [],
+            "text": "成果が出ると周りから一目置かれ、職場での自由度が上がっていきます。HSS型HSPは、自由度が高い環境ほど飽きにくくなります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "8e5e14ccec21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ac3bc837bb51",
+            "_type": "span",
+            "marks": [],
+            "text": "仮に飽きても、成果が出ていれば人に任せる選択肢も生まれます。「適性→成果→自由度→飽きにくさ」という好循環が、仕事選びの土台になります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "917578143659",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "193b0862a6e6",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPに向いてる仕事の傾向"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "e10e81f577bb",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fbbcc60a0c26",
+            "_type": "span",
+            "marks": [],
+            "text": "ここからは、一般的にHSS型HSPが適性を発揮しやすい仕事を紹介します。自分の興味と重なるものがないか、探しながら読んでみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "6b10fd48c300",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f81713bf7303",
+            "_type": "span",
+            "marks": [],
+            "text": "クリエイティブな仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "a98a29209eee",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "2ce63e998dac",
+            "_type": "span",
+            "marks": [],
+            "text": "感受性や想像力が豊かなため、アイデアを形にする仕事に向いています。Webライター、デザイナー、イラストレーター、動画編集者などが代表的です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "7d135aa83040",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "c59811d90ca5",
+            "_type": "span",
+            "marks": [],
+            "text": "0から何かを生み出す作業は刺激にあふれ、飽きにくいのも魅力です。書くことやディレクションは、私が長く飽きずに続けられている数少ない仕事です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "74bf62581b79",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "334736f98ad5",
+            "_type": "span",
+            "marks": [],
+            "text": "変化を感じられる仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "9410f9333d19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3a0cffedb4e2",
+            "_type": "span",
+            "marks": [],
+            "text": "刺激を求める気質には、変化が実感できる仕事が合います。企画、Webディレクター、Webマーケター、コンサルタントなどです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fea52082ca8e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "df9f21a3ed40",
+            "_type": "span",
+            "marks": [],
+            "text": "営業も適性がありますが、飛び込みより、既存顧客への提案型がおすすめです。関係を育てながら変化を作る仕事は、やりがいを感じやすいでしょう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "575dd45b70b6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f15813fc0ca8",
+            "_type": "span",
+            "marks": [],
+            "text": "心身をケアする仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "2f7d5358547f",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "bcb7aba29381",
+            "_type": "span",
+            "marks": [],
+            "text": "共感力の高さを活かせるのが、人の心と体をケアする仕事です。カウンセラー、セラピスト、整体師、エステティシャンなどが挙げられます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "d833c58ab1cb",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "2567afd3de18",
+            "_type": "span",
+            "marks": [],
+            "text": "相手の小さな変化に気づける繊細さが、そのまま強みになります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "803967441f5a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "09517dd5391f",
+            "_type": "span",
+            "marks": [],
+            "text": "生き物に関わる仕事"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "4be75f3f3a3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6f3771f35b21",
+            "_type": "span",
+            "marks": [],
+            "text": "変化を敏感に感じ取る力は、生き物を相手にする仕事でも活きます。トリマー、ドッグトレーナー、動物園や水族館のスタッフなどです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fc14d7cf87d5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "836a290f3c45",
+            "_type": "span",
+            "marks": [],
+            "text": "言葉を話さない相手の状態を読み取る仕事は、HSS型HSPの感受性と好相性です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c4c1dc90e17b",
+        "_type": "lineCallout",
+        "text": "気になる職種はありましたか。「向いてるかも」を「自分の強み」に変える視点を、公式LINEで発信しています。"
+      },
+      {
+        "_key": "172ed4f21032",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "8e1b91c993ef",
+            "_type": "span",
+            "marks": [],
+            "text": "職種だけでなく「会社の規模・自由度」も見る"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "150176f2187a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5734e60dabee",
+            "_type": "span",
+            "marks": [],
+            "text": "同じ職種でも、働きやすさは会社によって大きく変わります。傾向として、規模が大きいほどルールが厳格になり、小さいほど自由度が高くなります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "a0ffbd6d0698",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "768c64b660b2",
+            "_type": "span",
+            "marks": [],
+            "text": "大企業は安定していますが、HSS型HSPには窮屈に感じられることが多いです。一方ベンチャーや中小企業は、業務の幅が広く自由度も高めです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e06d39eb3723",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ea8dd440b0c8",
+            "_type": "span",
+            "marks": [],
+            "text": "適性から外れた業務ばかりでなければ、ベンチャーや中小企業はHSS型HSPに合いやすい環境といえます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "01ca0f7770ed",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ee4d249918e2",
+            "_type": "span",
+            "marks": [],
+            "text": "最後は「飽きにくさ×得意」で絞り込む"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "0b6d9ef79c2e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "30dc8a570156",
+            "_type": "span",
+            "marks": [],
+            "text": "向いてる職種の候補が見えたら、もう一歩踏み込みます。「飽きにくくて、かつ得意なこと」を選ぶことです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "788bbd55c8dd",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "df4327933517",
+            "_type": "span",
+            "marks": [],
+            "text": "飽きにくいことに取り組めば、自然と続けられて、得意にもなっていきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f2287772a5be",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "df72992155d9",
+            "_type": "span",
+            "marks": [],
+            "text": "飽きとの具体的な付き合い方は、"
+          },
+          {
+            "_key": "ba756a3830e2",
+            "_type": "span",
+            "marks": [
+              "mlnk1"
+            ],
+            "text": "HSS型HSPの飽き性との付き合い方"
+          },
+          {
+            "_key": "a0d74b0e9224",
+            "_type": "span",
+            "marks": [],
+            "text": "でも詳しく解説しています。"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "mlnk1",
+            "_type": "link",
+            "blank": false,
+            "href": "https://hsp.ink/posts/hss-hsp-akisho-tsukiaikata"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "7f129306243d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "5cf20d87e6b1",
+            "_type": "span",
+            "marks": [],
+            "text": "向いてる仕事を見つける鍵は、適性・自由度・飽きにくさの3つを重ねて考えることです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "52f59bb16b6d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fc2c5c4e934f",
+            "_type": "span",
+            "marks": [],
+            "text": "まとめ｜向いてる仕事は「気質」から逆算できる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "e04b969d51a2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ed63ef76aca0",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPがサラリーマンに向いていないと感じるのは、環境と気質が合っていないからです。自分を責める必要はありません。合う環境を選び直せばいいだけです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9ac7a3d7727a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "cb99141f7cec",
+            "_type": "span",
+            "marks": [],
+            "text": "続かないのは忍耐力ではなく、環境とのミスマッチ"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "95d759794bf6",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "6298d21ee4f8",
+            "_type": "span",
+            "marks": [],
+            "text": "ルーティン・裁量なし・強いプレッシャーの仕事は避けたい"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "e6e3255f7c32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3c302781bee4",
+            "_type": "span",
+            "marks": [],
+            "text": "大原則は「適性のある職種」を選ぶこと"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "89e51f5b8fe3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "3deff5554dfb",
+            "_type": "span",
+            "marks": [],
+            "text": "クリエイティブ・変化・ケア・生き物などに適性が出やすい"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "62452f9b13fa",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "ca815c4ac6fb",
+            "_type": "span",
+            "marks": [],
+            "text": "職種だけでなく、会社の自由度や飽きにくさも重ねて見る"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "24b2c0f0df80",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f70624f66f86",
+            "_type": "span",
+            "marks": [],
+            "text": "とはいえ、自分の適性や強みは、自分ではいちばん見えにくいものです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f8a9e20a085a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "e1f5644dd222",
+            "_type": "span",
+            "marks": [],
+            "text": "「結局、自分には何が向いているのか」を整理したい方は、公式LINEをのぞいてみてください。同じ気質の視点から、適職を見つけるヒントを配信しています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "_ref": "category-work",
+      "_type": "reference"
+    },
+    "excerpt": "サラリーマンに向いていないと感じるHSS型HSPへ。向いてる仕事は必ずあります。適性・自由度・飽きにくさの3つで適職を見極める視点を、当事者の目線で整理します。",
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-47bc47b02891fe83402f5f14345f9d35c5068e1b-1024x572-jpg",
+        "_type": "reference"
+      }
+    },
+    "publishedAt": "2026-06-06T02:00:00.000Z",
+    "relatedPosts": [
+      {
+        "_key": "mrel1",
+        "_ref": "3cdc3d5c-1c46-4f79-a01d-be39c966bb95",
+        "_type": "reference"
+      },
+      {
+        "_key": "mrel2",
+        "_ref": "0f70de70-62a5-43a7-ac9e-d1bbdbda5ecc",
+        "_type": "reference"
+      }
+    ],
+    "seoDescription": "HSS型HSPはサラリーマンに向いていないと感じやすい気質です。でも向いてる仕事は必ずあります。適性・自由度・飽きにくさという3つの視点から、HSS型HSPの適職の選び方を当事者の視点で解説します。",
+    "seoTitle": "HSS型HSPに向いてる仕事｜適職を見極める3つの視点",
+    "slug": {
+      "_type": "slug",
+      "current": "hss-hsp-muiteru-shigoto"
+    },
+    "tags": [
+      "HSS型HSP",
+      "向いてる仕事",
+      "適職",
+      "仕事",
+      "キャリア",
+      "転職"
+    ],
+    "title": "HSS型HSPに向いてる仕事の選び方｜適性と飽きにくさで見極める"
+  }
+}
