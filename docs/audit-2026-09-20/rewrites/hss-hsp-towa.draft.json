@@ -1,0 +1,2129 @@
+{
+  "_id": "drafts.cf68abd8-51d6-4b2f-be37-2c865b199686",
+  "_system": {
+    "base": {
+      "id": "cf68abd8-51d6-4b2f-be37-2c865b199686",
+      "rev": "y4BywqEWcbqV9HpVgmyYY2"
+    }
+  },
+  "_type": "post",
+  "audience": "hss-hsp",
+  "body": [
+    {
+      "_type": "block",
+      "_key": "61cc5561fa68",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "95b4d40f68ad",
+          "text": "「好奇心は旺盛なのに、なぜかすぐ疲れてしまう」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "63c55f10e7d6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f7b7ccddb1a0",
+          "text": "「行動力はあるのに、繊細で傷つきやすい」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2512f58c1a88",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0189665ceb58",
+          "text": "そんな矛盾した気質に振り回されて、生きづらさを感じていませんか。もしかすると、あなたはHSS型HSPかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "806bd664ba56",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bd1fe130803c",
+          "text": "HSS型HSPは、人口の約6%といわれる少数派です。だからこそ周りに理解されにくく、自分でも「自分は何者なのか」と悩みやすい気質です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ee7682c94ab2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3b3ac0edb3ec",
+          "text": "この記事では、HSS型HSPとは何かを当事者の視点からわかりやすく解説します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fc95baec14ed",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "878ba970165b",
+          "text": "言葉の意味・4つのタイプの違い・特徴・あるある・セルフチェック・悩み・付き合い方まで、一通り整理しました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "72d918255123",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "05226b178db9",
+          "text": "HSS型HSPとは？刺激を求めるのに繊細な気質",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bd9a9f2f342d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9838eb9a654e",
+          "text": "HSS型HSPとは、刺激を求める性質と、繊細で敏感な性質を併せ持つ気質のことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7248ed9849e7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "62fa25e31f29",
+          "text": "一見正反対の2つを同じ人が抱えている、それが最大の特徴です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d186e2acdbb0",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "45020b2538f4",
+          "text": "「HSS」と「HSP」2つの言葉の意味",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "60884d37e395",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "78611d8b0e92",
+          "text": "まず、名前を分解してみましょう。HSPとはHighly Sensitive Personの略で、感受性が高く繊細な人を指します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "47cdae3b1606",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "369d9068f293",
+          "text": "心理学者のエレイン・アーロン博士が1996年の著書で提唱した概念で、博士は人口の15〜20%（5人に1人）が当てはまるとしています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "272fdaed41b4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "45ad88466ff8",
+          "text": "一方のHSSはHigh Sensation Seekingの略で、新しい刺激や経験を求める性質を意味します。退屈を嫌い、冒険や変化にワクワクするタイプです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ef26bb621d43",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bfac978ccad1",
+          "text": "この2つを併せ持つのがHSS型HSPです。刺激を求めて飛び出すのに、繊細でその刺激に疲れてしまう。名前の時点で、すでに矛盾しているのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dd47af6805cd",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "287371392552",
+          "text": "HSPの4つの特徴「DOES」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5137a7cf1226",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2e6263fcb55e",
+          "text": "アーロン博士は、HSPの特徴を4つの頭文字「DOES」で説明しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "67c9f32ae1a0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1750719b1a3d",
+          "text": "D（深く処理する）、O（刺激を受けやすい）、E（感情の反応が強く共感力が高い）、S（些細な刺激に気づく）の4つです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4039f835db0a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "076e2e938c5f",
+          "text": "HSS型HSPもこの4つを持ったうえで、さらに刺激を求める性質が加わります。だから疲れやすいのに、じっとしていられません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7d8cab17f59c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a3a693fe408a",
+          "text": "アクセルとブレーキを同時に踏んでいる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a43c914ff77c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2187f986f5dc",
+          "text": "HSS型HSPの状態は、車にたとえると分かりやすいです。刺激を求めるHSSは、前へ進もうとするアクセルにあたります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "99f8a443cd1b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3937bf75cf39",
+          "text": "一方で繊細なHSPは、刺激にブレーキをかける役割です。アクセルとブレーキを同時に踏んでいるのですから、エンジンに負担がかかって当然です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5cb22db1cc05",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "352c87557990",
+          "text": "「やりたい、でも怖い」「行きたい、でも疲れる」。この板挟みこそが、HSS型HSP特有の生きづらさを生み出しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f51de5fda34c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1b6e76af644c",
+          "text": "人口の約6%といわれる少数派",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ca93ca41c2c8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "28896225f9cc",
+          "text": "HSPは、人口の約2割が当てはまるといわれています。決して珍しくはありませんが、多数派でもありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "aafa90c71b0d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7e70671a5241",
+          "text": "さらにHSS型は、そのHSPの中の約3割とされ、人口に占める割合は約6%といわれています。この数字は諸説ありますが、少数派であることは変わりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b69afb11e3ab",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5059221faba9",
+          "text": "少数派であるがゆえに、周りからはなかなか理解されません。「わがまま」「飽きっぽい」「気にしすぎ」と、誤解されやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8a1ca6173cf2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1fbc2203ca9d",
+          "text": "HSP・HSS型HSP・HSEの違い｜4つのタイプ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "530e9a1b02c4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "877077bf7b24",
+          "text": "HSPやHSSという言葉は、組み合わせによって4つのタイプに分かれます。自分がどこに当てはまるか、見ながら読んでみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "464d38835a96",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4431daab33f4",
+          "text": "タイプが分かると、「なぜ自分は同じ行動的な人と違うのか」の説明がつきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c894f564c472",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e657fb10495a",
+          "text": "「刺激の追求」と「繊細さ」で4タイプに分かれる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c456e425ba78",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a8fb8cd00e2e",
+          "text": "人は「刺激を求めるか（HSS）」と「繊細か（HSP）」の2つの軸で整理できます。先ほどのアクセルとブレーキが、それぞれあるかないかです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8c4538ede0cb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "492d485a4f81",
+          "text": "この2軸を掛け合わせると、4つのタイプが見えてきます。HSS型HSPは、そのうちの一つにすぎません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a3846aa03ec9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7cbb293460c4",
+          "text": "タイプの名前を覚えるより、自分がどの組み合わせかを知るほうが役に立ちます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e4313b697b3b",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cbf60007e6a7",
+          "text": "4つのタイプの特徴",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4850e30c8e15",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "49211fbbf4bc",
+          "text": "それぞれのタイプをざっくり整理すると次のようになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7b198f4c9285",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8d5b7cc498d6",
+          "text": "HSP型（刺激を求めない繊細さん）：安定を好み、慎重に行動する。いわゆる「繊細さん」の典型タイプ",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "b9abb6bff16f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0510055557dc",
+          "text": "HSS型HSP（刺激を求める繊細さん）：アクセルとブレーキを同時に踏む。本記事の主役で、人口の約6%",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "9ba0ef000dc5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "97f6eee67625",
+          "text": "HSS型（繊細さは低い刺激追求型）：打たれ強く、行動的な冒険家タイプ。刺激を求めても消耗しにくい",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "90febcc00f36",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "815dbe1d5b4b",
+          "text": "非HSP・非HSS（多数派）：刺激も特に求めず、繊細でもないマイペースなタイプ",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "94f54c8aa285",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2e074fd8ebe2",
+          "text": "同じ「行動的」でも、繊細さのあるHSS型HSPと、タフなHSS型ではまるで違います。自分を後者と比べて「なぜ自分は打たれ弱いのか」と落ち込む必要はありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "36ef887b7dff",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8cecafe0df2c",
+          "text": "繊細さを持つ外向型を「HSE」と呼ぶこともあり、HSS型HSPとほぼ重なる意味で使われています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f8fd7d26d75a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "780280c1cf9d",
+          "text": "自分のタイプは「濃淡」で考える",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b311c378e063",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "288ea4fdad3b",
+          "text": "ここで注意したいのは、4タイプはきっぱり分かれるものではないことです。実際には、人によって濃淡（グラデーション）があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4a01dcbe1a72",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "62e5b8e51b01",
+          "text": "刺激追求と繊細さ、どちらがどれくらい強いかは人それぞれです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "744f0958e35f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "87d46ebab034",
+          "text": "自分の気質がどのあたりにあるかは、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "320a128f503f",
+          "text": "HSS型HSPの生きづらさは「濃淡」で変わる",
+          "marks": [
+            "928323c5ddbc"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "caa49b7d4a6f",
+          "text": "でチェックできます。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "928323c5ddbc",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ikizurai-gradation",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "eddfe79ec83b",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "179ddd519424",
+          "text": "HSS型HSPの「矛盾した気質」4つの特徴",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f48cf6806cd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b5adccf25d3",
+          "text": "ここからは、HSS型HSPが日常で感じる矛盾を具体的に見ていきます。代表的な4つの特徴です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c2dbe018d5a2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ef37bc8a83e7",
+          "text": "どれも私自身に当てはまるので、私の場面も添えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e807c20cdf41",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "16fdde9980ce",
+          "text": "①好奇心旺盛なのに飽きっぽい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3474a0d80c8f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0c486b78439c",
+          "text": "新しいことや刺激に、衝動的なほど飛びつきます。ところが慣れてパターンが見えると、途端に興味が冷めてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0c116e5dfad9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a739d0650da5",
+          "text": "始めるときの熱量は、人一倍です。それなのに続かず、「自分は中途半端だ」と感じやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0d3eb1acdc27",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "276d5c614104",
+          "text": "私自身、「これだ」と思って始めたことのほとんどを途中で飽きて手放してきました。ですがこれは怠けではなく、気質によるものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bbc1b8e5728c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "87fb34f20f97",
+          "text": "②行動的なのに繊細で傷つきやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e27f603cc165",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "670a9c45e741",
+          "text": "フットワークは軽く、思い立つとすぐ行動できます。一方で、ちょっとしたことで深く傷つき、何度も反芻してしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5a72a7e4192c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7fd2e8fac820",
+          "text": "ネガティブな指摘を一つ受けただけで、家に帰っても頭から離れない。行動力と繊細さが、いつも同時に働いているのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a0c669c47f24",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "88975510b39d",
+          "text": "私も上司の何気ない一言を家に帰ってから何日も思い返していました。動くのは速いのに、回復は遅いのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f0468be50caa",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2357134f9b19",
+          "text": "③社交的に見えて実は人見知り",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "84b03bf5298f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b5fccead5052",
+          "text": "初対面では愛想よく振る舞い、「コミュ力が高い人」と思われがちです。ところが二回目以降は、ふっと距離を取りたくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4ae0bd0f61c4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b3bacbefe5cc",
+          "text": "これは、無理をして社交的にしている反動です。本来はひとりの時間で回復したい、繊細な気質だからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "68da24d17b40",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4a65fa6d096a",
+          "text": "「最初は感じがよかったのに、急にそっけない」と誤解されることもあります。本人は、ただ電池が切れているだけなのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d41483b57951",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7444be22500d",
+          "text": "私も初対面の場では「社交的な人」と見られますが、二回目に会うと急に口数が減ります。悪気はなく、その日の分の社交の体力を使い切っているだけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "97042aaea957",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6ceb2501e2f5",
+          "text": "④自由を求めるのにプレッシャーに弱い",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3a7f12820a33",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dff4f9483fe8",
+          "text": "縛られるのが苦手で、自由にやらせてほしいと願います。ですが自由すぎると、今度は不安やプレッシャーに飲まれてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dda718943197",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d0fa2d6a3228",
+          "text": "会社勤めの窮屈さもつらい。かといって完全に自由だと、収入の不安に耐えられない。ちょうどいい塩梅が、なかなか見つからないのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c7e53dd1f7ee",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cdce32a7f453",
+          "text": "私も今は自由度の高い職場にいますが、自由が増えるほど「本当にこれでいいのか」という不安も増えました。ちょうどいい塩梅は、いまだに探しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1e6c27520af7",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8d006e685818",
+          "text": "HSS型HSPのあるある・セルフチェック",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6b46902e5509",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a506baf550c8",
+          "text": "ここまでの特徴を具体的な「あるある」に落とし込んでみます。いくつ当てはまるか、チェックしてみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a9f2660f1709",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d9812a42529b",
+          "text": "医学的な診断ではなく、気質の傾向を知るための目安です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "5a216cbc9164",
+      "items": [
+        "「これだ」と思って始めたことが、たいてい途中で飽きる",
+        "初対面はうまく話せるのに、二回目から急にそっけなくなる",
+        "感情が高ぶると頭が真っ白になり、あとで一気に言葉があふれる",
+        "「自分は何がやりたいのか」と、たびたび自分探しで迷子になる",
+        "減点方式で自分を見てしまい、なかなか合格点を出せない"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "280bcf9e560a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "949c320f1b9a",
+          "text": "当てはまる項目が多いほど、HSS型HSPの気質が強い可能性があります。3つ以上当てはまるなら、その傾向はかなり強いといえるでしょう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "43b20b2277c6",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9d2969ee83d3",
+          "text": "HSS型HSPが抱えやすい悩みと生きづらさ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0cfc470d7121",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "77b7c3b1c1a1",
+          "text": "矛盾した気質は、日常のあちこちで生きづらさになって現れます。私が相談を受けていて多い場面は、仕事・人間関係・自分自身の3つです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7bd537a212fd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "39de75e307cb",
+          "text": "どれも「気質のせいで起きている」と分かるだけで、少し楽になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "55e9b3d0ca77",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0b598f6b62ed",
+          "text": "仕事｜飽きて続かず疲れやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cf026dab8165",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7dc3d492c502",
+          "text": "仕事では「飽きて続かない」と「疲れやすい」の2つが重なります。新しい仕事には夢中になれるのに、慣れた途端に熱が冷め、転職を繰り返しがちです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fea5a5196d8e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fe7d2a4c5a58",
+          "text": "一方で人の機嫌や場の空気を拾い続けるため、圧の強い職場では気力が先に尽きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4d9e83a76089",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d12838e5ece7",
+          "text": "私も20代は短期離職の連続でした。合う仕事の条件と職種は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "087e111e688c",
+          "text": "向いてる仕事の選び方",
+          "marks": [
+            "0c8745aea215"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "dc9abc0996b5",
+          "text": "で整理しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "0c8745aea215",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-muiteru-shigoto",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "0607f8dfa700",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d166993c5181",
+          "text": "人間関係｜人は好きなのに消耗する",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cdff73aa1088",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1c6771a051b3",
+          "text": "人間関係では「人は好きなのに、会うとどっと疲れる」という矛盾がつきまといます。初対面は社交的に振る舞えても、二回目以降は距離を取りたくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6d1e261d2054",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6f37bf417cf0",
+          "text": "相手の感情まで受け取ってしまうので、集まりのあとに1人で回復する時間が要ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a52e0c5ecca4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "94b3bd81859d",
+          "text": "周りからは「急にそっけなくなった」と見られやすいので、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "690593e8e7dc",
+          "text": "人間関係が疲れる理由",
+          "marks": [
+            "57a2d193f27f"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "1b424f8d83b1",
+          "text": "を知っておくと自分でも説明しやすくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "57a2d193f27f",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ningenkankei",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "3e6a3bb41826",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2bfdb772ed96",
+          "text": "自分自身｜自己肯定感が下がりやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "70b23f646d13",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "50c6be6ea580",
+          "text": "自分自身に対しては、完璧主義と高い理想が自分を追い詰めます。挑戦の数が多いぶん挫折の数も多く、「自分は中途半端だ」と感じやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "479a13757a8a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "342ea3d64c2f",
+          "text": "減点方式で自分を見てしまい、なかなか合格点を出せません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5416453191a1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e8a92bb558f9",
+          "text": "これは性格の弱さではなく気質から自然に起きることで、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "bfa6eb37dbc2",
+          "text": "自己肯定感が低くなる理由",
+          "marks": [
+            "ae7d9ed3ba3f"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "fb70fe4c1c2d",
+          "text": "でも詳しく書いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "ae7d9ed3ba3f",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-koteikan",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "804e53e533b8",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "454ead1f2d3f",
+          "text": "HSS型HSPの気質との付き合い方5つ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4492f9f065d2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d82d4b37cbd0",
+          "text": "気質そのものは変えられませんが、付き合い方は変えられます。私が10年以上試して残った5つを紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a12702ae1c2d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8615a17f5454",
+          "text": "どれも「気質を直す」のではなく、「気質に合わせて環境と予定を組み替える」考え方です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2b566ad3740e",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b909f12f31ba",
+          "text": "①刺激の量を自分で調整する",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "12fd33fdb9bb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0ea6af34774d",
+          "text": "1つ目は、刺激の量を自分で決めることです。人に会う日と1人で作業する日を分け、予定を詰め込みすぎないようにします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e912a3443eb6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7a8f6ae15e1e",
+          "text": "HSS型HSPは刺激を足すのは得意でも、引くのは苦手です。だからこそ「減らす」余地を先に確保します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1055a4ba40d4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e03fafc10e7f",
+          "text": "音や視線が気になるなら、席や在宅の可否も含めて",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "8a23581e72af",
+          "text": "疲れやすさの守り方",
+          "marks": [
+            "20b6bce5ec5b"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "a7315accdada",
+          "text": "から見直します。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "20b6bce5ec5b",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-tsukareyasui",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "feb5eb692b9c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5d493a6b7770",
+          "text": "②飽きる前提で仕組みを先に作る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "411dcd0859d0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb50d9e4df0b",
+          "text": "2つ目は、飽きることを前提に動くことです。飽きは意志で止められないので、「飽きても回る仕組み」を先に作っておきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e244e54ad0b0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b7f834f5fb31",
+          "text": "任せられる部分は人やツールに任せ、自分は立ち上げと最初の設計に集中します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4f95ff2d3d0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "42b16196b40e",
+          "text": "飽きを責めるより、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "09a7c21175f5",
+          "text": "飽き性との付き合い方",
+          "marks": [
+            "8bd2ee9c3cf3"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "019ba78c026a",
+          "text": "を決めておくほうが、結果的に長く続きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "8bd2ee9c3cf3",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-akisho-tsukiaikata",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "ca3ed8b13f87",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "adf72de6159a",
+          "text": "③得意な仕事の比率を上げる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1a0fc2296aac",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6a4a7bf80952",
+          "text": "3つ目は、仕事の中身の比率を変えることです。苦手な業務が8割だと消耗しますが、得意が8割なら同じ会社でも楽になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f50dfda07fce",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "82c842b7f8d0",
+          "text": "私は業務時間を計測して、得意な業務の比率を4割から8割に上げました。転職せずに消耗が減った経験です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5f2c720faff2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "133ae4514488",
+          "text": "得意で成果を出すと、上司も細かく言わなくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "049970eb7ba7",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e66cdf99e5b0",
+          "text": "④1人で回復する時間を予定に入れる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9822045b68f1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6cd3bea580f4",
+          "text": "4つ目は、回復の時間を先に予定へ入れることです。頑張ったあとに休むのではなく、休む日を先に決めておきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e8844b6fadb9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ceafcff116b9",
+          "text": "HSS型HSPは一気に集中して燃え尽きる働き方になりやすいので、集中したあとに緩める日が要ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8fbfb2837615",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e44260ea2dd3",
+          "text": "予定を詰めるほど疲れる理由",
+          "marks": [
+            "fdc12a3ce22c"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "cffe1f06ba0e",
+          "text": "を知ると、余白を作ることに罪悪感がなくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "fdc12a3ce22c",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-yotei-yohaku",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "057044b269da",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "378c94bbcb02",
+          "text": "⑤自分の気質を言葉にしておく",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a690e7de5449",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0c6ceb84ad82",
+          "text": "5つ目は、自分の気質を言葉にしておくことです。「何が無理で、何なら大丈夫か」が言えると、環境を選ぶときも人に伝えるときも迷いません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8e0bbd4152e9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "109c32c5b2c8",
+          "text": "私はHSS型HSPだと知ってから、続いた仕事と続かなかった仕事の違いを言葉にできるようになりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5730fed5b82d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bf3f76356187",
+          "text": "やりたいことが分からないときも、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "27e073dcd21d",
+          "text": "やりたくないことから書き出す",
+          "marks": [
+            "edc79a0c64ea"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "3f754a73e721",
+          "text": "と輪郭が見えてきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "edc79a0c64ea",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-rikai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "8c376939665c",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5710015fbc3f",
+          "text": "HSS型HSPとADHD・発達障害は違う",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e6683ed9d17e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a6034ca160cc",
+          "text": "HSS型HSPは、ADHDなどの発達障害と混同されることがあります。ですが、この2つはまったく別のものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ff6cc396fe3d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f199aaac29ea",
+          "text": "似て見える部分があるからこそ、違いを知っておくと安心できます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "67a5894aa901",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e6b7476e1f43",
+          "text": "HSPは「気質」でADHDは「医学的な診断」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2532d5892fb4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "06771489a790",
+          "text": "HSPやHSS型HSPは、心理学でいう「気質」の概念です。生まれ持った感受性の傾向であり、病気や障害ではありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "01ea30afcd06",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c0b545bff9c8",
+          "text": "一方、ADHDなどの発達障害は、医療機関が下す医学的な診断です。そもそも土俵が違う、と考えてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc4e844feeb7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a4271a9cb0f6",
+          "text": "だから「HSS型HSPだから通院が要る」ということもありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "11649bb96b70",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b9aff3fb7155",
+          "text": "気になるときは自己判断をしない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7127a5b73827",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "433dc8351838",
+          "text": "飽きっぽさや集中のしづらさなど、表面的に似て見える部分はあります。だからこそ、自己判断で決めつけないことが大切です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e575f5c531e2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "043dbdd89a1f",
+          "text": "「もしかして」と不安な場合は、ネットの情報だけで判断せず、専門の医療機関に相談してください。正しく知ることが、安心への近道です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "aa1876d18490",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b499282405be",
+          "text": "この記事のセルフチェックも、あくまで気質の傾向を知るための目安です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc106a98a3a7",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dc5cb6334fa3",
+          "text": "HSS型HSPは「弱み」ではなく「気質」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9975d8b37a60",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f3d3cecb32fe",
+          "text": "ここまで読んで、ネガティブな面ばかりだと感じたかもしれません。ですが、これらは欠点ではなく、活かし方次第の「気質」です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f55e9948c57",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a14e5067d470",
+          "text": "好奇心と行動力は、ゼロから新しいものを生み出す力になります。繊細な感受性は、人の気持ちや場の変化に気づく共感力にもなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0f8fd80995ed",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a0c5da6a6e00",
+          "text": "大切なのは、自分を「ダメな人間」と責めないことです。気質を正しく理解すれば、生きづらさは確実に軽くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f3276ea9919b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa4d0aa4fc01",
+          "text": "私自身、HSS型HSPだと知ってから、世界の見え方が変わりました。「自分が悪いのではなく、そういう気質なのだ」と腑に落ちたのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "031e45369616",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8756d0b8d810",
+          "text": "まとめ｜まず「自分を知る」ことから",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3e2ce431808d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "78709aff2f3c",
+          "text": "HSS型HSPとは、刺激を求めながらも繊細という、矛盾を抱えた気質です。その正体を知ることが、生きづらさを軽くする第一歩になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b5e2416a29c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6298ef994c51",
+          "text": "HSS型HSPは「刺激追求（HSS）×繊細（HSP）」を併せ持つ、人口約6%といわれる少数派",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "71d974e7c6fa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7383b36fcbb1",
+          "text": "HSPはアーロン博士が提唱した気質で、DOESの4つの特徴を持つ",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "8296209a5339",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "502526d49e9e",
+          "text": "刺激の追求と繊細さの2軸で、人は4つのタイプに分かれる",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "1981d81da07a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "216ca15d1dff",
+          "text": "飽きっぽさ・繊細さ・人見知り・プレッシャー耐性など、矛盾が特徴",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "60872fad721a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b895315ba081",
+          "text": "悩みは仕事・人間関係・自分自身の3つに現れやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "6d6fc20442b9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4a216cfee35d",
+          "text": "付き合い方は「刺激の調整・飽きる前提の仕組み・得意の比率・回復の予定・言葉にする」の5つ",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "f2fe6d4e0eb0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b8eb5026a262",
+          "text": "HSPは気質であり、ADHDなどの医学的な診断とは別物",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "1790e61bcb7e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c047d2926f6a",
+          "text": "とはいえ、自分の気質の濃淡や活かし方は、一人ではなかなか見えにくいものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cce01f409e52",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1eba9f1dd8f2",
+          "text": "「自分はHSS型HSPかもしれない」と感じた方は、公式LINEをのぞいてみてください。同じ気質の視点から、自分を知り、活かすヒントを配信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "category": {
+    "_ref": "category-hss-hsp-main",
+    "_type": "reference"
+  },
+  "excerpt": "好奇心は旺盛なのにすぐ疲れる、行動的なのに繊細。そんな矛盾した気質に心当たりはありませんか。HSS型HSPとは何かを、特徴・あるある・セルフチェックまで当事者の視点からわかりやすく解説します。",
+  "mainImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-300391630721bfe44faeead45ca2ad51541d32aa-1024x572-jpg",
+      "_type": "reference"
+    }
+  },
+  "publishedAt": "2026-06-15T14:03:22.000Z",
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "8849299d1326",
+      "_ref": "0f70de70-62a5-43a7-ac9e-d1bbdbda5ecc"
+    },
+    {
+      "_type": "reference",
+      "_key": "297f6f55d810",
+      "_ref": "709ad8ee-ffd5-45f4-9cbb-b42c2cf65040"
+    },
+    {
+      "_type": "reference",
+      "_key": "fa55f4ba1ffc",
+      "_ref": "ad5cb9ce-c03b-429d-94b7-d3638c4b3f76"
+    }
+  ],
+  "seoDescription": "HSS型HSPとは、刺激を求めるのに繊細という矛盾した気質のこと。言葉の意味・4つのタイプの違い・DOES・特徴・あるある・セルフチェック・抱えやすい悩み・気質との付き合い方5つまで、当事者の視点でわかりやすく解説します。",
+  "seoTitle": "HSS型HSPとは？特徴・あるある・セルフチェックを解説",
+  "slug": {
+    "_type": "slug",
+    "current": "hss-hsp-towa"
+  },
+  "tags": [
+    "HSS型HSP",
+    "とは",
+    "特徴",
+    "あるある",
+    "診断",
+    "HSP"
+  ],
+  "title": "HSS型HSPとは？特徴・あるある・セルフチェック｜当事者がわかりやすく解説"
+}
