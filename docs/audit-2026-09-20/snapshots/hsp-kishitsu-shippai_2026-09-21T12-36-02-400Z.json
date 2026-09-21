@@ -1,0 +1,1095 @@
+{
+  "published": {
+    "_createdAt": "2026-08-03T22:20:24Z",
+    "_id": "548f3053-08a8-45f2-bea5-a95c35bc4230",
+    "_rev": "tUgkK4x2jCQXvq6Lz6H6hJ",
+    "_type": "post",
+    "_updatedAt": "2026-08-21T14:30:49Z",
+    "audience": "both",
+    "body": [
+      {
+        "_key": "f01",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f01s",
+            "_type": "span",
+            "marks": [],
+            "text": "失敗したあと、何日も、ときには何年も引きずってしまう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f02",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f02s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSS型HSPには、そんな経験があるのではないでしょうか。挑戦する行動力があるぶん失敗の数も増え、繊細な気質でそのダメージを深く受け取ってしまうからです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f03",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f03s",
+            "_type": "span",
+            "marks": [],
+            "text": "この記事では、失敗の痛手をどう扱い、どう次につなげるのか、私自身の挫折体験を交えて解説します。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f04",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f04s",
+            "_type": "span",
+            "marks": [],
+            "text": "まずは、こんな心当たりがないか振り返ってみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f05",
+        "_type": "checklist",
+        "items": [
+          "失敗した場面を、何度も思い出しては落ち込む",
+          "一度うまくいかないと「向いていない」と諦めてしまう",
+          "傷つくのが怖くて、新しい挑戦に踏み出せない",
+          "うまくいかないとき、とにかく量をこなして乗り切ろうとする",
+          "頑張っているのに、成果につながっている実感がない"
+        ]
+      },
+      {
+        "_key": "f06",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f06s",
+            "_type": "span",
+            "marks": [],
+            "text": "当てはまるほど、失敗を「損失」としてだけ受け取っているのかもしれません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh1s",
+            "_type": "span",
+            "marks": [],
+            "text": "失敗は「成功への通り道」"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f07",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f07s",
+            "_type": "span",
+            "marks": [],
+            "text": "まず前提として、失敗をどう位置づけるかを整理しておきましょう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f07b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f07bs",
+            "_type": "span",
+            "text": "ここがずれていると、必要以上に自分を痛めつけてしまいます。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "fh1a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh1as",
+            "_type": "span",
+            "marks": [],
+            "text": "成功と失敗は二択ではない"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f08",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f08s",
+            "_type": "span",
+            "marks": [],
+            "text": "何かを成し遂げようとすれば、失敗は避けて通れません。一度も失敗せずに成功した人がいるなら、ぜひ会ってみたいものです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f09",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f09s",
+            "_type": "span",
+            "marks": [],
+            "text": "多くの人は「成功か、失敗か」の二択で考えます。ですが実際は、失敗を繰り返して改善を続けた先に、成功があります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f10",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f10s",
+            "_type": "span",
+            "marks": [],
+            "text": "つまり失敗は、成功の反対側にあるものではありません。そこへ向かう途中で、必ず通る道なのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh1bs",
+            "_type": "span",
+            "marks": [],
+            "text": "HSP気質は失敗のダメージが大きい"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f11s",
+            "_type": "span",
+            "marks": [],
+            "text": "とはいえ、頭で分かっていても、痛いものは痛い。HSP気質があると感受性が高いぶん、失敗のダメージをまともに受けてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f12",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f12s",
+            "_type": "span",
+            "marks": [],
+            "text": "しかもHSS型HSPは刺激を求めて挑戦する回数が多いので、その痛手を負う機会も自然と増えていきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f13s",
+            "_type": "span",
+            "marks": [],
+            "text": "私自身、数え切れないほど失敗してきました。もっと要領が良ければ、もっと才能があればと、何度も自分に絶望してきたので、その気持ちは痛いほど分かります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh2s",
+            "_type": "span",
+            "marks": [],
+            "text": "「転んでもタダでは起きない」という気概"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f14",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f14s",
+            "_type": "span",
+            "marks": [],
+            "text": "では、痛手を負ったあとに何が明暗を分けるのか。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f14b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f14bs",
+            "_type": "span",
+            "text": "それは「タダでは起きない」と決めているかどうかです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "fh2a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh2as",
+            "_type": "span",
+            "marks": [],
+            "text": "傷ついた分だけ何かを持ち帰る"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f15s",
+            "_type": "span",
+            "marks": [],
+            "text": "失敗して傷ついたとき、人はまず諦める人と諦めない人に分かれます。そして諦めない人も、そこから学ぶ人と、ただ耐えてがむしゃらに続ける人に分かれます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f16",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f16s",
+            "_type": "span",
+            "marks": [],
+            "text": "転んで膝を擦りむいたなら、せめて何か拾って立ち上がる。「これだけ嫌な思いをしたのだから、絶対に何かプラスを持ち帰ってやる」という気概です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f17s",
+            "_type": "span",
+            "marks": [],
+            "text": "同じ痛みでも、手ぶらで起き上がるのか、次に使える何かを握って起き上がるのか。この差が、時間が経つほど大きく開いていきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh2bs",
+            "_type": "span",
+            "marks": [],
+            "text": "毎回でなくここぞで効かせる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f18s",
+            "_type": "span",
+            "marks": [],
+            "text": "ただし、これを毎日のように続ける必要はありません。常に気を張っていては、エネルギーが尽きてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f19s",
+            "_type": "span",
+            "marks": [],
+            "text": "数ヶ月に一度、大きくつまずいたとき。そのときだけ「絶対に良くしてやる」と踏ん張れば十分です。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f20s",
+            "_type": "span",
+            "marks": [],
+            "text": "消耗しやすいHSS型HSPだからこそ、気概は使いどころを選ぶ。ここぞの場面に温存しておきましょう。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f_callout",
+        "_type": "lineCallout",
+        "text": "「失敗をどう次に活かすか」という視点を、公式LINEでも発信しています。"
+      },
+      {
+        "_key": "fh3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh3s",
+            "_type": "span",
+            "marks": [],
+            "text": "私が野球で学んだ「がむしゃらの落とし穴」"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f21s",
+            "_type": "span",
+            "marks": [],
+            "text": "気概が大切だとお伝えしましたが、根性だけで押し切るのとは違います。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "05d8ae8bbd39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f21s",
+            "_type": "span",
+            "marks": [],
+            "text": "それを痛感したのが、学生時代の野球でした。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh3a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh3as",
+            "_type": "span",
+            "marks": [],
+            "text": "名門校でレギュラーになれなかった"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f22s",
+            "_type": "span",
+            "marks": [],
+            "text": "私は高校まで野球をやっていました。そこそこ強い学校に入ったものの、結局レギュラーは取れず、下の方で終わりました。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f23s",
+            "_type": "span",
+            "marks": [],
+            "text": "当時は、ただがむしゃらに練習していました。人一倍素振りをして、量をこなせば報われると信じていたのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f24s",
+            "_type": "span",
+            "marks": [],
+            "text": "才能が足りなかったのは事実です。ですが今振り返ると、もう少しやりようがあったと思っています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh3bs",
+            "_type": "span",
+            "marks": [],
+            "text": "努力に「逃げて」いた"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f25s",
+            "_type": "span",
+            "marks": [],
+            "text": "当時の私に足りなかったのは、練習量ではなく設計でした。自分の特性を見極め、どの能力を伸ばせば評価されるのか、どう動けばチームの役に立てるのか。そこを考えていなかったのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f26",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f26s",
+            "_type": "span",
+            "marks": [],
+            "text": "考えるのは苦しいので、つい体を動かして「やった気」になる。あれは努力に逃げていたのだと、今なら分かります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27s",
+            "_type": "span",
+            "marks": [],
+            "text": "がむしゃらであることは、必ずしも正義ではありません。とくに仕事では、頭を使わない努力は空回りしやすいのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh3c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh3cs",
+            "_type": "span",
+            "text": "自分の強みでチームの穴を埋める"
+          }
+        ],
+        "style": "h3"
+      },
+      {
+        "_key": "f27a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27as",
+            "_type": "span",
+            "text": "本当に考えるべきだったのは、周りを見て自分の置き場所を決めることでした。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f27b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27bs",
+            "_type": "span",
+            "text": "どれだけ練習しても、チームが求めていない能力を磨けば、評価にはつながらないからです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f27c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27cs",
+            "_type": "span",
+            "text": "自分の資質ならどのポジションが向いているか。チーム全体で弱いのはどこか。監督はどんな選手を求めているか。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f27d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27ds",
+            "_type": "span",
+            "text": "自分の強みでチームの穴を埋められれば、レギュラーになれる確率は上がったはずです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f27e",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f27es",
+            "_type": "span",
+            "text": "プライドは捨てて、勝つために頭を使う。それが戦略というものでした。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "fh4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh4s",
+            "_type": "span",
+            "marks": [],
+            "text": "失敗を次に活かす3つの視点"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f28s",
+            "_type": "span",
+            "marks": [],
+            "text": "では、転んだあと具体的に何を持ち帰ればいいのか。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "9fcdee7409ef",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f28s",
+            "_type": "span",
+            "marks": [],
+            "text": "3つの視点にまとめます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh4a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh4as",
+            "_type": "span",
+            "marks": [],
+            "text": "①「なぜダメだったか」を分解する"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f29s",
+            "_type": "span",
+            "marks": [],
+            "text": "落ち込んだままだと、失敗はただの嫌な記憶で終わります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "bb83fd4b5aea",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f29s",
+            "_type": "span",
+            "marks": [],
+            "text": "少し落ち着いたら「何が原因だったのか」をできるだけ細かく分けてみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f30",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f30s",
+            "_type": "span",
+            "marks": [],
+            "text": "準備が足りなかったのか、そもそも進め方が合っていなかったのか。分解すると、次に変えるべき一点が見えてきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "fh4b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh4bs",
+            "_type": "span",
+            "marks": [],
+            "text": "②自分の特性から戦略を組み直す"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f31s",
+            "_type": "span",
+            "marks": [],
+            "text": "次に、量を増やす前に「そもそもこのやり方は自分に合っているか」を問い直します。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "c32d48d5dfc8",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f31s",
+            "_type": "span",
+            "marks": [],
+            "text": "同じ努力でも、特性に合っていなければ成果は出にくいからです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f32a",
+            "_type": "span",
+            "marks": [],
+            "text": "自分の特性は、試行錯誤を通じて少しずつ見えてきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "b5457cc8936d",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f32a",
+            "_type": "span",
+            "marks": [],
+            "text": "詳しくは"
+          },
+          {
+            "_key": "f32b",
+            "_type": "span",
+            "marks": [
+              "fl1"
+            ],
+            "text": "自己理解は試行錯誤で深まるという記事"
+          },
+          {
+            "_key": "f32c",
+            "_type": "span",
+            "marks": [],
+            "text": "でも解説しています。"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "fl1",
+            "_type": "link",
+            "blank": false,
+            "href": "https://hsp.ink/posts/hss-hsp-jiko-rikai"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "fh4c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh4cs",
+            "_type": "span",
+            "marks": [],
+            "text": "③伸ばすところと捨てるところを決める"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "f33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f33s",
+            "_type": "span",
+            "marks": [],
+            "text": "すべてを平均的に上げようとすると、時間がいくらあっても足りません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "bb1a61df5151",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f33s",
+            "_type": "span",
+            "marks": [],
+            "text": "どこを集中的に伸ばし、どこは最低限で済ませるかを決めます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f33b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f33bs",
+            "_type": "span",
+            "text": "意識したいのは、掛け算の発想です。多くの物事は、ひとつがゼロだと全体がゼロになります。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f33c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f33cs",
+            "_type": "span",
+            "text": "野球でも、ボールをまったく投げられなければ、どこも守らせてもらえません。まず弱点を最低限まで引き上げ、残った力を強みに注ぐのです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f34",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f34a",
+            "_type": "span",
+            "marks": [],
+            "text": "この切り分けができると、失敗は「ダメな自分の証拠」ではなく戦略の材料に変わります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "2cae6c016897",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f34a",
+            "_type": "span",
+            "marks": [],
+            "text": "自分を責めがちな方は、あわせて"
+          },
+          {
+            "_key": "f34b",
+            "_type": "span",
+            "marks": [
+              "fl2"
+            ],
+            "text": "自己肯定感が低くなる理由の記事"
+          },
+          {
+            "_key": "f34c",
+            "_type": "span",
+            "marks": [],
+            "text": "もご覧ください。"
+          }
+        ],
+        "markDefs": [
+          {
+            "_key": "fl2",
+            "_type": "link",
+            "blank": false,
+            "href": "https://hsp.ink/posts/hss-hsp-jiko-koteikan"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "fh5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "fh5s",
+            "_type": "span",
+            "marks": [],
+            "text": "まとめ｜失敗は「持ち帰り方」で価値が変わる"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "f35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f35s",
+            "_type": "span",
+            "marks": [],
+            "text": "失敗しない人はいません。違いが出るのは、そこから何を持ち帰るかです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f35b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f35bs",
+            "_type": "span",
+            "text": "大切なのは、次のポイントです。"
+          }
+        ],
+        "style": "normal"
+      },
+      {
+        "_key": "f36",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f36s",
+            "_type": "span",
+            "marks": [],
+            "text": "成功と失敗は二択ではなく、失敗は通り道"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f37s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSP気質は痛手が大きいぶん、意識して何かを持ち帰る"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f38",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f38s",
+            "_type": "span",
+            "marks": [],
+            "text": "気概は毎日ではなく、ここぞの場面で効かせる"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f39s",
+            "_type": "span",
+            "marks": [],
+            "text": "がむしゃらな努力より、特性に合った戦略を組み直す"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f40",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f40s",
+            "_type": "span",
+            "marks": [],
+            "text": "転ぶのはしょうがない。傷つくのもしょうがない。それでも、タダでは起きない。その一点を決めておくだけで、進む先は変わっていきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "f41",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "f41s",
+            "_type": "span",
+            "marks": [],
+            "text": "「失敗の受け止め方を変えたい」「自分に合う戦略を一緒に考えたい」という方は、公式LINEをのぞいてみてください。同じ気質の視点から、立て直すヒントを発信しています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "_ref": "category-mind-care",
+      "_type": "reference"
+    },
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-fe5a4a6c10b88ff3c37479dacc7caf30fd4f995e-1024x572-jpg",
+        "_type": "reference"
+      }
+    },
+    "publishedAt": "2026-08-21T14:30:00.000Z",
+    "relatedPosts": [
+      {
+        "_key": "frel1",
+        "_ref": "1879ab3c-a1fd-4f19-9acc-f35f140cec39",
+        "_type": "reference"
+      },
+      {
+        "_key": "frel2",
+        "_ref": "e13082a5-5ac1-4e6b-848e-b1a0c7af8cb5",
+        "_type": "reference"
+      }
+    ],
+    "seoDescription": "失敗のダメージをいつまでも引きずってしまう。HSS型HSPは繊細なぶん、痛手が大きくなりがちです。失敗は成功への通り道と捉え、転んでもタダでは起きないために何を持ち帰るか。野球での挫折体験を交えて解説します。",
+    "seoTitle": "HSS型HSPが失敗を引きずる理由と立て直し方｜転んでもタダでは起きない",
+    "slug": {
+      "_type": "slug",
+      "current": "hsp-kishitsu-shippai"
+    },
+    "title": "HSP気質が失敗を引きずる理由｜転んでもタダでは起きない考え方"
+  }
+}

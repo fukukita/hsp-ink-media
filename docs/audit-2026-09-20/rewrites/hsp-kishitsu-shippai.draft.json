@@ -1,0 +1,1743 @@
+{
+  "_id": "drafts.548f3053-08a8-45f2-bea5-a95c35bc4230",
+  "_type": "post",
+  "audience": "both",
+  "body": [
+    {
+      "_type": "block",
+      "_key": "10175dde2e1f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "57fdd48a0684",
+          "text": "失敗したあと、何日も、ときには何年も引きずってしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cba9d2f12e19",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a58178cf50d7",
+          "text": "寝る前にふと思い出して、布団の中で「どうしてあんなことを」と何度も再生してしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2dfabb425df3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fe9d6f6801ba",
+          "text": "HSP気質があれば、失敗を引きずった経験が一度はあると思います。私自身、数え切れないほど同じことを繰り返してきました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "38c8a0c86acb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "054b137dad98",
+          "text": "ただ、引きずるのは心が弱いからではありません。深く受け取る気質から、自然に起きていることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "68f231cd5b05",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0471e346e976",
+          "text": "この記事では、HSPが失敗を引きずる理由と頭から離れないときの切り替え方について、私の挫折体験を交えて解説していきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6fb08ee8e162",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "480d3bd814e1",
+          "text": "「もう忘れたいのに忘れられない」と感じているなら、ぜひ参考にしてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f79cd87f4e77",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e020d20d5ab9",
+          "text": "まずは、こんな心当たりがないか振り返ってみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "ef99dcc3ba67",
+      "items": [
+        "失敗した場面が何度も頭に浮かんで落ち込む",
+        "寝る前や休みの日に、済んだはずの失敗が頭に浮かぶ",
+        "一度うまくいかないと「向いていない」と諦めてしまう",
+        "傷つくのが怖くて、新しい挑戦に踏み出せない",
+        "周りはもう忘れているのに、自分だけが気にしている"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "adfe2f38e80a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "55a122e4d270",
+          "text": "当てはまるほど、失敗を「損失」としてだけ受け取っているのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c693794f8d7d",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e6015b0c8049",
+          "text": "HSPが失敗を引きずってしまう3つの理由",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dfc1e4be2595",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4182c0a7160e",
+          "text": "まず、なぜ自分だけこんなに引きずるのかを知っておきましょう。理由が分かると、自分を責める材料が一つ減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7969b12dfd0d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "84094b2cdcc8",
+          "text": "原因は性格ではなく、HSPの気質にあります。代表的なものを3つ挙げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f63707044efa",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f3b6c5ba4be9",
+          "text": "①責任感が強く自分のせいだと抱え込む",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2dd223f9cced",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b81e77f899c0",
+          "text": "1つ目は、責任感の強さです。HSP気質があると、うまくいかなかった原因を真っ先に自分に向けます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c4765c2f4a5e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ffd29a384918",
+          "text": "本当は相手の都合や段取りの問題でも、「自分がもっと気をつけていれば」と引き受けてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4c22380f6d5a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "74ff553ea414",
+          "text": "自分の責任にすると反省点は見つかりますが、そのぶん痛みも一人で背負うことになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5caf45690db8",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a97e853b36a9",
+          "text": "②完璧主義で「できなかった部分」ばかり見る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4105258d6e85",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca8591893e17",
+          "text": "2つ目は、完璧主義です。10のうち8できていても、できなかった2のほうに目が向きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a7370e8d712b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b76d8a3a192",
+          "text": "減点方式で自分を採点するので、どれだけ成果が出ても「まだ足りない」が残ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "401d362d9587",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a4dd0e65dee0",
+          "text": "私も数字が伸びた月ほど、うまくいかなかった一点を思い返していました。褒められても素直に受け取れないのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1825bb304b2a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01d56d97f2cb",
+          "text": "③他人の反応を深く受け取りすぎる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5b27ecf21a9c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "812e47b14fde",
+          "text": "3つ目は、人の反応への敏感さです。ため息、一瞬の表情、短い返信。どれも普通なら流せる情報ですが、HSPは細かく拾います。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5be25e381453",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3a2389440fee",
+          "text": "拾ったうえで「あれは怒っていたのでは」と深く処理するので、失敗の記憶に他人の反応まで貼りついてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f54b4686297b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd7b98906bbb",
+          "text": "職場で否定されたときの受け流し方は、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "3a0af050ac1f",
+          "text": "注意されて落ち込むときの対処",
+          "marks": [
+            "61298fe10afc"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "55bcdf889900",
+          "text": "でも書いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "61298fe10afc",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hsp-shokuba-kizutsuku",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "93d15ecc0798",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b0880f4f44e4",
+          "text": "失敗が頭から離れない仕組み",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3813cb090b2b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b3cd28415c7",
+          "text": "理由が分かっても、頭から離れないのはつらいものです。ここでは、なぜ何度も再生されるのかを整理します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e4ace07bba30",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "57273731cfd4",
+          "text": "仕組みを知っておくと、「また始まった」と気づけるようになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "84b7d6c70249",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c068792f3d55",
+          "text": "深く処理する気質が反芻を生む",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6dcecaeea640",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "05966e33e69a",
+          "text": "HSPは、受け取った情報を深く処理する気質を持っています。物事をよく考えられる長所ですが、失敗に向くと何度も再生する反芻になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "43ed9bb41d60",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f96d8a57a129",
+          "text": "反芻は「考えている」ようで、実際には同じ場面をなぞっているだけです。結論は出ないのに、痛みだけが更新されていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "746f00ea1a71",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "45b09e36685f",
+          "text": "寝る前や一人の時間に起きやすいのは、他の刺激がなくなって、その場面だけが残るからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0f8516ce3f9d",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "db7108409efe",
+          "text": "時間が経つほど記憶が「盛られる」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fa6747daf67e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f096f4fe62ed",
+          "text": "もう一つ厄介なのは、思い出すたびに記憶が少しずつ大げさになることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dde369c24d45",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ce10b8bd28f6",
+          "text": "相手の表情はより冷たく、自分の失敗はより致命的に書き換わっていきます。周りはとっくに忘れているのに、自分の中では事件が大きくなっていくのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "919fd65de22f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4077ef4bd735",
+          "text": "だからこそ、早い段階で止める手当てが要ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d25eb625706e",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "895168f9d6a1",
+          "text": "失敗を引きずったときに切り替える5つのステップ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "08f71eeaab8f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dfddf496f5da",
+          "text": "ここからが本題です。反芻が始まったときに、私が実際に使っている切り替え方を5つ紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9c8b96077396",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "974d9f924313",
+          "text": "気合で忘れようとするのではなく、手を動かして止めるのがコツです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "17a5f94e9c57",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "05013db9d688",
+          "text": "①事実と解釈を分けて書き出す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "40ad849a8152",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7dc7140cc1da",
+          "text": "1つ目は、紙に2列で書き出すことです。左に起きた事実、右に自分の解釈を分けます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "02c47ec52dee",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "257295c5b223",
+          "text": "「資料の数字を間違えた」は事実で、「もう信用されない」は解釈です。分けてみると、痛みの大半が解釈側にあると気づきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "56dae3d931a6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d1dbe622fee2",
+          "text": "頭の中だけで考えていると、この2つは混ざったままです。外に出すと、はじめて切り分けられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "72456f5832c3",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7c2aa8a108e9",
+          "text": "②「自分の責任の範囲」を決める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "35cc903ef459",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c71776e9e63d",
+          "text": "2つ目は、責任の線引きです。起きたことのうち、自分の裁量でどうにかできた部分はどこまでかを考えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e42e488885c0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ae892b2e78e2",
+          "text": "相手の機嫌や会社の方針など、自分では動かせない要素は必ずあります。そこまで背負うから、反省が自責に変わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d24e9f2b63c5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fff2a1a48bb8",
+          "text": "「ここまでは自分、ここから先は違う」と決めるだけで、抱える重さは変わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e236aa131470",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "63b23892290e",
+          "text": "③体を動かして反芻を止める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4f11a2a95b1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c5f3aa195862",
+          "text": "3つ目は、考えるのをやめて体を動かすことです。散歩、掃除、風呂。頭ではなく体に意識が移ると、再生が止まります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2696f386e4a6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6a50e7531ad0",
+          "text": "反芻は頭の中だけで完結するので、「考えないようにしよう」と考えるほど続きます。別の入力を入れるほうが早いのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c918439a9063",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1a942dc73a99",
+          "text": "私は思い出しそうな夜は、風呂に長めに入ります。湯船に入ると、考えごとが自然に途切れます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "28054413a04f",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2493193ceb3e",
+          "text": "④再発防止策を1つだけ決める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b1b0f0b7f65c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4a64701ac3a5",
+          "text": "4つ目は、次に同じ失敗をしないための手を1つだけ決めることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a57fba8db058",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c4c6d48d72b1",
+          "text": "たくさん決めると続かず、「またできなかった」と落ち込む材料が増えます。チェック項目を1つ足す、確認を1回はさむ。その程度で十分です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f54f1fa58925",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1270129bb1d5",
+          "text": "1つでも決まると、頭が「もう手は打った」と判断して、反芻が終わりやすくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f47fd4dbb654",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "827f830f53e9",
+          "text": "⑤人に話して外に出す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d788c4e93f6b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "510caade1743",
+          "text": "5つ目は、人に話すことです。声に出すと、頭の中でふくらんでいた失敗が、実際の大きさに戻ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cf675df9b6b5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9aa7d89d45bd",
+          "text": "「それくらい誰でもあるよ」の一言で、勝手に育っていた記憶がしぼむこともあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "18e6445b0c4c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa04f2540ff2",
+          "text": "話す相手は、否定せずに聞いてくれる人を選んでください。正論で返してくる相手だと、かえって傷が深くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "4a7cb2247add",
+      "text": "「自分だけが引きずっている気がする」という方へ。失敗の受け止め方を切り替えるヒントを公式LINEで発信しています。"
+    },
+    {
+      "_type": "block",
+      "_key": "3647453eecab",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d1627d4a83ae",
+          "text": "「転んでもタダでは起きない」と決めると怖さが減る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e9ea9d438571",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "304d7e1ae5bb",
+          "text": "切り替え方が分かったら、次は失敗そのものの位置づけを変えます。ここが変わると、挑戦する前の怖さも小さくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2fde59321dfc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f93f94cf9565",
+          "text": "私が長く支えにしてきた考え方が「転んでもタダでは起きない」です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7f8ea494aec4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "374da466644c",
+          "text": "失敗は成功への通り道",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "13161f2f22e1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "15bd32943619",
+          "text": "何かを成し遂げようとすれば、失敗は避けて通れません。一度も失敗せずに成功した人がいるなら、ぜひ会ってみたいものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ab1b3d01da34",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b25bc7eabe23",
+          "text": "多くの人は「成功か、失敗か」の二択で考えます。ですが実際は、失敗を繰り返して改善を続けた先に、成功があります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "158817c768fc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01a7e61be168",
+          "text": "つまり失敗は、成功の反対側にあるものではありません。そこへ向かう途中で、必ず通る道なのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8f5e07c327ef",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "819f974c8d19",
+          "text": "傷ついた分だけ何かを持ち帰る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "073422795f76",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bafc57595e52",
+          "text": "失敗して傷ついたとき、人はまず諦める人と諦めない人に分かれます。そして諦めない人も、そこから学ぶ人と、ただ耐えて続ける人に分かれます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "220d3221e66f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "101ed4f00f86",
+          "text": "転んで膝を擦りむいたなら、せめて何か拾って立ち上がる。「これだけ嫌な思いをしたのだから、絶対に何かプラスを持ち帰ってやる」という気概です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "03e28f8c3984",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3339e4dca535",
+          "text": "同じ痛みでも、手ぶらで起き上がるのか、次に使える何かを握って起き上がるのか。この差が、時間が経つほど大きく開いていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c7804f5b20bb",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0920cffeeeae",
+          "text": "毎回でなくここぞで効かせる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7180cee8c05e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19a01ea0f83f",
+          "text": "ただし、これを毎日のように続ける必要はありません。常に気を張っていては、エネルギーが尽きてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "15267fb6570c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b2bbab8a5aa9",
+          "text": "数ヶ月に一度、大きくつまずいたとき。そのときだけ「絶対に良くしてやる」と踏ん張れば十分です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9770412d4aad",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "597eea177fd3",
+          "text": "消耗しやすい気質だからこそ、気概は使いどころを選ぶ。ここぞの場面に温存しておきましょう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3d992d6aa85a",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6589405048ca",
+          "text": "私が野球で学んだ「がむしゃらの落とし穴」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f0e0f65e4c9a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "72d6a87c489f",
+          "text": "気概が大切だとお伝えしましたが、根性だけで押し切るのとは違います。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "405c73aaddb6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b84dfc3f138d",
+          "text": "それを痛感したのが、学生時代の野球でした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e5f114c436b3",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e5df05464361",
+          "text": "名門校でレギュラーになれなかった",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5710d0d41c78",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "07a6f7fac832",
+          "text": "私は高校まで野球をやっていました。そこそこ強い学校に入ったものの、結局レギュラーは取れず、下の方で終わりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ae0d96a588a3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1d4325ee7c77",
+          "text": "当時は、ただがむしゃらに練習していました。人一倍素振りをして、量をこなせば報われると信じていたのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7d478bcaafe4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0d217d7d51dd",
+          "text": "才能が足りなかったのは事実です。ですが今振り返ると、もう少しやりようがあったと思っています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e1509ece5488",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "200df4e3daf1",
+          "text": "努力に「逃げて」いた",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8d2cfc77b8f8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4ec65f4e9e92",
+          "text": "当時の私に足りなかったのは、練習量ではなく設計でした。自分の特性を見極め、どの能力を伸ばせば評価されるのか、どう動けばチームの役に立てるのか。そこを考えていなかったのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b3fdac600ee3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b6a26d2ec086",
+          "text": "考えるのは苦しいので、つい体を動かして「やった気」になる。あれは努力に逃げていたのだと、今なら分かります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2a5b544ac901",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "137056e16f75",
+          "text": "がむしゃらであることは、必ずしも正義ではありません。とくに仕事では、頭を使わない努力は空回りしやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7d0837ce72e0",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ab75e9449c14",
+          "text": "自分の強みでチームの穴を埋める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "53372963a6a0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "51d6400f5fe4",
+          "text": "本当に考えるべきだったのは、周りを見て自分の置き場所を決めることでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "78f144105dbf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "066dbb401334",
+          "text": "どれだけ練習しても、チームが求めていない能力を磨けば、評価にはつながらないからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "28ae5a8e2c17",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d734458fd56e",
+          "text": "自分の資質ならどのポジションが向いているか。チーム全体で弱いのはどこか。監督はどんな選手を求めているか。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8a0b77343639",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5863dced650b",
+          "text": "自分の強みでチームの穴を埋められれば、レギュラーになれる確率は上がったはずです。プライドは捨てて、勝つために頭を使う。それが戦略というものでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9ec515dc3ed2",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5e4b72a343cf",
+          "text": "失敗を次に活かす3つの視点",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2ec17b78fe79",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "08da8c1a7bcc",
+          "text": "最後に、転んだあと具体的に何を持ち帰ればいいのかを3つにまとめます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a1066413067d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0991a1baec22",
+          "text": "どれも「量を増やす」より前にやることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "09f357ef138a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0481cebe29ef",
+          "text": "①「なぜダメだったか」を分解する",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8b4fb1f2d899",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "864d92245a83",
+          "text": "落ち込んだままだと、失敗はただの嫌な記憶で終わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a6497ea9e859",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "43fa8304931f",
+          "text": "少し落ち着いたら「何が原因だったのか」をできるだけ細かく分けてみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a2e9e52a9c3a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8426eb8d6412",
+          "text": "準備が足りなかったのか、そもそも進め方が合っていなかったのか。分解すると、次に変えるべき一点が見えてきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "13ee14fcebca",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e2279e45ce86",
+          "text": "②自分の特性から戦略を組み直す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "63cb4ecf4e7a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "07d2452fbccb",
+          "text": "次に、量を増やす前に「そもそもこのやり方は自分に合っているか」を問い直します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "210ee764207d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f75e1a1a5a1c",
+          "text": "同じ努力でも、特性に合っていなければ成果は出にくいからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "82dbad69042c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "46cb3c8ea6ed",
+          "text": "自分の特性は、試行錯誤を通じて少しずつ見えてきます。詳しくは",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "13ed9eca19a9",
+          "text": "自己理解は試行錯誤で深まる",
+          "marks": [
+            "e1ad3dbde00e"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "875efd9b7939",
+          "text": "という記事でも解説しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "e1ad3dbde00e",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-rikai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "74c2632478a2",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1ee93fb40056",
+          "text": "③伸ばすところと捨てるところを決める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e57820e191fc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c5a10b8ff273",
+          "text": "すべてを平均的に上げようとすると、時間がいくらあっても足りません。どこを集中的に伸ばし、どこは最低限で済ませるかを決めます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5d89f7851de7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b6a543bf452d",
+          "text": "意識したいのは、掛け算の発想です。多くの物事は、ひとつがゼロだと全体がゼロになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0e007465d33c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ec3f7b9a2ba6",
+          "text": "野球でも、ボールをまったく投げられなければ、どこも守らせてもらえません。まず弱点を最低限まで引き上げ、残った力を強みに注ぐのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2f83cc2047f4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3c4178f61789",
+          "text": "この切り分けができると、失敗は「ダメな自分の証拠」ではなく戦略の材料に変わります。自分を責めがちな方は、あわせて",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "f5bf6d7f6650",
+          "text": "自己肯定感が低くなる理由",
+          "marks": [
+            "d547065ac19e"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "b85316849a49",
+          "text": "の記事もご覧ください。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "d547065ac19e",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-koteikan",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "cd0bb2fa76b5",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "71eda1451ec3",
+          "text": "まとめ｜失敗は「持ち帰り方」で価値が変わる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0686852a6ccf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "769efb8ed13f",
+          "text": "失敗しない人はいません。違いが出るのは、そこから何を持ち帰るかです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "753a99062a66",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "df5c5e93498d",
+          "text": "大切なのは、次のポイントです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c293f7d1127f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0da4ae902d7d",
+          "text": "引きずるのは責任感・完璧主義・他人の反応への敏感さが理由",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "65ab0e55b385",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "550bee63d8e7",
+          "text": "頭から離れないのは反芻で、思い出すほど記憶は大げさになる",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "1ee2bb36582a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "72b651da1178",
+          "text": "切り替えは「書き出す・線を引く・体を動かす・1つ決める・話す」",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "edad5a18dc87",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "940b27c2d60b",
+          "text": "気概は毎日ではなく、ここぞの場面で効かせる",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "68c1ee462456",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8b87cf385c7c",
+          "text": "がむしゃらな努力より、特性に合った戦略を組み直す",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "2f51b3a39698",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b0cbd4d503d8",
+          "text": "転ぶのはしょうがない。傷つくのもしょうがない。それでも、タダでは起きない。その一点を決めておくだけで、進む先は変わっていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "28411ca744ea",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eb629308d0b5",
+          "text": "とはいえ、何を持ち帰るべきかは、自分の特性が分かっていないと決められません。同じ失敗でも、活かし方は人によって違うからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7761b8552ca6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b7800f1bbf46",
+          "text": "「失敗の受け止め方を変えたい」「自分に合う戦略を一緒に考えたい」という方は、公式LINEをのぞいてみてください。同じ気質の視点から、立て直すヒントを発信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "category": {
+    "_ref": "category-mind-care",
+    "_type": "reference"
+  },
+  "mainImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-fe5a4a6c10b88ff3c37479dacc7caf30fd4f995e-1024x572-jpg",
+      "_type": "reference"
+    }
+  },
+  "publishedAt": "2026-08-21T14:30:00.000Z",
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "826058823d16",
+      "_ref": "1879ab3c-a1fd-4f19-9acc-f35f140cec39"
+    },
+    {
+      "_type": "reference",
+      "_key": "c56a991bf563",
+      "_ref": "02f01a8f-5125-468f-9e06-694922321017"
+    },
+    {
+      "_type": "reference",
+      "_key": "bae25d0d5047",
+      "_ref": "e13082a5-5ac1-4e6b-848e-b1a0c7af8cb5"
+    }
+  ],
+  "seoDescription": "HSPが失敗を引きずるのは責任感と完璧主義、そして深く処理する気質のため。頭から離れない仕組みと、落ち込みから切り替える5つのステップ、失敗を次に活かす視点まで、野球での挫折体験を交えて解説します。",
+  "seoTitle": "HSPが失敗を引きずる理由｜頭から離れないときの切り替え方",
+  "slug": {
+    "_type": "slug",
+    "current": "hsp-kishitsu-shippai"
+  },
+  "title": "HSP気質が失敗を引きずる理由｜転んでもタダでは起きない考え方",
+  "excerpt": "失敗したあと何日も引きずってしまう。HSP気質が失敗を引きずる理由と、頭から離れないときの切り替え方を当事者の視点で解説します。"
+}
