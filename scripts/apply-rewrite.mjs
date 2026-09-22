@@ -62,6 +62,10 @@ for (const raw of bodyLines) {
 
 // ---------- 検査 ----------
 const textOf = (b) => b._type === "block" ? b.children.map((c) => c.text).join("") : b._type === "checklist" ? b.items.join("") : b.text || ""
+// 使ってよい文字の範囲。ここから外れる字（ハングル・キリル文字など）は混入とみなす。
+// 簡体字・繁体字だけの漢字は範囲では判別できないので、書き出した .draft.json を
+// iconv でCP932に往復させて確かめる（run-check.sh 参照）。
+const OK = /[　-〿぀-ヿㇰ-ㇿ一-鿿＀-￯ -~ -ÿ‐-‟…‰′″※←-⇿①-⓿■-◿☀-⛿々〆〜]/
 const problems = []
 let chars = 0
 body.forEach((b, i) => {
@@ -71,6 +75,9 @@ body.forEach((b, i) => {
   if (b._type === "block" && /^h[2-4]$/.test(b.style) && /[、。]/.test(t)) problems.push(`見出しに句読点: ${t}`)
   if (/を、/.test(t)) problems.push(`「を、」: ${t.slice(0, 40)}…`)
   if (/[０-９]/.test(t)) problems.push(`全角数字: ${t.slice(0, 40)}…`)
+  // 日本語以外の文字（ハングルなど）の混入を検出する
+  const bad = [...t].filter((ch) => !OK.test(ch))
+  if (bad.length) problems.push(`日本語でない文字 [${[...new Set(bad)].join("")}]: ${t.slice(0, 40)}…`)
   if (/診断|克服|治す|症状|クリニック|治療/.test(t) && !/医学的な診断/.test(t)) problems.push(`避ける語: ${t.slice(0, 40)}…`)
 })
 // h2直下（次のh3まで）の段落数と、h3配下の段落数
@@ -101,15 +108,18 @@ const c = createClient({
   apiVersion: "2026-05-31", token: process.env.SANITY_API_TOKEN, useCdn: false, perspective: "raw",
 })
 if (!front.id) { console.error("id: が要ります"); process.exit(1) }
-const pub = await c.getDocument(front.id)
-if (!pub) { console.error("公開ドキュメントが見つかりません: " + front.id); process.exit(1) }
 const draftId = "drafts." + front.id
+const pub = await c.getDocument(front.id)
 const draft = await c.getDocument(draftId)
+// 未公開の下書きだけの記事もある。その場合は下書きを土台にする
+// 読み取り専用のトークンでは下書きが見えないので、その場合は最小限の土台で書き出す
+const basedoc = pub || draft || { _id: front.id, _type: "post", slug: { _type: "slug", current: front.slug } }
+if (!pub && !draft) console.warn("※ このトークンでは記事を読めません（未公開の下書きなど）。本文だけを書き出します")
 const now = Date.now()
 for (const d of [pub, draft]) {
   if (d && now - Date.parse(d._updatedAt) < 60 * 60 * 1000) { console.error(`直近60分に編集があります（${d._id} ${d._updatedAt}）。止めます`); process.exit(1) }
 }
-if (front.baseRev && pub._rev !== front.baseRev) { console.error(`書き出し時の rev（${front.baseRev}）と今の rev（${pub._rev}）が違います。止めます`); process.exit(1) }
+if (front.baseRev && basedoc._rev !== front.baseRev) { console.error(`書き出し時の rev（${front.baseRev}）と今の rev（${basedoc._rev}）が違います。止めます`); process.exit(1) }
 
 fs.mkdirSync("docs/audit-2026-09-20/snapshots", { recursive: true })
 const stamp = new Date().toISOString().replace(/[:.]/g, "-")
@@ -122,7 +132,7 @@ if (front.related) {
   relatedPosts = slugs.map((s) => hits.find((h) => h.slug === s)).filter(Boolean).map((h) => ({ _type: "reference", _key: key(), _ref: h._id }))
   if (relatedPosts.length !== slugs.length) console.warn("関連記事のうち見つからないものがあります:", slugs.filter((s) => !hits.find((h) => h.slug === s)))
 }
-const { _rev, _updatedAt, _createdAt, ...base } = pub
+const { _rev, _updatedAt, _createdAt, ...base } = basedoc
 const next = { ...base, _id: draftId, body }
 for (const f of ["title", "seoTitle", "seoDescription", "excerpt", "audience"]) if (front[f]) next[f] = front[f]
 if (relatedPosts) next.relatedPosts = relatedPosts

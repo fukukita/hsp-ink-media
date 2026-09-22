@@ -1,0 +1,1406 @@
+{
+  "_id": "drafts.02f01a8f-5125-468f-9e06-694922321017",
+  "_system": {
+    "base": {
+      "id": "02f01a8f-5125-468f-9e06-694922321017",
+      "rev": "S5cUUMsZa96UQf9QuK5SPo"
+    }
+  },
+  "_type": "post",
+  "audience": "hsp",
+  "body": [
+    {
+      "_type": "block",
+      "_key": "e6df66809543",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b5a678d2ba8a",
+          "text": "提案を却下された。少しきつい言い方で注意された。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cd5c67bb4055",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "eee2d28905df",
+          "text": "ほんの数秒のやり取りなのに、心臓の鼓動が跳ね上がり、頭のなかが真っ白になる。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc3e922ca9eb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c3ec51b54252",
+          "text": "そして家に帰ってからも、その場面が何度も浮かんでくる。周りはとっくに忘れているのに、自分だけが引きずっている。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "59749341a2cb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6bb5add8d7e4",
+          "text": "HSP気質があれば、こんな経験が一度はあると思います。私も企画を否定されるたびに、何日も沈んでいました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "49ed1e0e69ee",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "06fad7275ce3",
+          "text": "つらいのは、そのダメージの大きさが周りに伝わらないことです。「そんなに気にしなくていいのに」で終わってしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c51ba5e0db1c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5aacbc579806",
+          "text": "この記事では、HSPが注意されると落ち込む理由と、頭から離れないときの受け流し方について、私の体験から解説していきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d64ccddf9d24",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7dcfa1ff4850",
+          "text": "まずは、こんな心当たりがないか振り返ってみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "f4b98a8e7db1",
+      "items": [
+        "注意されると頭が真っ白になって、言葉が出ない",
+        "相手に悪意がなくても、ちょっとした一言でダメージを受ける",
+        "注意された場面が、帰宅後も頭から離れない",
+        "「私は繊細だから」と伝えても、まるで理解されない",
+        "傷つくのが怖くて、だんだん発言できなくなっている"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "3b22a34d13de",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "95c301f988ce",
+          "text": "当てはまるほど、職場という場所で消耗しやすい状態かもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e8df04d05d2c",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca023ef5a396",
+          "text": "HSPが注意されると人一倍落ち込む3つの理由",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0e4c76daed9e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f90b624b720",
+          "text": "まず、なぜ自分だけこんなに落ち込むのかを整理します。理由が分かると、「打たれ弱い自分が悪い」という前提が外れます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c3949f207a7e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5759c1b2f662",
+          "text": "原因は性格ではなく、HSPの気質にあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "041c804ecbcb",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f81929354c25",
+          "text": "①相手の感情まで丸ごと受け取ってしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3eceabf4b7ac",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d20ea49eb2c4",
+          "text": "1つ目は、言葉だけでなく相手の感情まで受け取ってしまうことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e52e115d65c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c71e6ea22178",
+          "text": "注意されたとき、HSPは内容より先に相手の声の強さ、表情、その場の空気を拾います。だから同じ言葉でも、不機嫌な人から言われると倍のダメージになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "da07c4b6002a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "33a60021c487",
+          "text": "私も指摘の中身は正しいと分かっていながら、言い方のきつさだけが残る、ということが何度もありました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b0ee6cd223b1",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6557f0611ab7",
+          "text": "②意見への否定を人格への否定と感じる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e626ddbc1df0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fdf6b2e65892",
+          "text": "2つ目は、否定された範囲を広く受け取ってしまうことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e57b466d82ee",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1158d966cbc2",
+          "text": "否定されたのは提案の一部なのに、知識も能力も人格も全部ダメだと言われた気がしてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7a391b76a1ad",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1c9ed1b761e4",
+          "text": "範囲が広がるほど、落ち込みは深く長くなります。実際に否定されたのは、ほんの一部だけなのにです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c568eb2793d8",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b3a6ee22a703",
+          "text": "③過去に言われた言葉とつながってしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "999845b0c8e0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4c871c191d9f",
+          "text": "3つ目は、今回の注意が過去の記憶と結びつくことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "df8c57e30be1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2578a85f7158",
+          "text": "HSPは受け取った情報を深く処理するので、似た場面が記憶の中でつながります。今日の一言が、昔叱られた場面まで呼び起こしてしまうのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "252e9abc469e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ba543dca3849",
+          "text": "だから「そんな大したことないよ」と言われても、本人の中では積み重なった重さになっています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3e569bef05c9",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "55b468d956ed",
+          "text": "注意された直後にやること",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "adbfa09800f4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3c9777752c01",
+          "text": "落ち込みが深くなるかどうかは、注意された直後の数分で決まります。ここで抱え込むと、そのまま持ち帰ってしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e7a6179c772f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "36454a947c03",
+          "text": "その場でできることは2つだけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "090d1a62e691",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bca0f3e870ad",
+          "text": "まず事実だけを受け取る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "54e5fdd76a37",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0202720b62ba",
+          "text": "1つ目は、言われた内容を事実として書き留めることです。手帳でもスマホでも構いません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "43a3c3655dc1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0692b7e0c6a7",
+          "text": "「数字の確認が漏れていた」のように事実だけを書くと、感情が乗る前の形で残せます。あとで見返したとき、思ったより小さい指摘だったと気づけます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6b9fe91f9f7b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c2e2c9533415",
+          "text": "頭の中に置いたままだと、時間とともに言われた内容が大げさになっていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "eaf17adc5b38",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c70955decbe8",
+          "text": "その場で結論を出さない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5ea8bd4a7081",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f311e5c46894",
+          "text": "2つ目は、その場で自分を評価しないことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "26351b855126",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c749818d646d",
+          "text": "注意された直後は、頭が真っ白で冷静に考えられません。その状態で「自分は向いていない」と結論を出すと、判断を誤ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "32866f25df7b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4d550e348071",
+          "text": "「今は判断しない」と決めて、その日は持ち越す。翌朝に読み返すと、驚くほど印象が変わっていることがあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4401bd1bbcfc",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "63b784ac7eb7",
+          "text": "落ち込みを長引かせない受け流し方",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fb184e5c5199",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d8e217602734",
+          "text": "直後をしのいだら、次は受け止め方そのものを変えていきます。ここが変わると、注意されても沈む時間が短くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "39c67ca084d4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cb7f2b331617",
+          "text": "私が実際に使っている構えを3つ紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "393faa736c38",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e31de3864ea0",
+          "text": "批判される前提で構えておく",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "44e488bf5812",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a245ab3ecc32",
+          "text": "そもそも批判は来るものだと想定し、「そういう見方もあるのか」というスタンスで構えておきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "043994ea6d5d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0d7ba7edb620",
+          "text": "もちろん、こちらに非がある指摘は真摯に受け止めるべきです。ですが答えが一つに決まらないことへの批判なら、深く抱え込む必要はありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "25f2bc46c619",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fa234f362730",
+          "text": "私も企画会議でよく否定されます。以前は「いいアイデアなのに」と憤っていました。ですが良し悪しの基準は人それぞれで、深く考えずに言っている人も少なくありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "64db23e20a9e",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "95c07ce89cb1",
+          "text": "「自分」と「意見」を切り分ける",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "22a2c7294b55",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3818be06d27b",
+          "text": "とはいえ、そう簡単に受け流せないのも事実です。そんなときは、自分自身と提案内容を切り分けてみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4488676b6e8c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "74cdafa463e9",
+          "text": "否定されているのは、あなたではありません。あくまで意見や提案が否定されているだけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "17b4cb3f8cd8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8eb3afb213ba",
+          "text": "紙に「否定されたもの＝企画書のこの部分」と書き出すと、範囲が目で見えます。範囲が決まると、落ち込みも決まった大きさに収まります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e9aed9c4e219",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "48b9b744d86b",
+          "text": "建設的な意見は「材料」として使う",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bb7ee2c20eec",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a63bd05bd8d9",
+          "text": "筋が通った指摘なら、「よさそうだから取り入れてみよう」と軽く受け取ればいい。提案の質が上がるなら、こちらにもメリットがあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "713abc8e33d9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "27ad34b25c47",
+          "text": "仕事に熱心な人ほど、よい成果のために改善点を出そうとします。多くの場合、攻撃されているわけではありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c0386c72bc67",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dddbe048649c",
+          "text": "大切なのは、重く受け止めすぎないこと。毎回傷ついて行動が止まってしまうほうが、ずっともったいないのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "e523c1bf7fe7",
+      "text": "「受け流したいのに、どうしても引きずってしまう」という方へ。繊細さを守りながら働くヒントを公式LINEで発信しています。"
+    },
+    {
+      "_type": "block",
+      "_key": "b841fe74b2e6",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2367cdf945ca",
+          "text": "注意されたことが頭から離れないとき",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "016a3ad2432a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fb61c39e0d10",
+          "text": "構えを作っても、どうしても頭から離れない日はあります。とくに帰宅後や寝る前は、その場面だけが繰り返し再生されます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "051c31cd3d35",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "820021e24fae",
+          "text": "そんなときの手当てを2つお伝えします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ebf67ee936db",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0acecf1ba169",
+          "text": "相手の機嫌は自分の責任ではない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6f573388b1fe",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fe074b58b67c",
+          "text": "1つ目は、責任の範囲を決めることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "00b1a418e232",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1746d3f46ec3",
+          "text": "注意の中身に自分の落ち度があったなら、直せばいい。ですが相手の機嫌や言い方まで、自分が引き受ける必要はありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1ecc0d9d23c9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7ad7b2aef9c6",
+          "text": "「内容は自分の課題、言い方は相手の課題」と線を引くだけで、持ち帰る荷物がぐっと軽くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "74b43d9bb3da",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ae7c1367c398",
+          "text": "反芻が止まらないときは体を動かす",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "54871018f8b5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4a95b0dbe25d",
+          "text": "2つ目は、考えるのをやめて体を動かすことです。散歩でも掃除でも風呂でも構いません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "198e0e6f014b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d01e96da0daf",
+          "text": "同じ場面を繰り返し再生する反芻は、頭の中だけで完結します。「考えないようにしよう」と考えるほど続くので、別の入力を入れるほうが早く止まります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bd255ccbf91d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "950e75f0299f",
+          "text": "引きずる仕組みと切り替え方は、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "12bd1922983f",
+          "text": "失敗を引きずる理由と切り替え方",
+          "marks": [
+            "4fafd0cad3f0"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "8515ca56f8ef",
+          "text": "で詳しく書いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "4fafd0cad3f0",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hsp-kishitsu-shippai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "55de5b5401c1",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e8c9c346dce",
+          "text": "繊細さは主張せず「共感される形」で伝える",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f08dbd469c2e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b7bfac5abecd",
+          "text": "受け止め方が整ったら、最後は伝え方です。傷つきやすさを分かってほしい気持ちは、痛いほど分かります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c23823f461dd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5ddd1fa7a18a",
+          "text": "ですが伝え方を間違えると、かえって立場が悪くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "16fefc7fa1b4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "195d23688790",
+          "text": "繊細さを主張しても事態は好転しない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0c78a3bce5e1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "712f8dc13373",
+          "text": "こちらがどれだけ傷ついているか、他者には分かりません。心が可視化されているわけではないからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "080666f44b26",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6ecc6abfed6b",
+          "text": "しかも人は、どうしても自分を基準に物事を考えます。自分が平気なことで他人が傷つくと「甘えではないか」と感じてしまうのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9050126497a9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "14ab613dff28",
+          "text": "「私は傷つきやすいんです」と繰り返し訴えると、「扱いにくい人」というレッテルを貼られる危険すらあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a3032cf5fe08",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4ad0d99889b6",
+          "text": "「繊細だから」ではなく「こうしてくれると嬉しい」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6a0ab49ec9cd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e78b1de6130e",
+          "text": "では、どう伝えるか。鍵は、相手が寄り添いたくなる形に変えることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "06988680fc75",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a52e2688b209",
+          "text": "「私は繊細なんだから優しくして」と伝えるのと「もう少しソフトに言ってくれると嬉しい」と伝えるのとでは、印象がまるで違います。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "87f984c75041",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2f3d90ba56f7",
+          "text": "前者は要望の押しつけに聞こえますが、後者は具体的なお願いとして受け取ってもらえます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "321916af7d7f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f8a98cb48904",
+          "text": "そして優しくしてもらえたときは「そう言ってもらえて助かりました」と伝える。それだけで相手は「またそうしよう」と思ってくれます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4ec13d02458",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cfb3e56be1d1",
+          "text": "職場では「正論」が優先されると知っておく",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5e3134492b93",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a5c119cd1580",
+          "text": "ただし、職場ではこの工夫にも限界があります。仕事の場は「正しいことを言えば許される」という空気が強いからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b1432227d397",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b78e0d93e726",
+          "text": "会社の利益になる指摘であれば、多少言い方が乱暴でも黙認されがちです。「傷つくから」という感情面の理由より、成果につながる意見のほうが優先されてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "59b29448fed0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c8050862fe59",
+          "text": "つまり職場では、伝え方を工夫するより先に、受け止め方を変えたほうが早いのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7b641a4b66cf",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "98e2d3e59e9e",
+          "text": "受け流せるようになると消耗が減る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2d6d095ce865",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ae76ba76c9bf",
+          "text": "受け流す構えができると、注意された瞬間のダメージが目に見えて小さくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc5553addbc0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1c4b4b7e7e01",
+          "text": "もちろんHSP気質があるので、まったく傷つかないわけではありません。それでも「待てよ、本当にそうだろうか」と一呼吸おけるようになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "65dc6d57eb3a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "52a1994b3c92",
+          "text": "相手の言葉を鵜呑みにして必要以上に落ち込むことが減る。結果として、職場での生きづらさは確実に軽くなっていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b4a2956ae6bd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5e85e8e246ea",
+          "text": "それでも消耗が続くなら、そもそも環境が合っていない可能性もあります。人との距離の取り方は、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "e96fa8c6edef",
+          "text": "人間関係が疲れる理由",
+          "marks": [
+            "598f4309139c"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "2713ad276585",
+          "text": "もあわせてご覧ください。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "598f4309139c",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ningenkankei",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "eac0f6eb6156",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "94d12887dd47",
+          "text": "まとめ｜落ち込むのは気質｜守り方は変えられる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f180b25929a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e75c020f3b05",
+          "text": "注意されて落ち込むのは、打たれ弱いからではありません。相手の感情まで受け取り、深く処理する気質から自然に起きています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "511043734130",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "099717f4645c",
+          "text": "大切なのは、次のポイントです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ab5673c32627",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a5a4ebc42a3",
+          "text": "落ち込む理由は「相手の感情を受け取る・範囲を広げる・過去とつながる」",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "b03ab6b2adf6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7daeac10bbad",
+          "text": "注意された直後は事実だけ書き留め、その場で結論を出さない",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "ed54b8fc5a85",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "25fb07da5629",
+          "text": "批判は来る前提で構え、「自分」と「意見」を切り分ける",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "5c8e3ea29a2e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "217bb6ba7a0e",
+          "text": "頭から離れないときは責任の線を引き、体を動かして止める",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "67bed9dc2417",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2f6caf3bbad7",
+          "text": "繊細さは主張せず「こうしてくれると嬉しい」に言い換える",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "960ddcbf074f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b187bce52301",
+          "text": "繊細さを変えることはできませんが、守り方さえ身につければ、その気質のまま働き続けられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9d2466c945d6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "702c7fe8a7bd",
+          "text": "ただし、どの守り方が効くかは、傷つきやすい場面の傾向によって変わります。人の機嫌に反応するのか、評価そのものに反応するのかで、打つ手が違うからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a6a1da0507b6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d1aba0d49e50",
+          "text": "「傷つきやすさとどう付き合えばいいか」を一緒に整理したい場合は、公式LINEをのぞいてみてください。同じ気質の視点から、自分を守るヒントを発信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "category": {
+    "_ref": "category-relationships",
+    "_type": "reference"
+  },
+  "mainImage": {
+    "_type": "image",
+    "asset": {
+      "_ref": "image-0439bde9f360d423f446171e84d0dca1d9c5721b-1024x572-jpg",
+      "_type": "reference"
+    }
+  },
+  "publishedAt": "2026-08-16T02:29:00.000Z",
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "e221e46a6e1f",
+      "_ref": "548f3053-08a8-45f2-bea5-a95c35bc4230"
+    },
+    {
+      "_type": "reference",
+      "_key": "27ff7fada73f",
+      "_ref": "0a80c320-9b46-4a2b-bc32-4c1fa5607609"
+    },
+    {
+      "_type": "reference",
+      "_key": "f96d32fee2b5",
+      "_ref": "1879ab3c-a1fd-4f19-9acc-f35f140cec39"
+    }
+  ],
+  "seoDescription": "HSPが注意されると人一倍落ち込むのは、相手の感情まで受け取り、意見への否定を人格への否定と感じてしまうから。注意された直後の受け止め方、落ち込みを長引かせない受け流し方、共感される伝え方まで当事者の視点で解説します。",
+  "seoTitle": "HSPが注意されると落ち込む理由｜頭から離れないときの受け流し方",
+  "slug": {
+    "_type": "slug",
+    "current": "hsp-shokuba-kizutsuku"
+  },
+  "title": "HSPが注意されると落ち込むのはなぜ？頭から離れないときの受け流し方",
+  "excerpt": "少し注意されただけなのに、頭が真っ白になって何日も引きずる。HSPが注意されると落ち込む理由と、職場で繊細さを守る受け流し方を解説します。"
+}

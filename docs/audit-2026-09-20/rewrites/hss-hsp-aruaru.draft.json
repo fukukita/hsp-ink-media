@@ -1,0 +1,1592 @@
+{
+  "_id": "drafts.957f8071-f762-4ac2-9904-36f1bcf72c48",
+  "_type": "post",
+  "slug": {
+    "_type": "slug",
+    "current": "hss-hsp-aruaru"
+  },
+  "body": [
+    {
+      "_type": "block",
+      "_key": "3a6c0f336299",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4934e637cba8",
+          "text": "「あれ、これ自分のことかも」",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "001ea9b0adcd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3f9c6b7832da",
+          "text": "HSS型HSPのあるあるを読んだとき、そう感じる方は多いはずです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fef7fada762d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "69a697b6fcfb",
+          "text": "刺激を求めて飛び出すのに、繊細でその刺激に疲れる。この矛盾が、独特のあるあるを生みます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "23311553941b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c74f3f9fe184",
+          "text": "私自身、この気質を知るまでは「なぜ自分はこんなにちぐはぐなのか」と悩んでいました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f1a408aaae6f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "de8e7050f458",
+          "text": "この記事では、HSS型HSPのあるあるを気質・仕事・人間関係・恋愛・メンタルの5分野で20個紹介していきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a084e44aa89e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c29c2d8cb430",
+          "text": "それぞれ「なぜそうなるのか」も添えるので、いくつ当てはまるかチェックしながら読んでみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "af548f0b5d2c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "253ab2601b98",
+          "text": "まずは、代表的なあるあるから。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "9c00c765b17b",
+      "items": [
+        "「これだ」と始めても、たいてい途中で飽きる",
+        "初対面は愛想がいいのに、2回目からそっけなくなる",
+        "完璧主義で、自分に合格点を出せない",
+        "人は好きなのに、会うとどっと疲れる",
+        "「何がやりたいのか」が分からず迷子になる"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "aa45eed69ba4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "342c4056ab67",
+          "text": "3つ以上当てはまるなら、この先もかなり心当たりがあるはずです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2481b12ede1f",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "82f57bfc4864",
+          "text": "そもそもHSS型HSPとは｜矛盾が生むあるある",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "49fe3b2ff68d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fea14436bbe9",
+          "text": "HSS型HSPとは、刺激を求めるHSSと、繊細で敏感なHSPを併せ持つ気質のことです。人口の約6%といわれる少数派です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "faab25d95a65",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "48b2a0ddc947",
+          "text": "アクセルとブレーキを同時に踏んでいる状態なので、行動と反動がセットで起きます。あるあるが極端に振れるのは、このためです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "21e7e5b30bd7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "18faae9a22f7",
+          "text": "気質そのものの解説は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "1ff6b67548c9",
+          "text": "HSS型HSPとは",
+          "marks": [
+            "06f72cc84cd8"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "cefd66cc412a",
+          "text": "にまとめています。ここからは、日常で起きる具体的な場面を見ていきましょう。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "06f72cc84cd8",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-towa",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "298fcbc4d5dc",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2e32517d8006",
+          "text": "【気質・性格】HSS型HSPあるある4選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f0e1b253d58b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6171260e16e9",
+          "text": "まずは根っこにある気質のあるあるです。どれも「進みたい」と「疲れたくない」が同居しているために起きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "686c40117cdd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1841bf4ba942",
+          "text": "自分の中で意見が割れている感覚に、心当たりはないでしょうか。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ebc1771d8c22",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cdf8ec49146c",
+          "text": "1. 縛られたくないのに、自由すぎると今度は不安になる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "14469c529f55",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "faf4f54e45ee",
+          "text": "決められるのは窮屈。かといって全部任されると、指針がなくて落ち着かない。ちょうどいい枠の幅が、いつまでも見つかりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "32575e8339d3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca3c8e343db0",
+          "text": "2. 感情が高ぶると頭が真っ白になり、あとでマシンガンのように話す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4a93e9a2b6b4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "63f7ad2535ca",
+          "text": "その場では言葉が出ないのに、帰り道で言いたかったことが次々あふれます。処理が深いぶん、出力までに時間がかかるのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "76c2d05ad481",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "23a1999e3c21",
+          "text": "3. 好奇心で飛び込むのに、いざ始まると帰りたくなる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5c0a155a5d81",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "62aba61ede13",
+          "text": "申し込むときはワクワクしていたのに、当日は行きたくない。アクセルとブレーキが時間差で来るので、こうなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fcc737c51df8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2646908738f7",
+          "text": "4. 「変わってる」と言われ慣れている",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "669557ffdf46",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d058bd1a83d4",
+          "text": "社交的なのに一人が好き、行動的なのに慎重。どこにも当てはまらないので、周りは分類に困ります。私も何度この言葉を聞いたか分かりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "54dce331808b",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "376226c36443",
+          "text": "【仕事・キャリア】HSS型HSPあるある4選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7d194ddf3d18",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "810c60e2343a",
+          "text": "仕事では「興味の有無」でパフォーマンスが大きく振れます。同じ人とは思えないほど差が出るのが特徴です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b48e01b25698",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1e807125f891",
+          "text": "私が20代で短期離職を繰り返したのも、この振れ幅が原因でした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "63893e02f536",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "27a38493bf5b",
+          "text": "5. 「これだ」と思って始めても、たいてい途中で飽きる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2f5183b0ef9c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "781c314bcefb",
+          "text": "全体像が見えた瞬間に、脳が「もう分かった」と判断します。熱が冷めるのは根気の問題ではなく、処理が終わったサインです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ed2471e3e865",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e1c7a3b8981a",
+          "text": "6. 全体像をつかむのが速く、見通せた途端に興味が消える",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f49006a66d63",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "df2fa6edf31b",
+          "text": "覚えが早いので最初は評価されます。ところが定着の段階で失速し、「尻すぼみ」と見られてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a3d3c8c21024",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a01b71cbe37",
+          "text": "7. 興味のないことは、まるで頭に入らず手が進まない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4e45e0fbb6a8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bc82a52396a3",
+          "text": "やる気の問題ではなく、脳がシャットダウンする感覚に近いです。私も興味の持てない分野の資料は、何度読んでも入りませんでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6748760e9b92",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa720c74a687",
+          "text": "8. 短期では成果を出すが、続かず大きく積み上がらない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e45f18368d7a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1c3738aff5c5",
+          "text": "立ち上げは得意でも、育てる工程で飽きる。飽きとの付き合い方は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "8970f4633cb9",
+          "text": "飽き性との付き合い方",
+          "marks": [
+            "8a8ee4884ac1"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "7e0bd406a2e8",
+          "text": "で詳しく書いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "8a8ee4884ac1",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-akisho-tsukiaikata",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "0f48ba56b788",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "851013f26acb",
+          "text": "【人間関係】HSS型HSPあるある4選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "eb32d97d2a80",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9805ef828dcf",
+          "text": "人間関係では「人好きなのに消耗する」矛盾がつきまといます。嫌いなわけではないのに、距離を取りたくなるのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5c690bd67736",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4f975cae70fd",
+          "text": "この矛盾が、周りに誤解される原因にもなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a12d63c8df5b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fd35b3bf75d8",
+          "text": "9. 初対面は愛想がいいのに、2回目からそっけなくなる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "94036e59d820",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4e062f2c4632",
+          "text": "初対面は緊張感で乗り切れますが、その反動で電池が切れます。急に静かになるので「嫌われた」と思われがちです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9ad88ec8c9cc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cc22c25306c6",
+          "text": "10. 人は好きなのに、会って帰るとどっと疲れている",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3f0720adb4c6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c916afdb4747",
+          "text": "相手の表情や声色まで拾い続けるので、楽しい時間でも消耗します。楽しさと疲れは、同時に来るのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f93ecc7f6d9b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "88a313e87d46",
+          "text": "11. 場の空気を乱すと分かっていても、言うべきことは言ってしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6c08f55e481c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4e242d48abda",
+          "text": "空気は誰より読めるのに、黙っていられない。読めるからこそ、おかしいと感じた点も見えてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8e6db7263797",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f84bd197516a",
+          "text": "12. 高圧的・攻撃的な人に、人一倍ダメージを受ける",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0862064384d6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2a88ba21a46a",
+          "text": "大きな声や不機嫌な態度は、内容に関係なく刺さります。消耗の仕組みは",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "cc91650f5342",
+          "text": "人間関係が疲れる理由",
+          "marks": [
+            "b4f099cd23da"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "1d305b5d8d87",
+          "text": "で解説しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "b4f099cd23da",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ningenkankei",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "159683b6834a",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c6d40456a40f",
+          "text": "【恋愛】HSS型HSPあるある4選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3d3a28579a2e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "11c565b7698a",
+          "text": "恋愛でも、刺激を求める気持ちと繊細さがぶつかります。近づきたいのに、近づきすぎると苦しい。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c0fe40811c10",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "79edafc480dc",
+          "text": "「自分は恋愛に向いていないのでは」と感じたことがあるかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d20878533f4b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7df4ab647553",
+          "text": "13. 好きになるのは早いが、冷めるのも早い",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "24a272f69ee6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e7e82e8c21f5",
+          "text": "気になった瞬間は一直線。ところが相手が見えてくると、熱が引いていきます。飽きと同じ仕組みが働いています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ec048058c2e7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ee2bd0147da1",
+          "text": "14. 相手の機嫌に敏感で、返信の速さまで気になる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e4fdaf278000",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e2f95a22f74b",
+          "text": "短い返信や既読の間隔から、相手の状態を読み取ろうとします。考えすぎて、自分から疲れてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f409c564a5c2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8c5fc238b211",
+          "text": "15. ひとりの時間がないと苦しいのに、放っておかれると寂しい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a56bbbafd0b4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4fd7d8f32be8",
+          "text": "会いたいけれど、毎日は無理。この温度差が、相手を戸惑わせることもあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e2c7f81398ae",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b8e7d3e21545",
+          "text": "16. 刺激的な相手に惹かれるのに、振り回されて消耗する",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "56e1c38494fd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6d5eb5be7a7f",
+          "text": "安定した関係は退屈に感じ、刺激のある相手は疲れる。ちょうどいい距離を探し続けることになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "7de4ca1169b4",
+      "text": "「当てはまるものが多くて驚いた」という方へ。自分の気質をもう一歩深く知るヒントを公式LINEでお伝えしています。"
+    },
+    {
+      "_type": "block",
+      "_key": "7314c2c18538",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c6c76030ad5b",
+          "text": "【メンタル】HSS型HSPあるある4選",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "305453797ede",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9b3f97c67d3a",
+          "text": "メンタル面では、繊細さと高い理想が自分を追い詰めます。挑戦の数が多いぶん、傷の数も増えていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9873ef601195",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "736ae65eabff",
+          "text": "ここが一番しんどい、という方も多いはずです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "822639e99b30",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fed07e3f2d3a",
+          "text": "17. 完璧主義で、自分になかなか合格点を出せない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3a1f5b786148",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a276e270a522",
+          "text": "8割できていても、できなかった2割に目が向きます。減点方式なので、成果が出ても満たされません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b1528c9d0bfe",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e0b347f22614",
+          "text": "18. 減点方式で自分を見て、つい上の人と比べて落ち込む",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c3641bbd62c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dbdd92a20715",
+          "text": "比べる相手はいつも自分より上の人です。届かない距離を測っては、落ち込む材料にしてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1890bf07b24d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "820d05d22af2",
+          "text": "19. 過去の小さな失敗を何度も反芻してしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1dbdc1ea0d07",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c01b1e64aacc",
+          "text": "深く処理する気質が、失敗に向くと反芻になります。対処は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "2774b9dc149c",
+          "text": "失敗を引きずる理由と切り替え方",
+          "marks": [
+            "c59da50efd22"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "4e098d10bc06",
+          "text": "にまとめました。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "c59da50efd22",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hsp-kishitsu-shippai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "5c985066b59b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6c1566eb4a00",
+          "text": "20. 繊細なのに刺激を求める、矛盾した自分に振り回されて疲れる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "634a77019c14",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5b5fe24ec90a",
+          "text": "進みたい自分と休みたい自分が、毎日せめぎ合っています。この綱引き自体が、消耗の正体です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8f813e2ff6ce",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4d9a365efd89",
+          "text": "いくつ当てはまった？点数式セルフチェック",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2ab35367b57f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e7c3643fc8cc",
+          "text": "20個のうち、いくつ当てはまったでしょうか。目安を置いておきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5e002bca63d7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7bd67b5c4ad0",
+          "text": "医学的な判定ではなく、気質の傾向を知るためのものです。あくまで自分を理解する手がかりとして使ってください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "83f45cffcda8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9612e6bef4fb",
+          "text": "0〜4個：HSS型HSPの傾向は弱め。別のタイプかもしれません",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "62c2ab8956c0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "11b6d60281ff",
+          "text": "5〜9個：どちらかの気質が濃いタイプ。場面によって出方が変わります",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "0ecba849bdb2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d64c758fe69d",
+          "text": "10〜14個：HSS型HSPの傾向がはっきりあります",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "996066ea0cb6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b09c50325ad6",
+          "text": "15個以上：かなり濃いタイプ。消耗しやすいので守り方が要ります",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "b1e8195bf5ab",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e5eb65711295",
+          "text": "刺激追求と繊細さのどちらが濃いかで、効く対策は変わります。自分の濃淡は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "d4f81c4d185b",
+          "text": "生きづらさは「濃淡」で変わる",
+          "marks": [
+            "882e9a568ba7"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "c703592eeaff",
+          "text": "で確かめられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "882e9a568ba7",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ikizurai-gradation",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "9403e9f27cdf",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "65bec816d869",
+          "text": "あるあるに当てはまったらどうすればいいか",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c84bdb468ca1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f7d047dc0aa0",
+          "text": "当てはまる数が多いほど、これまで生きづらさを感じてきたはずです。ただ、当てはまること自体は問題ではありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "83036c7f834f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "779ee00eded3",
+          "text": "大切なのは、ここからどう扱うかです。3つだけお伝えします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "48157d98a37c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aad9c8f3231a",
+          "text": "まず「気質である」と認める",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "58a755e293a9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5911669249b0",
+          "text": "1つ目は、直そうとしないことです。飽きも人見知りも、気質から自然に起きています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "60a4c346a274",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1b9fb6072d26",
+          "text": "意志で変えようとするほど、うまくいかない自分を責める回数が増えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bd83574ce288",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7fa6e6096b3f",
+          "text": "私もこの気質を知ってから、「自分が悪いのではない」と腑に落ちて、ずいぶん楽になりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c93caf01e14a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b0af46f698ed",
+          "text": "環境と予定を気質に合わせる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "722cf5f9d622",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "259245218890",
+          "text": "2つ目は、自分を変えるのではなく、環境と予定を変えることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2f7f4362a448",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ec356cf9dd1c",
+          "text": "飽きる前提で仕組みを作る、人に会う日と一人の日を分ける、休む日を先に予定へ入れる。どれも気質に合わせる工夫です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7ec29b7e82dc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "deaf6220b5ce",
+          "text": "変えられないものを変えようとせず、変えられるものから動かすほうが早く効きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "03cbd5ac160c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1e5237634bc8",
+          "text": "当てはまった項目を言葉にしておく",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f05404e8ccea",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "129aa5cf2ca5",
+          "text": "3つ目は、当てはまった項目を書き留めておくことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "608ef22febfe",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ff834801c185",
+          "text": "「自分は2回目から電池が切れる」と分かっていれば、人に説明もできますし、予定も組みやすくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "02e2ec49cb42",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ca4c275baf52",
+          "text": "自己肯定感が下がりやすい方は、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "8c6313f3b4a6",
+          "text": "自己肯定感が低くなる理由",
+          "marks": [
+            "e92d88af9398"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "f7b09a867597",
+          "text": "もあわせてご覧ください。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "e92d88af9398",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-koteikan",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "3464b65a17fe",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0f654982d851",
+          "text": "まとめ｜あるあるは「矛盾した気質」から生まれる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3eacca1028cd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ea88e8c24220",
+          "text": "HSS型HSPのあるあるは、刺激追求と繊細さという矛盾から生まれます。当てはまっても、あなたが変なわけではありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "da08393c2ecd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7653babc00d7",
+          "text": "気質：自由と不安、社交と人見知りなど矛盾を抱える",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "c7b7e70b37f8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5715a53a7576",
+          "text": "仕事：飽きやすく、興味の有無で成果が大きく振れる",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "b5c2d6bf2195",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a64f7f9d657b",
+          "text": "人間関係：人は好きだが消耗し、つい本音を言う",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "000d336d673a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "00fc4f35e89a",
+          "text": "恋愛：近づきたいのに、近づきすぎると苦しい",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "0dc89d9166b9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "12ab78b0eaab",
+          "text": "メンタル：完璧主義と減点方式で自己肯定感が下がりやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "aac8abe5bf4e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dfe2bb9dac3d",
+          "text": "当てはまる項目が多いほど、気質を知る効果も大きくなります。まず知ることが、生きづらさをほどく一歩です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2b540c2e8e03",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "633dff8ea61c",
+          "text": "とはいえ、あるあるが分かっても「では自分はどう動けばいいのか」は人によって違います。濃淡も、置かれている環境も違うからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "843c6e21a96f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b5f6edc561fc",
+          "text": "「当てはまった気質をどう活かせばいいか知りたい」という方は、公式LINEをのぞいてみてください。同じ気質の視点から、自分を知り活かすヒントを発信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "title": "HSS型HSPあるある20選｜いくつ当てはまる？セルフチェック",
+  "seoTitle": "HSS型HSPあるある20選｜気質・仕事・恋愛・メンタル別に解説",
+  "seoDescription": "HSS型HSPのあるあるを気質・仕事・人間関係・恋愛・メンタルの5分野で20個紹介。なぜそうなるのかの理由と当事者の実例つきで、点数式のセルフチェックと当てはまったときの向き合い方まで解説します。",
+  "excerpt": "「これ、自分のことかも」。HSS型HSPのあるあるを5分野で20個、理由と実例つきで紹介します。いくつ当てはまるかチェックしてみてください。",
+  "audience": "hss-hsp",
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "951bdf77c7ca",
+      "_ref": "cf68abd8-51d6-4b2f-be37-2c865b199686"
+    },
+    {
+      "_type": "reference",
+      "_key": "bcddfe3dace8",
+      "_ref": "0f70de70-62a5-43a7-ac9e-d1bbdbda5ecc"
+    },
+    {
+      "_type": "reference",
+      "_key": "59d28e0f9ab4",
+      "_ref": "1879ab3c-a1fd-4f19-9acc-f35f140cec39"
+    }
+  ]
+}

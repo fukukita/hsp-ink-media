@@ -1,0 +1,885 @@
+{
+  "published": {
+    "_createdAt": "2026-08-12T13:54:19Z",
+    "_id": "02f01a8f-5125-468f-9e06-694922321017",
+    "_rev": "S5cUUMsZa96UQf9QuK6yk2",
+    "_system": {
+      "base": {
+        "id": "02f01a8f-5125-468f-9e06-694922321017",
+        "rev": "S5cUUMsZa96UQf9QuK5SPo"
+      }
+    },
+    "_type": "post",
+    "_updatedAt": "2026-08-16T02:40:17Z",
+    "audience": "hsp",
+    "body": [
+      {
+        "_key": "k01",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k01s",
+            "_type": "span",
+            "marks": [],
+            "text": "提案を却下された。否定的な意見を言われた。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k02",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k02s",
+            "_type": "span",
+            "marks": [],
+            "text": "ほんの少しのことなのに、心臓の鼓動が跳ね上がり、頭のなかが真っ白になる。HSP気質があると、こんな場面で深く傷ついてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k03",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k03s",
+            "_type": "span",
+            "marks": [],
+            "text": "つらいのは、その繊細さが周りに伝わらないことです。この記事では、職場で傷つきにくくなるための考え方と伝え方について、私自身の体験から解説します。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k04",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k04s",
+            "_type": "span",
+            "marks": [],
+            "text": "まずは、こんな心当たりがないか振り返ってみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k05",
+        "_type": "checklist",
+        "items": [
+          "否定的な意見を言われると、頭が真っ白になって言葉が出ない",
+          "相手に悪意がなくても、ちょっとした一言でダメージを受ける",
+          "「私は繊細だから」と伝えても、まるで理解されない",
+          "却下された提案を、何日も引きずってしまう",
+          "傷つくのが怖くて、だんだん発言できなくなっている"
+        ]
+      },
+      {
+        "_key": "k06",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k06s",
+            "_type": "span",
+            "marks": [],
+            "text": "当てはまるほど、職場という場所で消耗しやすい状態かもしれません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh1",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh1s",
+            "_type": "span",
+            "marks": [],
+            "text": "繊細さを主張しても事態は好転しない"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "k07",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k07s",
+            "_type": "span",
+            "marks": [],
+            "text": "傷つきやすさを分かってほしい。その気持ちは痛いほど分かります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k07b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k07bs",
+            "_type": "span",
+            "marks": [],
+            "text": "ですが残念ながら、繊細さを前面に出しても状況は変わりません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh1a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh1as",
+            "_type": "span",
+            "marks": [],
+            "text": "心の傷は他人からは見えない"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k08",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k08s",
+            "_type": "span",
+            "marks": [],
+            "text": "こちらがどれだけ傷ついているか、他者には分かりません。心が可視化されているわけではないからです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k09",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k09s",
+            "_type": "span",
+            "marks": [],
+            "text": "しかも人は、どうしても自分を基準に物事を考えます。自分が平気なことで他人が傷つくと「甘えではないか」と感じてしまうのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k10",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k10s",
+            "_type": "span",
+            "marks": [],
+            "text": "HSP気質を持つのは、全体の2割ほどと言われています。少数派の感覚は、多数派にはなかなか想像できません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh1b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh1bs",
+            "_type": "span",
+            "marks": [],
+            "text": "「面倒な人」と見られるリスクもある"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k11",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k11s",
+            "_type": "span",
+            "marks": [],
+            "text": "「私は傷つきやすいんです」と訴えても、「根性が足りない」「気合でなんとかなる」と一蹴されて終わることが少なくありません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k12",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k12s",
+            "_type": "span",
+            "marks": [],
+            "text": "それどころか、繊細さを繰り返し主張すると「扱いにくい人」というレッテルを貼られる危険すらあります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k13",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k13s",
+            "_type": "span",
+            "marks": [],
+            "text": "世の中がHSPに優しくないのは事実です。ですが、不条理を嘆いても変わりません。だからこそ、自分を守る方法を用意しておく必要があります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh2",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh2s",
+            "_type": "span",
+            "marks": [],
+            "text": "要望は「共感される形」に言い換える"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "k14",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k14s",
+            "_type": "span",
+            "marks": [],
+            "text": "では、どうすればいいのか。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k14b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k14bs",
+            "_type": "span",
+            "marks": [],
+            "text": "鍵は、相手が寄り添いたくなる伝え方に変えることです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh2a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh2as",
+            "_type": "span",
+            "marks": [],
+            "text": "「繊細だから」ではなく「こうしてくれると嬉しい」"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k15",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k15s",
+            "_type": "span",
+            "marks": [],
+            "text": "たとえば、きつい言い方をされたとき。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k15b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k15bs",
+            "_type": "span",
+            "marks": [],
+            "text": "「私は繊細なんだから優しくして」と伝えるのと「もう少しソフトに言ってくれると嬉しい」と伝えるのとでは、印象がまるで違います。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k16",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k16s",
+            "_type": "span",
+            "marks": [],
+            "text": "前者は要望の押しつけに聞こえますが、後者は具体的なお願いとして受け取ってもらえます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k17",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k17s",
+            "_type": "span",
+            "marks": [],
+            "text": "そして優しくしてもらえたときは「そう言ってもらえて助かりました」と伝える。それだけで相手は「またそうしよう」と思ってくれます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh2b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh2bs",
+            "_type": "span",
+            "marks": [],
+            "text": "職場では「正論」が優先されると知っておく"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k18",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k18s",
+            "_type": "span",
+            "marks": [],
+            "text": "ただし、職場ではこの工夫にも限界があります。仕事の場は「正しいことを言えば許される」という空気が強いからです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k19",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k19s",
+            "_type": "span",
+            "marks": [],
+            "text": "会社の利益になる指摘であれば、多少言い方が乱暴でも黙認されがちです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k19b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k19bs",
+            "_type": "span",
+            "marks": [],
+            "text": "「傷つくから」という感情面の理由より、成果につながる意見のほうが優先されてしまいます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k20",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k20s",
+            "_type": "span",
+            "marks": [],
+            "text": "つまり職場では、伝え方を工夫するより先に、受け止め方を変えたほうが早いのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k_callout",
+        "_type": "lineCallout",
+        "text": "繊細さを守りながら働くヒントを、公式LINEでも発信しています。"
+      },
+      {
+        "_key": "kh3",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh3s",
+            "_type": "span",
+            "marks": [],
+            "text": "職場での否定は「受け流す」が正解"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "k21",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k21s",
+            "_type": "span",
+            "marks": [],
+            "text": "職場で否定的な意見を受けたときの対処は、ほぼ一つです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k21b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k21bs",
+            "_type": "span",
+            "marks": [],
+            "text": "まともに受け止めず、受け流すことです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh3a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh3as",
+            "_type": "span",
+            "marks": [],
+            "text": "批判される前提で構えておく"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k22",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k22s",
+            "_type": "span",
+            "marks": [],
+            "text": "そもそも批判は来るものだと想定し、「そういう見方もあるのか」というスタンスで構えておきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k23",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k23s",
+            "_type": "span",
+            "marks": [],
+            "text": "もちろん、こちらに非がある指摘は真摯に受け止めるべきです。ですが答えが一つに決まらないことへの批判なら、深く抱え込む必要はありません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k24",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k24s",
+            "_type": "span",
+            "marks": [],
+            "text": "私も企画会議でよく否定されます。以前は「いいアイデアなのに」と憤っていました。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k24b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k24bs",
+            "_type": "span",
+            "marks": [],
+            "text": "ですが良し悪しの基準は人それぞれです。深く考えずに言っている人も少なくありません。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh3b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh3bs",
+            "_type": "span",
+            "marks": [],
+            "text": "「自分」と「意見」を切り分ける"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k25",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k25s",
+            "_type": "span",
+            "marks": [],
+            "text": "とはいえ、そう簡単に受け流せないのも事実です。そんなときは、自分自身と提案内容を切り分けてみてください。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k26",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k26s",
+            "_type": "span",
+            "marks": [],
+            "text": "否定されているのは、あなたではありません。あくまで意見や提案が否定されているだけです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k27",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k27s",
+            "_type": "span",
+            "marks": [],
+            "text": "提案を否定されると、知識や能力、人格まで否定された気持ちになります。ですが厳密には違います。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k27b",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k27bs",
+            "_type": "span",
+            "marks": [],
+            "text": "仕事に熱心な人ほど、よい成果のために改善点を出そうとするだけなのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh3c",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh3cs",
+            "_type": "span",
+            "marks": [],
+            "text": "建設的な意見は「材料」として使う"
+          }
+        ],
+        "markDefs": [],
+        "style": "h3"
+      },
+      {
+        "_key": "k28",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k28s",
+            "_type": "span",
+            "marks": [],
+            "text": "筋が通った指摘なら、「よさそうだから取り入れてみよう」と軽く受け取ればいい。提案の質が上がるなら、こちらにもメリットがあります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k29",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k29s",
+            "_type": "span",
+            "marks": [],
+            "text": "大切なのは、重く受け止めすぎないこと。毎回傷ついて行動が止まってしまうほうが、ずっともったいないのです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh4",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh4s",
+            "_type": "span",
+            "marks": [],
+            "text": "受け流せるようになると消耗が減る"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "k30",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k30s",
+            "_type": "span",
+            "marks": [],
+            "text": "受け流す構えができると、否定された瞬間のダメージが目に見えて小さくなります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k31",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k31s",
+            "_type": "span",
+            "marks": [],
+            "text": "もちろんHSP気質があるので、まったく傷つかないわけではありません。それでも「待てよ、本当にそうだろうか」と一呼吸おけるようになります。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k32",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k32s",
+            "_type": "span",
+            "marks": [],
+            "text": "相手の言葉を鵜呑みにして必要以上に落ち込むことが減る。結果として、職場での生きづらさは確実に軽くなっていきます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "kh5",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "kh5s",
+            "_type": "span",
+            "marks": [],
+            "text": "まとめ｜繊細さは主張せず静かに守る"
+          }
+        ],
+        "markDefs": [],
+        "style": "h2"
+      },
+      {
+        "_key": "k33",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k33s",
+            "_type": "span",
+            "marks": [],
+            "text": "繊細さは、振りかざすほど生きづらくなります。守り方を変えるだけで、職場の消耗は減らせます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "89c99655167a",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k33s",
+            "_type": "span",
+            "marks": [],
+            "text": "大切なのは、次のポイントです。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k34",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k34s",
+            "_type": "span",
+            "marks": [],
+            "text": "心の傷は見えないため、繊細さを訴えても理解されにくい"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k35",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k35s",
+            "_type": "span",
+            "marks": [],
+            "text": "要望は「こうしてくれると嬉しい」と具体的に言い換える"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k36",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k36s",
+            "_type": "span",
+            "marks": [],
+            "text": "職場では正論が優先されるため、受け止め方を変えたほうが早い"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k37",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k37s",
+            "_type": "span",
+            "marks": [],
+            "text": "否定されたのは「自分」ではなく「意見」だと切り分ける"
+          }
+        ],
+        "level": 1,
+        "listItem": "bullet",
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k38",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k38s",
+            "_type": "span",
+            "marks": [],
+            "text": "繊細さを変えることはできませんが、守り方さえ身につければ、その気質のまま働き続けられます。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      },
+      {
+        "_key": "k39",
+        "_type": "block",
+        "children": [
+          {
+            "_key": "k39s",
+            "_type": "span",
+            "marks": [],
+            "text": "「傷つきやすさとどう付き合えばいいか」を一緒に整理したい場合は、公式LINEをのぞいてみてください。同じ気質の視点から、自分を守るヒントを発信しています。"
+          }
+        ],
+        "markDefs": [],
+        "style": "normal"
+      }
+    ],
+    "category": {
+      "_ref": "category-relationships",
+      "_type": "reference"
+    },
+    "mainImage": {
+      "_type": "image",
+      "asset": {
+        "_ref": "image-0439bde9f360d423f446171e84d0dca1d9c5721b-1024x572-jpg",
+        "_type": "reference"
+      }
+    },
+    "publishedAt": "2026-08-16T02:29:00.000Z",
+    "relatedPosts": [
+      {
+        "_key": "krel1",
+        "_ref": "0a80c320-9b46-4a2b-bc32-4c1fa5607609",
+        "_type": "reference"
+      },
+      {
+        "_key": "krel2",
+        "_ref": "c64881bd-b998-4aaf-8441-1a40cd46f95e",
+        "_type": "reference"
+      }
+    ],
+    "seoDescription": "職場で否定的な意見を言われるたびに深く傷つく。HSPが繊細さを主張しても事態は好転しません。共感を得られる伝え方と、自分と意見を切り分けて受け流す考え方を、当事者の実体験から解説します。",
+    "seoTitle": "HSPが職場で否定されて傷つく理由と繊細さを守る受け流し方",
+    "slug": {
+      "_type": "slug",
+      "current": "hsp-shokuba-kizutsuku"
+    },
+    "title": "HSPが職場で否定されて傷つくとき｜繊細さを守る受け流し方"
+  }
+}
