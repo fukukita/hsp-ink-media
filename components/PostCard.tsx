@@ -75,9 +75,13 @@ export default function PostCard({ post }: { post: Post }) {
         <h3 className="mt-2 font-bold text-ink leading-snug line-clamp-2 min-h-[2.75rem] group-hover:text-brand-600 transition-colors">
           {post.title}
         </h3>
-        <div className="mt-3 flex flex-wrap gap-x-3 text-xs text-gray-400">
+        <div className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-gray-400">
+          {showUpdated && (
+            <span className="font-bold text-brand-700 bg-brand-50 px-1.5 py-0.5 rounded">
+              更新 {fmtDate(post.updatedAt!)}
+            </span>
+          )}
           {post.publishedAt && <span>公開：{fmtDate(post.publishedAt)}</span>}
-          {showUpdated && <span>更新：{fmtDate(post.updatedAt!)}</span>}
         </div>
       </div>
     </a>

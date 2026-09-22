@@ -212,8 +212,41 @@ export default async function PostPage({ params }: Props) {
       : blocks
   const components = makeComponents(headings)
 
+  // 構造化データ。公開日と更新日を検索エンジンに直接伝える
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hsp.ink'
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: post.title,
+    description: post.seoDescription || post.excerpt || '',
+    datePublished: post.publishedAt || undefined,
+    dateModified: post.updatedAt || post.publishedAt || undefined,
+    image: post.mainImage
+      ? urlForImage(post.mainImage)!.width(1200).height(675).url()
+      : undefined,
+    author: {
+      '@type': 'Person',
+      name: 'ふくきた',
+      url: `${siteUrl}/about`,
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'HSP Partner',
+    },
+    mainEntityOfPage: {
+      '@type': 'WebPage',
+      '@id': `${siteUrl}/posts/${post.slug.current}`,
+    },
+  }
+
   return (
     <article className="max-w-3xl mx-auto px-4 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(jsonLd).replace(/</g, '\\u003c'),
+        }}
+      />
       {/* パンくずリスト */}
       <nav className="text-sm text-gray-400 mb-6 flex gap-2">
         <a href="/" className="hover:text-brand-600">トップ</a>

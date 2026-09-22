@@ -2,7 +2,8 @@ import { groq } from 'next-sanity'
 
 // 一覧の並び順。更新した記事が上に来るようにするため、
 // 更新日が入っていればそれを、無ければ公開日を使って新しい順に並べる。
-const listOrder = 'order(coalesce(updatedAt, publishedAt) desc)'
+const listOrder =
+  'order(coalesce(updatedAt, publishedAt) desc, publishedAt desc)'
 
 // 一覧のカードに出す項目
 const listFields = `
