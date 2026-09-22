@@ -9,6 +9,7 @@ type Post = {
   slug: { current: string }
   excerpt: string | null
   publishedAt: string | null
+  updatedAt?: string | null
   mainImage?: unknown
   audience?: Audience
   category: { title: string; slug: { current: string } } | null
@@ -20,7 +21,14 @@ const AUDIENCE_LABEL: Record<Audience, string> = {
   both: 'HSP・HSS型HSP',
 }
 
+// 更新日は、公開日と同じ日のときは出さない
+const fmtDate = (d: string) => new Date(d).toLocaleDateString('ja-JP')
+
 export default function PostCard({ post }: { post: Post }) {
+  const showUpdated =
+    !!post.updatedAt &&
+    (!post.publishedAt ||
+      new Date(post.updatedAt).toDateString() !== new Date(post.publishedAt).toDateString())
   const imageUrl = post.mainImage
     ? urlForImage(post.mainImage)?.width(800).height(450).url()
     : null
@@ -67,11 +75,10 @@ export default function PostCard({ post }: { post: Post }) {
         <h3 className="mt-2 font-bold text-ink leading-snug line-clamp-2 min-h-[2.75rem] group-hover:text-brand-600 transition-colors">
           {post.title}
         </h3>
-        {post.publishedAt && (
-          <p className="mt-3 text-xs text-gray-400">
-            {new Date(post.publishedAt).toLocaleDateString('ja-JP')}
-          </p>
-        )}
+        <div className="mt-3 flex flex-wrap gap-x-3 text-xs text-gray-400">
+          {post.publishedAt && <span>公開：{fmtDate(post.publishedAt)}</span>}
+          {showUpdated && <span>更新：{fmtDate(post.updatedAt!)}</span>}
+        </div>
       </div>
     </a>
   )

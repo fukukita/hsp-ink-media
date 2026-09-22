@@ -27,6 +27,7 @@ type Post = {
   slug: { current: string }
   excerpt: string | null
   publishedAt: string | null
+  updatedAt: string | null
   mainImage: unknown
   audience?: Audience
   category: { title: string; slug: { current: string } } | null

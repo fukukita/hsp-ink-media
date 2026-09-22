@@ -21,7 +21,7 @@ type Post = {
   excerpt: string | null
   body: unknown[]
   publishedAt: string | null
-  _updatedAt: string | null
+  updatedAt: string | null
   mainImage: unknown
   category: { title: string; slug: { current: string } } | null
   tags: string[] | null
@@ -33,6 +33,7 @@ type Post = {
     slug: { current: string }
     excerpt: string | null
     publishedAt: string | null
+    updatedAt: string | null
     mainImage: unknown
     category: { title: string; slug: { current: string } } | null
   }[] | null
@@ -244,7 +245,7 @@ export default async function PostPage({ params }: Props) {
       </h1>
 
       {/* 著者バイライン（公開日・更新日を含む） */}
-      <AuthorByline publishedAt={post.publishedAt} updatedAt={post._updatedAt} />
+      <AuthorByline publishedAt={post.publishedAt} updatedAt={post.updatedAt} />
 
       {/* アイキャッチ画像 */}
       {post.mainImage ? (

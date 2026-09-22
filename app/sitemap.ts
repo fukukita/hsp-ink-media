@@ -6,13 +6,19 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hsp.ink'
 
   const [posts, categories] = await Promise.all([
-    client.fetch<{ slug: { current: string }; publishedAt: string | null }[]>(postsQuery),
+    client.fetch<
+      { slug: { current: string }; publishedAt: string | null; updatedAt: string | null }[]
+    >(postsQuery),
     client.fetch<{ slug: { current: string } }[]>(categoriesQuery),
   ])
 
   const postUrls = posts.map((post) => ({
     url: `${siteUrl}/posts/${post.slug.current}`,
-    lastModified: post.publishedAt ? new Date(post.publishedAt) : new Date(),
+    lastModified: post.updatedAt
+      ? new Date(post.updatedAt)
+      : post.publishedAt
+        ? new Date(post.publishedAt)
+        : new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }))

@@ -63,6 +63,15 @@ export const post = defineType({
       name: 'publishedAt',
       title: '公開日',
       type: 'datetime',
+      description:
+        '空のまま「公開」を押すと、公開した日時が自動で入ります。過去の日付で出したいときだけ手で選んでください。',
+    }),
+    defineField({
+      name: 'updatedAt',
+      title: '更新日',
+      type: 'datetime',
+      description:
+        '公開済みの記事を直して「公開」を押すたびに、自動で入れ替わります。手で触る必要はありません。',
     }),
     defineField({
       name: 'body',
