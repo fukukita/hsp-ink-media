@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import { Noto_Serif_JP, Noto_Sans_JP } from 'next/font/google'
+import { preload } from 'react-dom'
 import Logo from '@/components/Logo'
 import StickyLineFooter from '@/components/StickyLineFooter'
 import { LINE_URL } from '@/lib/site'
@@ -7,21 +7,16 @@ import {
   GoogleTagManagerScript,
   GoogleTagManagerNoScript,
 } from '@/components/GoogleTagManager'
+// 書体は next/font/google の書き出し結果を固定して置いている（理由は fonts.css の冒頭）
+import './fonts.css'
 import './globals.css'
 
-const notoSerifJP = Noto_Serif_JP({
-  variable: '--font-serif-jp',
-  subsets: ['latin'],
-  weight: ['400', '500', '700'],
-  display: 'swap',
-})
-
-const notoSansJP = Noto_Sans_JP({
-  variable: '--font-sans-jp',
-  subsets: ['latin'],
-  weight: ['300', '400', '500', '700'],
-  display: 'swap',
-})
+// next/font/google が先読みしていた3ファイル（Noto Serif JP と Noto Sans JP の英数字の部分）
+const PRELOAD_FONTS = [
+  '/fonts/noto/68d0ad77fd2c49e3.woff2',
+  '/fonts/noto/ad9c66e761fed85a.woff2',
+  '/fonts/noto/d8ea5540f28d37db.woff2',
+]
 
 export const metadata: Metadata = {
   title: {
@@ -48,11 +43,12 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+  for (const href of PRELOAD_FONTS) {
+    preload(href, { as: 'font', type: 'font/woff2', crossOrigin: '' })
+  }
+
   return (
-    <html
-      lang="ja"
-      className={`${notoSerifJP.variable} ${notoSansJP.variable}`}
-    >
+    <html lang="ja">
       <body className="min-h-screen flex flex-col bg-white text-gray-800 antialiased overflow-x-hidden pb-28 sm:pb-0">
         <GoogleTagManagerScript />
         <GoogleTagManagerNoScript />
