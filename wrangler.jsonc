@@ -1,0 +1,15 @@
+// Cloudflare で out/ の書き出し結果をそのまま配る設定。
+// 実行するプログラムは置かず、ファイルの配信だけにしている（無料で回数無制限）。
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "hsp-ink",
+  "compatibility_date": "2026-10-01",
+  // 本番に切り替えるまでは、試験用の住所（hsp-ink.fukukita.workers.dev）で確かめる。
+  // 切り替えのときに routes で hsp.ink を足し、workers_dev を false にする
+  "workers_dev": true,
+  "assets": {
+    "directory": "./out",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}

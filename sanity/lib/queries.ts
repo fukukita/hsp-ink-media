@@ -78,3 +78,13 @@ export const recentPostsQuery = groq`
     mainImage
   }
 `
+
+// 書き出し方式（output: "export"）で、どのURLのページを作るかを決めるための一覧。
+// 記事とカテゴリのスラッグだけを取る
+export const postSlugsQuery = groq`
+  *[_type == "post" && defined(slug.current)].slug.current
+`
+
+export const categorySlugsQuery = groq`
+  *[_type == "category" && defined(slug.current)].slug.current
+`

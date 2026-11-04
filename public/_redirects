@@ -1,0 +1,4 @@
+# Cloudflare が読む転送の設定
+
+# 編集画面（Sanity Studio）は1枚のページで、奥のURLも同じページが受け持つ
+/studio/* /studio 200

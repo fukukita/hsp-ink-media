@@ -5,9 +5,6 @@ import AudienceExplorer from '@/components/AudienceExplorer'
 import LineCta from '@/components/LineCta'
 import { HERO_IMAGE_URL, HERO_COPY } from '@/lib/site'
 
-// Sanityで記事を公開するたびに最新データを反映させるため、常に動的レンダリングに設定
-export const revalidate = 0
-
 type Audience = 'hsp' | 'hss-hsp' | 'both'
 
 type Post = {
@@ -46,7 +43,6 @@ export default async function Home() {
           alt="HSP Partner"
           fill
           priority
-          quality={90}
           sizes="100vw"
           className="object-cover object-center"
         />

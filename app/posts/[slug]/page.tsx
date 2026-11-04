@@ -1,5 +1,9 @@
 import { client } from '@/sanity/lib/client'
-import { postBySlugQuery, recentPostsQuery } from '@/sanity/lib/queries'
+import {
+  postBySlugQuery,
+  recentPostsQuery,
+  postSlugsQuery,
+} from '@/sanity/lib/queries'
 import { PortableText } from 'next-sanity'
 import Image from 'next/image'
 import { urlForImage } from '@/sanity/lib/image'
@@ -37,6 +41,12 @@ type Post = {
     mainImage: unknown
     category: { title: string; slug: { current: string } } | null
   }[] | null
+}
+
+// 書き出し方式（output: "export"）では、どの記事のページを作るかを先に決めておく
+export async function generateStaticParams() {
+  const slugs = await client.fetch<string[]>(postSlugsQuery)
+  return slugs.map((slug) => ({ slug }))
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {

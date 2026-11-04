@@ -1,17 +1,21 @@
+import { Suspense } from 'react'
 import { client } from '@/sanity/lib/client'
-import { postsByCategoryQuery, categoriesQuery } from '@/sanity/lib/queries'
-import PostCard from '@/components/PostCard'
+import {
+  postsByCategoryQuery,
+  categoriesQuery,
+  categorySlugsQuery,
+} from '@/sanity/lib/queries'
+import CategoryAudienceView, {
+  CategoryAudienceFallback,
+} from '@/components/CategoryAudienceView'
 import LineCta from '@/components/LineCta'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-
-export const revalidate = 0
 
 type Audience = 'hsp' | 'hss-hsp' | 'both'
 
 type Props = {
   params: Promise<{ slug: string }>
-  searchParams: Promise<{ audience?: string }>
 }
 
 type Category = {
@@ -34,11 +38,11 @@ type Post = {
   tags: string[] | null
 }
 
-const AUDIENCE_TABS: { value: Audience | 'all'; label: string }[] = [
-  { value: 'all', label: 'すべて' },
-  { value: 'hss-hsp', label: 'HSS型HSP向け' },
-  { value: 'hsp', label: 'HSP向け' },
-]
+// 書き出し方式（output: "export"）では、どのカテゴリのページを作るかを先に決めておく
+export async function generateStaticParams() {
+  const slugs = await client.fetch<string[]>(categorySlugsQuery)
+  return slugs.map((slug) => ({ slug }))
+}
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params
@@ -51,11 +55,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 
-export default async function CategoryPage({ params, searchParams }: Props) {
+export default async function CategoryPage({ params }: Props) {
   const { slug } = await params
-  const { audience: audienceParam } = await searchParams
-  const audience: Audience | 'all' =
-    audienceParam === 'hsp' || audienceParam === 'hss-hsp' ? audienceParam : 'all'
 
   const [allPosts, categories] = await Promise.all([
     client.fetch<Post[]>(postsByCategoryQuery, { categorySlug: slug }),
@@ -63,11 +64,6 @@ export default async function CategoryPage({ params, searchParams }: Props) {
   ])
   const category = categories.find((c) => c.slug.current === slug)
   if (!category) notFound()
-
-  const posts =
-    audience === 'all'
-      ? allPosts
-      : allPosts.filter((p) => p.audience === audience || p.audience === 'both')
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
@@ -83,58 +79,22 @@ export default async function CategoryPage({ params, searchParams }: Props) {
         <p className="text-gray-500 mb-6">{category.description}</p>
       )}
 
-      {/* 対象読者フィルター */}
-      <div className="flex flex-wrap gap-2 mb-4">
-        {AUDIENCE_TABS.map((tab) => (
-          <a
-            key={tab.value}
-            href={
-              tab.value === 'all'
-                ? `/category/${slug}`
-                : `/category/${slug}?audience=${tab.value}`
-            }
-            className={`px-3.5 py-1.5 rounded-full text-xs font-bold transition-colors ${
-              audience === tab.value
-                ? 'bg-ink text-white'
-                : 'bg-gray-100 text-gray-500 hover:bg-gray-200'
-            }`}
-          >
-            {tab.label}
-          </a>
-        ))}
-      </div>
-
-      {/* カテゴリナビ */}
-      <div className="flex flex-wrap gap-2 mb-8">
-        {categories.map((cat) => (
-          <a
-            key={cat._id}
-            href={
-              audience === 'all'
-                ? `/category/${cat.slug.current}`
-                : `/category/${cat.slug.current}?audience=${audience}`
-            }
-            className={`px-4 py-1.5 rounded-full text-sm transition-colors ${
-              cat.slug.current === slug
-                ? 'bg-brand-500 text-white'
-                : 'bg-brand-50 text-brand-700 hover:bg-brand-100'
-            }`}
-          >
-            {cat.title}
-          </a>
-        ))}
-      </div>
-
-      {/* 記事一覧 */}
-      {posts.length === 0 ? (
-        <p className="text-gray-400">このテーマの記事はまだありません。</p>
-      ) : (
-        <div className="grid gap-6 sm:grid-cols-2">
-          {posts.map((post) => (
-            <PostCard key={post._id} post={post} />
-          ))}
-        </div>
-      )}
+      {/* タブ・テーマの並び・記事一覧。?audience= の絞り込みはブラウザ側で行う */}
+      <Suspense
+        fallback={
+          <CategoryAudienceFallback
+            slug={slug}
+            allPosts={allPosts}
+            categories={categories}
+          />
+        }
+      >
+        <CategoryAudienceView
+          slug={slug}
+          allPosts={allPosts}
+          categories={categories}
+        />
+      </Suspense>
 
       <LineCta />
     </div>

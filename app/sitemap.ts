@@ -2,6 +2,9 @@ import { client } from '@/sanity/lib/client'
 import { postsQuery, categoriesQuery } from '@/sanity/lib/queries'
 import type { MetadataRoute } from 'next'
 
+// 書き出し方式（output: "export"）では build のとき1回だけ作る。記事を公開すると作り直される
+export const dynamic = 'force-static'
+
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://hsp.ink'
 

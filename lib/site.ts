@@ -9,8 +9,11 @@ export const LINE_URL = 'https://lin.ee/n8WXyWE'
 
 // ▼▼▼ トップページ固定ヒーローの設定（記事とは独立。変えたい時のみここを更新）▼▼▼
 // ヒーロー背景画像（記事のアイキャッチとは別の専用画像）
+// 末尾の ?w=1408&auto=format は Sanity 側での書き出し指定。
+// 画像の自動変換をやめた（next.config.ts の unoptimized）ので、
+// もとの画像のまま配ると 69KB の jpg になる。元の幅と同じ 1408 で webp にすると 13KB で足りる
 export const HERO_IMAGE_URL =
-  'https://cdn.sanity.io/images/jgmm0gpv/production/640995555b468d66848bed1c84b66fcb01736f0a-1408x768.jpg'
+  'https://cdn.sanity.io/images/jgmm0gpv/production/640995555b468d66848bed1c84b66fcb01736f0a-1408x768.jpg?w=1408&auto=format'
 
 export const HERO_COPY = {
   eyebrow: 'HSS型HSPに寄り添うメディア',
