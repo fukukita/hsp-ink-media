@@ -69,3 +69,53 @@
 ### ふくきたさんに決めていただいたこと
 
 - **手元の写真の小さい版を作る**：引っ越しが全部終わったあとに行う（`public/images/fukukita-for-profile-page02.jpg` 279KB、`fukukita01.jpg` 57KB）
+
+### 404ページを日本語にした（移行とは別件・ふくきたさん承認済み）
+
+`app/not-found.tsx` を追加。これまでは Next.js の初期値（英語の "This page could not be found."）だった。
+記事一覧・トップ・テーマ6つへの入口を置き、`robots: { index: false }` をつけた。
+書き出し方式ではこれが `out/404.html` になる。**main と cloudflare-static の両方に入れた**（片方だけだと照合でノイズになるため）。
+
+### Cloudflare のビルドをつないだ（5章の3）→ 1回目のビルド成功
+
+- つないだ直後はビルドが走らない。「次にコミットが来たら始める」という状態になる。**上の404ページを出したことで1回目が走った**
+- 所要：約2〜3分
+- Windows で作ったときに出ていた入れ子フォルダの問題は、Cloudflare のビルド（Linux）では出なかった
+
+### 4章の照合（本番 hsp.ink ⇔ 試験URL）
+
+道具：`compare.mjs`。URL 56件（サイトマップ37件＋トップ・記事一覧・about・about/・特商法・privacy・studio・robots.txt・sitemap.xml・icon.svg・ない記事・テーマ別の読者絞り込み12件）。
+くらべた項目：返事の番号／転送先／title／description／og:title／h1／記事カードの数と並び／JSON-LD の数／GTM の ID／サイトマップの件数／robots.txt の中身。
+
+| 結果 | 件数 |
+|---|---|
+| 完全に一致 | 47 |
+| 想定どおりの違い | 7 |
+| 要確認 | 2（どちらも問題なしと判断） |
+
+**想定どおりの違い（7件）**
+`/category/○○?audience=hsp` のみ。絞り込みを画面の側に移したので、配るHTMLには全記事が入る。
+`?audience=hss-hsp` の5件は、絞る前と後がたまたま同じ並びになるため一致した。
+
+**要確認だった2件**
+
+1. `/about/` … 308 → 307。どちらも同じ意味の転送。指示書で「問題なし」とされていた点
+2. ない記事のURL … 本番は404ページの中身を JavaScript で後から差し込むため、HTML に `<h1>` が無い。
+   書き出し方式では `<h1>` が最初から HTML に入っている。**書き出し方式のほうが良い状態**。返事の番号はどちらも404
+
+**ブラウザでの確認（文字だけでは見られない部分）**
+
+- `/category/work?audience=hsp` →「このテーマの記事はまだありません。」（本番と同じ・0件）
+- `/category/relationships?audience=hsp` → `hsp-shokuba-kizutsuku` の1本のみ（本番と同じ）
+- タブ「HSS型HSP向け」を押す → `hss-hsp-ningenkankei` と `hss-hsp-soudan` の2本に切り替わる。URL も `?audience=hss-hsp` に変わる
+- トップのヒーロー画像・書体（明朝/ゴシック）・配色は見た目どおり
+
+**`/studio`**
+
+ページ自体は開き、Studio の JavaScript も動く。そのうえで Sanity への問い合わせが CORS で止まる
+（`origin 'https://hsp-ink.fukukita.workers.dev'` が許可一覧にないため）。**指示書どおり、Sanity の設定は足していない。**
+Sanity の許可一覧を確認したところ `https://hsp.ink` と `https://www.hsp.ink` が入っている（2026-11-06 確認）ので、本番に切り替えれば動く。切り替えのあとに実機で確かめる。
+
+### 次
+
+- 6章：DNS を Cloudflare へ（ふくきたさんの操作）
