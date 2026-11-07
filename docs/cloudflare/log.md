@@ -119,3 +119,39 @@ Sanity の許可一覧を確認したところ `https://hsp.ink` と `https://ww
 ### 次
 
 - 6章：DNS を Cloudflare へ（ふくきたさんの操作）
+
+## 2026-11-07
+
+### Cloudflare にゾーンを作った（6章）
+
+- Free プランで `hsp.ink` を「ドメインを接続」から追加
+- 「Enable Bot Preference Sync」は**オフ**にした（オンだと Cloudflare が robots.txt の先頭に設定を書き足す。
+  自分たちで管理しているファイルが配信時に書き換わると、あとで原因を追えなくなる）
+- AI 関連（検索・トレーニング・エージェント）は**すべて「許可」のまま**。いまの hsp.ink は何もブロックしていないので、引っ越しで状態を変えない
+- 自動読み取りは **7行**。控えの8行（NS 5行を除く）のうち **`_adsp._domainkey` TXT が漏れていた**ので手で足した
+- A・CNAME の4行は「DNSのみ」（プロキシなし）にした
+- 割り当てられたネームサーバー：`ariadne.ns.cloudflare.com` / `christian.ns.cloudflare.com`
+
+### ネームサーバーを変える前の確かめ（Cloudflare の NS へ直接問い合わせ）
+
+`Resolve-DnsName -Server ariadne.ns.cloudflare.com` で8行すべてを照合。
+
+| 確かめたこと | 結果 |
+|---|---|
+| `hsp.ink` A | 76.76.21.21（Vercel の実IP。プロキシされていない）✅ |
+| `www.hsp.ink` A | 76.76.21.21 ✅ |
+| ワイルドカード（`zzz-test` / `studio`） | 183.90.240.74 ✅ |
+| `link.hsp.ink` CNAME | cname.short.io ✅ |
+| `hsp.ink` TXT（SPF） | 一致 ✅ |
+| `hsp.ink` TXT（google-site-verification） | 一致 ✅ |
+| `default._domainkey` TXT（DKIM） | **410文字まで完全一致**（Xserver 側と機械で比較）✅ |
+| `_adsp._domainkey` TXT | `dkim=unknown` ✅ |
+| MX | なし（いまと同じ）✅ |
+| DNSSEC（親の DS） | なし ✅ |
+
+**Xserver と Cloudflare が、いま同じ答えを返す状態。** 切り替えの途中でどちらに当たっても結果が変わらないので、ネームサーバーの変更そのものでは何も起きない。
+
+### 次
+
+- ふくきたさん：お名前.com でネームサーバーを2つに変更
+- そのあと：ゾーンが「アクティブ」になったら、7章の本番の切り替え（ふくきたさんの「はい」が必要）
