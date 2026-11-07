@@ -305,4 +305,28 @@ npx sanity schemas deploy
 - 記事の中身は一切変わらない。登録されている設計図の写しを最新にするだけ
 - 既定で manifest を作り直してから登録する（`dist/static` に一時ファイルができる）
 - Sanity 公式が「experimental（実験的）」と明記しているコマンドなので、実行前に確認を取る
-- 実行後は `npx sanity schemas list` の CreatedAt が当日になることで確認できる
+- 確認は `npx sanity schemas list` の **CreatedAt では分からない**（あれは作成日で、登録し直しても変わらない）。設計図ドキュメント `_.schemas.default` の `_updatedAt` を見る
+
+### 設計図の登録し直し（実施・2026-11-07）
+
+```
+npx sanity schemas deploy   →  Deployed 1/1 schemas
+```
+
+| 確かめたこと | 結果 |
+|---|---|
+| `_.schemas.default` の `_updatedAt` | `2026-11-07T13:12:26Z`（当日）✅ |
+| 設計図に `audience` が入ったか | 入った ✅ |
+| 設計図に `updatedAt` が入ったか | 入った ✅ |
+| 記事1本を設計図で検証 | `valid`（「存在しないフィールド」の警告は消えた）✅ |
+| 一時ファイル（`dist/static`）の残り | なし ✅ |
+| 記事の中身 | 変化なし ✅ |
+
+**注意**：`sanity schemas list` の CreatedAt は `2026-05-31` のまま。あれは作成日なので、登録し直しても変わらない。
+更新されたかは `_.schemas.default` の `_updatedAt` で見る。
+
+**残った案内（対応不要）**：検証ツールが
+「This schema was resolved from a legacy deployment. Redeploy with a current Sanity CLI…」
+と出す。手元の CLI が 6.6.0、公開されている最新が 6.22.0 のため。
+今回の目的（存在しないフィールドの警告を消す）は達成できているので、CLI の更新は急がない。
+更新するなら `sanity` パッケージごとの更新になるので、記事の作業がない時期に行う。
