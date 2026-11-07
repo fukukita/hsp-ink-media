@@ -1,30 +1,56 @@
 // 2つの住所に同じURLを取りに行って、中身をくらべる。
-// 使い方: node docs/cloudflare/compare.mjs <くらべる元> <くらべる先>
+// 使い方: node docs/cloudflare/compare.mjs <くらべる元> <くらべる先> [--pin ホスト名=IP]
 //   例: node docs/cloudflare/compare.mjs https://hsp.ink https://hsp-ink.fukukita.workers.dev
+//   手元の名前解決が古い答えを覚えているときは --pin hsp.ink=104.21.71.19 でIPを直接指定できる
 // URLの一覧は、くらべる元のサイトマップから作る（＋固定で足すもの）。
-const [A, B] = process.argv.slice(2)
-if (!A || !B) { console.error("使い方: compare.mjs <元> <先>"); process.exit(1) }
+import fs from "fs"
+import https from "node:https"
+
+const argv = process.argv.slice(2)
+const PIN = {}
+for (let i = 0; i < argv.length; i++) {
+  if (argv[i] === "--pin") { const [h, ip] = argv[i + 1].split("="); PIN[h] = ip; argv.splice(i, 2); i-- }
+}
+const [A, B] = argv
+if (!A || !B) { console.error("使い方: compare.mjs <元> <先> [--pin ホスト名=IP]"); process.exit(1) }
 
 const EXTRA = ["/", "/posts", "/about", "/about/", "/tokushoho", "/privacy", "/studio",
   "/robots.txt", "/sitemap.xml", "/icon.svg", "/posts/zzz-nai-kiji"]
 
 const pick = (html, re) => { const m = html.match(re); return m ? m[1].trim() : null }
 
+// 名前解決を飛ばしてIPを直接使えるようにした取得。転送は追わない
+function get(url) {
+  return new Promise((resolve) => {
+    const u = new URL(url)
+    const opts = { method: "GET", headers: { "user-agent": "hsp-ink-migration-check" } }
+    const ip = PIN[u.hostname]
+    if (ip) opts.lookup = (host, o, cb) => (o && o.all ? cb(null, [{ address: ip, family: 4 }]) : cb(null, ip, 4))
+    const req = https.request(u, opts, (res) => {
+      const chunks = []
+      res.on("data", (c) => chunks.push(c))
+      res.on("end", () => resolve({ status: res.statusCode, headers: res.headers, body: Buffer.concat(chunks).toString("utf8") }))
+    })
+    req.on("error", (e) => resolve({ err: String(e) }))
+    req.setTimeout(25000, () => req.destroy(new Error("timeout")))
+    req.end()
+  })
+}
+
 async function look(url) {
-  let res
-  try { res = await fetch(url, { redirect: "manual", headers: { "user-agent": "hsp-ink-migration-check" } }) }
-  catch (e) { return { err: String(e) } }
-  const loc = res.headers.get("location")
+  const res = await get(url)
+  if (res.err) return { err: res.err }
+  const loc = res.headers["location"]
   const out = { status: res.status, loc: loc ? loc.replace(/^https?:\/\/[^/]+/, "") : null }
-  const type = res.headers.get("content-type") || ""
+  const type = res.headers["content-type"] || ""
   if (!/text\/html/.test(type)) {
-    const body = await res.text()
+    const body = res.body
     out.len = body.length
     if (/sitemap\.xml$/.test(url)) out.locs = (body.match(/<loc>/g) || []).length
     if (/robots\.txt$/.test(url)) out.body = body.trim()
     return out
   }
-  const html = await res.text()
+  const html = res.body
   out.title = pick(html, /<title>([^<]*)<\/title>/)
   out.desc = pick(html, /<meta name="description" content="([^"]*)"/)
   out.canonical = pick(html, /<link rel="canonical" href="([^"]*)"/)
@@ -38,7 +64,7 @@ async function look(url) {
   return out
 }
 
-const sitemap = await (await fetch(A + "/sitemap.xml")).text()
+const sitemap = (await get(A + "/sitemap.xml")).body
 const fromMap = [...sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)]
   .map((m) => m[1].replace(/^https?:\/\/[^/]+/, "") || "/")
 const cats = fromMap.filter((p) => p.startsWith("/category/"))

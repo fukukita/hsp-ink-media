@@ -191,3 +191,40 @@ Sanity の許可一覧を確認したところ `https://hsp.ink` と `https://ww
 4. 直後の1分ほどは一部ページが522になることがある（ceodock で発生。待てば直る）
 5. `Server: cloudflare` を確認し、全URLを `https://hsp-ink-media.vercel.app` と照合する
    **この照合は main に入れる前に行う**（main に入れると Vercel 側も書き出し版になり、くらべる相手がなくなる）
+
+### 本番の切り替え（7章）完了
+
+1. ふくきたさんが Cloudflare の DNS で `hsp.ink` の A（76.76.21.21）を削除
+2. 用意しておいた `wrangler.jsonc` の変更（`routes` に hsp.ink、`workers_dev: false`）を `cloudflare-static` に出す
+3. Cloudflare のビルドで公開
+
+| 確かめたこと | 結果 |
+|---|---|
+| `hsp.ink` の問い合わせ結果 | 104.21.71.19 / 172.67.142.69（Cloudflare）✅ |
+| 配信元 | `Server: cloudflare` ✅ |
+| 2つのIPとも配れているか | 両方 200 ✅ |
+| 証明書 | 正常（`ssl_verify_result: 0`）✅ |
+| `www.hsp.ink` | 308 → `https://hsp.ink/`（まだ Vercel・想定どおり）✅ |
+| 試験用の住所（workers.dev） | 404（閉じた）✅ |
+| Sanity の CORS（編集画面） | `Origin: https://hsp.ink` に対して `Access-Control-Allow-Origin: https://hsp.ink` と `Allow-Credentials: true` を返す ✅ |
+
+**522 は出なかった**（ceodock では出た）。
+
+#### 照合（本番 `hsp.ink` ⇔ `hsp-ink-media.vercel.app`）
+
+56URL。**完全一致 47／想定どおりの違い 7／要確認 2**。切り替え前と同じ結果。
+
+- `/about/` … 308 → 307（指示書で「問題なし」とされていた点）
+- ない記事のURL … 書き出し方式は `<h1>` が最初から HTML に入っている（本番は JavaScript で後から差し込んでいた）。書き出し方式のほうが良い状態
+
+#### 手元の名前解決の注意（次回のために）
+
+A レコードを消した直後に `hsp.ink` を引くと、Windows が「見つからない」という答えを**30分ほど覚えてしまう**。
+切り替えが済んでも手元からだけ繋がらなくなるので、`compare.mjs` に `--pin hsp.ink=<IP>` を足して名前解決を飛ばせるようにした。
+`ipconfig /flushdns` は管理者権限が要るため、この環境では使えない。
+
+### 次
+
+- `cloudflare-static` を main に入れる
+- ふくきたさん：Cloudflare の「Build」で本番の枝を `main` に変更
+- ふくきたさん：Deploy Hook を作り、Sanity に新しい Webhook を作る（8章）
