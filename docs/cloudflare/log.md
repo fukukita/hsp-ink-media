@@ -278,3 +278,31 @@ Sanity に**登録されている設計図が古い**だけで、Studio とサ�
 - `www` を Cloudflare に移し、Vercel を止める（数日後・ふくきたさんの「はい」が必要）
 - プロフィール写真の小さい版を作る（承認済み）
 - Sanity の設計図を登録し直す
+
+### 古い Webhook を削除（ふくきたさんの承認あり）
+
+`sanity hooks delete "Vercel Revalidate"` で削除。残りは `cloudflare-rebuild` の1本のみ（無料枠 2本中1本）。
+
+### 設計図の登録し直し（未実施・手順だけ control しておく）
+
+**症状**：MCP から記事を保存すると、`audience` と `updatedAt` が「存在しないフィールド」と警告される。
+
+**原因**：Sanity に登録されている設計図が `2026-05-31` のまま。`audience`（2026-06以降）と `updatedAt`（2026-11-04 追加）が入っていない。
+
+```
+_.schemas.default ／ workspace: default ／ dataset: production ／ CreatedAt 2026-05-31T22:56:24Z
+```
+
+Studio とサイトが見ているのは `sanity/schemaTypes/post.ts`（最新）なので、**表示にも保存にも影響しない**。
+影響するのは、設計図を参照する道具（MCP の検証など）が出す警告だけ。
+
+**直す手順（ふくきたさんに確認してから実施）**
+
+```
+npx sanity schemas deploy
+```
+
+- 記事の中身は一切変わらない。登録されている設計図の写しを最新にするだけ
+- 既定で manifest を作り直してから登録する（`dist/static` に一時ファイルができる）
+- Sanity 公式が「experimental（実験的）」と明記しているコマンドなので、実行前に確認を取る
+- 実行後は `npx sanity schemas list` の CreatedAt が当日になることで確認できる
