@@ -228,3 +228,53 @@ A レコードを消した直後に `hsp.ink` を引くと、Windows が「見�
 - `cloudflare-static` を main に入れる
 - ふくきたさん：Cloudflare の「Build」で本番の枝を `main` に変更
 - ふくきたさん：Deploy Hook を作り、Sanity に新しい Webhook を作る（8章）
+
+### 自動で作り直す仕組み（8章）— 動作確認まで完了
+
+- ふくきたさんが Cloudflare の「Build」で本番の枝を `main` に変更
+- ふくきたさんが Deploy Hook（`sanity-publish` / `main`）を作成
+- ふくきたさんが Sanity に Webhook `cloudflare-rebuild` を作成
+  （Dataset: production／Trigger on: Create・Update・Delete／Filter: `_type in ["post", "category"]`／Drafts・Versions はオフ／POST）
+
+#### 動作確認：記事を1本公開して、端から端まで通した
+
+確認のためだけに再公開すると更新日が実態と合わなくなるので、**承認済みで未着手だった修正**を使った。
+
+対象：[HSS型HSPが理解されない6つの苦悩](https://hsp.ink/posts/hss-hsp-rikai-sarenai)
+「6%」を断定しない表現に直す指示（`hss-hsp-towa` には適用済み、この記事だけ残っていた）。3か所。
+
+| | 直したあと | 文字数 |
+|---|---|---|
+| u02 | 人口の**約6%といわれる**少数派です | 48 |
+| u09 | 人口の**約6%といわれています（諸説あり）**。… | 87 |
+| u32 | **約6%といわれる**少数派で、… | 74 |
+
+`updatedAt` は MCP からの公開では Studio の公開アクションが走らないため、手で当日（2026-11-07）を入れた。
+
+| 時刻（UTC） | 出来事 |
+|---|---|
+| 12:52:59 | Sanity で公開 |
+| 12:53:31 | Webhook `cloudflare-rebuild` → **success / 200** |
+| 〜12:54:45 | サイトに反映（**公開から約105秒**） |
+
+- 3か所すべて反映、古い表現は残っていない
+- 記事の見出し下：「公開：2026年6月21日／更新：2026年11月7日」
+- サイトマップの `lastmod` も `2026-11-07T12:52:59Z` に更新
+
+#### 古い Webhook「Vercel Revalidate」
+
+同じ公開で呼ばれ、**failure / 405** を返した。`/api/revalidate` はもう無く、静的配信は POST を受けないため。
+害はないが、公開のたびに失敗が記録される。消してよいかをふくきたさんに確認する。
+
+#### 別件の気づき（急ぎではない）
+
+MCP から保存すると `audience` と `updatedAt` が「存在しないフィールド」と警告される。
+Sanity に**登録されている設計図が古い**だけで、Studio とサイトが見ている `sanity/schemaTypes/post.ts` には両方ある。
+表示にも保存にも影響しないが、紛らわしいので落ち着いたら登録し直す。
+
+### 残り
+
+- 古い Webhook「Vercel Revalidate」を消す（ふくきたさんの「はい」が必要）
+- `www` を Cloudflare に移し、Vercel を止める（数日後・ふくきたさんの「はい」が必要）
+- プロフィール写真の小さい版を作る（承認済み）
+- Sanity の設計図を登録し直す
