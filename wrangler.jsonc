@@ -4,9 +4,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "hsp-ink",
   "compatibility_date": "2026-10-01",
-  // 本番に切り替えるまでは、試験用の住所（hsp-ink.fukukita.workers.dev）で確かめる。
-  // 切り替えのときに routes で hsp.ink を足し、workers_dev を false にする
-  "workers_dev": true,
+  // 本番の住所。www.hsp.ink は、いまは Vercel 側の転送で hsp.ink に来る
+  "routes": [{ "pattern": "hsp.ink", "custom_domain": true }],
+  // 試験用の住所（hsp-ink.fukukita.workers.dev）は閉じる。canonical のない同じページを増やさない
+  "workers_dev": false,
   "assets": {
     "directory": "./out",
     "html_handling": "auto-trailing-slash",
