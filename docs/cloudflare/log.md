@@ -155,3 +155,39 @@ Sanity の許可一覧を確認したところ `https://hsp.ink` と `https://ww
 
 - ふくきたさん：お名前.com でネームサーバーを2つに変更
 - そのあと：ゾーンが「アクティブ」になったら、7章の本番の切り替え（ふくきたさんの「はい」が必要）
+
+### ネームサーバーを Cloudflare に変更（完了）
+
+お名前.com で `ariadne.ns.cloudflare.com` / `christian.ns.cloudflare.com` の2つに変更。
+登記元（`a.nic.ink`）に直接問い合わせて切り替わりを確認した（普通に調べると、途中の機械が古い答えを覚えていて遅れて見える）。
+
+切り替え後の確認：
+
+| 確かめたこと | 結果 |
+|---|---|
+| 8.8.8.8 / 1.1.1.1 / 9.9.9.9 が見るネームサーバー | 3つとも Cloudflare ✅ |
+| `hsp.ink` / `www` | 76.76.21.21（Vercel）✅ |
+| `studio.hsp.ink`（ワイルドカード） | 183.90.240.74（Xserver）✅ |
+| `link.hsp.ink` | cname.short.io → 200 ✅ |
+| SPF・google-site-verification・DKIM・`_adsp` | すべて残っている ✅ |
+| サイト（`/`・`/posts`・記事・`/studio`） | すべて200 ✅ |
+| `www.hsp.ink` | 308 → `https://hsp.ink/` ✅ |
+| 配信元 | `Server: Vercel`（まだ Vercel のまま。想定どおり）✅ |
+
+**住所録の引っ越しだけが終わった状態。サイトの配信元はまだ Vercel。**
+
+### 次：7章の本番の切り替え（ふくきたさんの「はい」が必要）
+
+当日の手順（用意済み・まだ出していない変更）：
+
+`wrangler.jsonc` に次を足す。
+- `"routes": [{ "pattern": "hsp.ink", "custom_domain": true }]`
+- `"workers_dev": false`
+
+順番：
+1. ふくきたさんが記事の公開を止める
+2. ふくきたさんが Cloudflare の DNS で `hsp.ink` の A（76.76.21.21）を削除（残っているとドメインをつなげない）
+3. すぐ上の変更を `cloudflare-static` に出す → Cloudflare のビルドで公開（約2分）
+4. 直後の1分ほどは一部ページが522になることがある（ceodock で発生。待てば直る）
+5. `Server: cloudflare` を確認し、全URLを `https://hsp-ink-media.vercel.app` と照合する
+   **この照合は main に入れる前に行う**（main に入れると Vercel 側も書き出し版になり、くらべる相手がなくなる）
