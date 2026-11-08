@@ -95,7 +95,7 @@ export default async function Home() {
           <div className="rounded-2xl border border-gray-200 bg-gray-50/70 p-6 sm:p-8">
             <div className="flex flex-col sm:flex-row sm:items-center gap-6">
               <Image
-                src="/images/fukukita01.jpg"
+                src="/images/fukukita01.webp"
                 alt="ふくきた｜才気道 家元"
                 width={120}
                 height={120}

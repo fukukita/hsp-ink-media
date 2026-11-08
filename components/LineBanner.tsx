@@ -12,7 +12,7 @@ export default function LineBanner() {
 
         {/* イラスト（SP: 上・中央／PC: 左・大きめ） */}
         <Image
-          src="/images/Illustration-for-linepromotion-banner01.jpg"
+          src="/images/Illustration-for-linepromotion-banner01.webp"
           alt="スマホを見てほっとしている女性のイラスト"
           width={180}
           height={180}

@@ -23,7 +23,7 @@ export default function AuthorByline({ publishedAt, updatedAt }: Props) {
   return (
     <div className="flex items-center gap-3 mt-5 mb-8 pb-6 border-b border-gray-100">
       <Image
-        src="/images/fukukita01.jpg"
+        src="/images/fukukita01.webp"
         alt="ふくきた｜才気道 家元"
         width={48}
         height={48}
