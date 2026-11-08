@@ -6,6 +6,10 @@
 // 原稿の形式（先頭に見出し情報、--- の下に本文）:
 //   id: <公開ドキュメントのID>   slug: <slug>   baseRev: <書き出し時の _rev>
 //   title / seoTitle / seoDescription / excerpt / audience / related: slug1, slug2
+//   新規記事は id: の代わりに「new: yes」と slug: を書く。category: <カテゴリのID> と tags: a, b も使える
+//   （新規のときは公開日を入れない。ふくきたさんが「公開」を押した日が公開日になる）
+//   手元のトークンは新しい記事を作る権限がないので、新規は --write を付けず、
+//   書き出された .draft.json を `npx sanity documents create <file> --replace` で入れる。
 //   ---
 //   ## 見出し2   ### 見出し3   - 箇条書き   ☑ チェック項目   > LINE: 誘導文
 //   空行で区切った1行 = 1ブロック。リンクは [文字](URL)、太字は **文字**。
@@ -107,23 +111,30 @@ const c = createClient({
   projectId: process.env.NEXT_PUBLIC_SANITY_PROJECT_ID, dataset: process.env.NEXT_PUBLIC_SANITY_DATASET,
   apiVersion: "2026-05-31", token: process.env.SANITY_API_TOKEN, useCdn: false, perspective: "raw",
 })
-if (!front.id) { console.error("id: が要ります"); process.exit(1) }
-const draftId = "drafts." + front.id
-const pub = await c.getDocument(front.id)
-const draft = await c.getDocument(draftId)
+// 新規記事は id: の代わりに new: yes と slug: を書く（新しいIDを作って下書きだけを用意する）
+const isNew = (front.new || "").toLowerCase() === "yes"
+if (!front.id && !isNew) { console.error("id: が要ります（新規なら new: yes）"); process.exit(1) }
+if (isNew && !front.slug) { console.error("新規には slug: が要ります"); process.exit(1) }
+const docId = front.id || crypto.randomUUID()
+const draftId = "drafts." + docId
+const pub = front.id ? await c.getDocument(front.id) : null
+const draft = front.id ? await c.getDocument(draftId) : null
+if (isNew) console.log(`新規記事として作ります（ID ${docId}）`)
 // 未公開の下書きだけの記事もある。その場合は下書きを土台にする
 // 読み取り専用のトークンでは下書きが見えないので、その場合は最小限の土台で書き出す
-const basedoc = pub || draft || { _id: front.id, _type: "post", slug: { _type: "slug", current: front.slug } }
-if (!pub && !draft) console.warn("※ このトークンでは記事を読めません（未公開の下書きなど）。本文だけを書き出します")
+const basedoc = pub || draft || { _id: docId, _type: "post", slug: { _type: "slug", current: front.slug } }
+if (!pub && !draft && !isNew) console.warn("※ このトークンでは記事を読めません（未公開の下書きなど）。本文だけを書き出します")
 const now = Date.now()
 for (const d of [pub, draft]) {
   if (d && now - Date.parse(d._updatedAt) < 60 * 60 * 1000) { console.error(`直近60分に編集があります（${d._id} ${d._updatedAt}）。止めます`); process.exit(1) }
 }
 if (front.baseRev && basedoc._rev !== front.baseRev) { console.error(`書き出し時の rev（${front.baseRev}）と今の rev（${basedoc._rev}）が違います。止めます`); process.exit(1) }
 
-fs.mkdirSync("docs/audit-2026-09-20/snapshots", { recursive: true })
-const stamp = new Date().toISOString().replace(/[:.]/g, "-")
-fs.writeFileSync(`docs/audit-2026-09-20/snapshots/${front.slug || front.id}_${stamp}.json`, JSON.stringify({ published: pub, draft }, null, 2))
+if (pub || draft) {
+  fs.mkdirSync("docs/audit-2026-09-20/snapshots", { recursive: true })
+  const stamp = new Date().toISOString().replace(/[:.]/g, "-")
+  fs.writeFileSync(`docs/audit-2026-09-20/snapshots/${front.slug || front.id}_${stamp}.json`, JSON.stringify({ published: pub, draft }, null, 2))
+}
 
 let relatedPosts
 if (front.related) {
@@ -135,6 +146,8 @@ if (front.related) {
 const { _rev, _updatedAt, _createdAt, ...base } = basedoc
 const next = { ...base, _id: draftId, body }
 for (const f of ["title", "seoTitle", "seoDescription", "excerpt", "audience"]) if (front[f]) next[f] = front[f]
+if (front.category) next.category = { _type: "reference", _ref: front.category }
+if (front.tags) next.tags = front.tags.split(",").map((t) => t.trim()).filter(Boolean)
 if (relatedPosts) next.relatedPosts = relatedPosts
 const out = file.replace(/\.md$/, "") + ".draft.json"
 fs.writeFileSync(out, JSON.stringify(next, null, 2))

@@ -1,0 +1,1553 @@
+{
+  "_id": "drafts.ea586b3e-7201-4912-84ac-61f0316ddda7",
+  "_type": "post",
+  "slug": {
+    "_type": "slug",
+    "current": "hsp-kangaesugi"
+  },
+  "body": [
+    {
+      "_type": "block",
+      "_key": "619b5ad7e2ce",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f466395a77b5",
+          "text": "明日の打ち合わせのことが気になって、布団の中で何度も段取りを組み立ててしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8b0fb033d0cc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2c23ed2a03c1",
+          "text": "送ったメッセージの文面が気になり、相手の反応を思い浮かべながら読み返してしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1ae3e108b508",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fb1e19ef5590",
+          "text": "HSP気質があれば、考えすぎて疲れた経験が一度はあると思います。私も、答えの出ないことを何時間も抱えてきました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c198f0d09972",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "88304d91f115",
+          "text": "ただ、考えすぎるのは気が小さいからではありません。情報を深く処理する気質から、自然に起きていることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a244e28088fa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "18e6d2e168e9",
+          "text": "この記事では、HSPが考えすぎてしまう理由と、頭の中が止まらないときの対処法について解説していきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "92e5208a4809",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5c5088d80887",
+          "text": "「考えすぎだよ」と言われてもやめられないと感じているなら、ぜひ参考にしてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d93a6138fede",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c4ef070f7293",
+          "text": "まずは、こんな心当たりがないか振り返ってみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "27df23e3f04e",
+      "items": [
+        "寝る前に考えごとが始まって眠れない",
+        "相手の一言の意味を何度も考え直してしまう",
+        "決める材料を集めるほど決められなくなる",
+        "まだ起きていないことを想像して不安になる",
+        "周りから「考えすぎ」「気にしすぎ」と言われる",
+        "考えているうちに結論が行ったり来たりする"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "9f1b52fb97ab",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fd7d65e4ee60",
+          "text": "当てはまるほど、答えの出ない問いを頭の中だけで回しているのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "65fb14f49b7f",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "85af4a946fd4",
+          "text": "HSPが考えすぎてしまう3つの理由",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "92036cc49d9d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4fece48fd40a",
+          "text": "まず、なぜ自分だけこんなに考えてしまうのかを知っておきましょう。理由が分かると、自分を責める材料が一つ減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "59e38812e9b3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8ed2b67df541",
+          "text": "原因は性格ではなく、HSPの気質にあります。代表的なものを3つ挙げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9d048c5c71ed",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7f1f200e2eb1",
+          "text": "①情報を深く処理する気質がある",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "748b84aadba7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d2c78f3e20f5",
+          "text": "1つ目は、受け取った情報を深く処理する気質です。心理学者のエレイン・アーロン博士が1996年の著書で挙げた、HSPの代表的な特徴の一つです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4a2b213186f2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "be094a553d8c",
+          "text": "一つの出来事に対して、相手の事情や前後の経緯、起こりうる展開まで一度に広げて考えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ccb7aef3bffd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "47e5c26687b4",
+          "text": "だから結論にたどり着くまでの道が長くなります。考える量が多いのは、能力の問題ではなく処理の仕方の違いです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9d89eb1794b4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "acdc58047aae",
+          "text": "②起きていないことを先に察知しようとする",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9f6415955c16",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "13e48ba4adca",
+          "text": "2つ目は、危険を早めに見つけようとする働きです。HSP気質があると、まだ起きていない展開まで読みにいきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c35da184bbb1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "72296bd58600",
+          "text": "「こう言ったら気を悪くするかもしれない」と先回りできるので、大きなもめ事を避けられます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ec51cca45568",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fac3f8aee2c9",
+          "text": "ただ、この働きは夜や一人の時間にも動き続けます。守るための機能なのに、休ませてもらえないのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e746500283da",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "326c2cf40334",
+          "text": "③間違えたくない気持ちが強い",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5768be8b46ec",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3c94bfbe213d",
+          "text": "3つ目は、間違えたくない気持ちの強さです。相手を傷つけたくない、迷惑をかけたくないという前提で考えます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4ab1a3083f82",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "85f72ab6d70c",
+          "text": "だから「どちらでもいい」で済ませられません。どの選択にも相手の反応がついてくるので、決めるのに時間がかかります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e16743e70724",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9f67d473518b",
+          "text": "慎重さは信頼につながる長所です。一方で、答えが一つに決まらない問いでは、同じところを回る原因にもなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "62abb1f7d92c",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "311b335c3bf5",
+          "text": "つらいのは「深く考える」ではなく同じ考えが戻ってくるとき",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1020de062af2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "be8c29bafd34",
+          "text": "考えること自体が悪いわけではありません。つらくなるのは、同じ考えが何度も戻ってくるときです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "42ca97e3f6f4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "92873ed53aae",
+          "text": "深く考えるのは、材料を集めて結論に近づいていく動きです。進んでいる感覚があり、終わりがあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3ba3fc81f7b5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1f2ef70c2405",
+          "text": "一方、ぐるぐる回るほうは同じ場面をなぞっているだけです。結論は出ないのに、不安だけが大きくなっていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0f349cf231ea",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f02fe9cd0c81",
+          "text": "見分け方は、30分考えてさっきより何か決まったかどうかです。何も決まっていないなら、考える段階ではないのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "79f613ec97aa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7b9b8e0e30b1",
+          "text": "あの人の本音、相手がどう受け取ったか、起きるかどうか分からない展開。このあたりは、いくら考えても自分の中に答えがありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cb0c81a36bbf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bc83dc311134",
+          "text": "同じ動きが過去に向くと、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "fd883be7d33f",
+          "text": "済んだ失敗を何度も再生する状態",
+          "marks": [
+            "c86adb822078"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "d472d36fa48e",
+          "text": "になります。向き先が未来なら不安に、過去なら後悔になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "c86adb822078",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hsp-kishitsu-shippai",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "e61d8da200cd",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "61dea6f72b99",
+          "text": "考えすぎが続くと起きる3つのこと",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "527ba2da1135",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9ba6d7b69a6e",
+          "text": "考えごとが長引くと、気持ちの問題だけでは終わりません。ここでは、実際に起きてくることを3つ挙げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1ceadfffcef0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0b3315002854",
+          "text": "心当たりがあるものから手を打つと、戻りが早くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "18a6264782c8",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aa8a0d50e958",
+          "text": "①体が先に疲れてしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f8fcc06ed2dc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4f6c6277cb29",
+          "text": "考えている間、頭はずっと動き続けています。座っているだけでも、夕方には使い切った感覚になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "025e8f84c31a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e865d60eb131",
+          "text": "厄介なのは、抱えているだけで容量を取られることです。手をつけていない心配ごとが残っていると、目の前の仕事の処理まで遅くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "324e2301d615",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e89e493d9215",
+          "text": "私も、気がかりな案件を抱えていた時期は、ほかの作業に集中できませんでした。何もしていないのに、脳の一部を常に使われている感覚でした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e6f6cdf1620a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b5f8cb1d1274",
+          "text": "②決められなくなって動けない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f9e025f8c061",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1fa5622d99ff",
+          "text": "次に起きるのが、決断の停滞です。考える材料が多いほど、どの選択にも反論が思い浮かびます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f97923cb55d8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3cfc95a5bf87",
+          "text": "結果、どれも選べないまま時間だけが過ぎます。周りからは「慎重な人」ではなく「動かない人」に見えてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "429c10251eac",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "bf1e76c95e60",
+          "text": "動けない時間が続くと、「また決められなかった」と自分への評価まで下がります。ここが一番もったいないところです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9aa5d074723c",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e785843e3897",
+          "text": "③夜に眠れなくなる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c7fdf7be8494",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3068ec372ddc",
+          "text": "3つ目は、睡眠への影響です。一日の中で考えごとが最も強くなるのは、刺激が消えた夜です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2c944f3b46ab",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "73306a507176",
+          "text": "布団に入って目を閉じると、昼の場面が再生されます。明日の心配まで加わって、頭が仕事を始めてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "65b94ce4faa1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5abf9f916897",
+          "text": "眠りが浅くなれば、翌日の処理能力も落ちます。疲れた頭はさらに悪い想像をするので、そのまま次の夜につながっていきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9ec9f00d4dde",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "15d50ed8ee9b",
+          "text": "考えすぎが止まらないときの5つの対処法",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d47c7e7901af",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "19f4ee10be49",
+          "text": "ここからが本題です。考えごとが止まらないときに、私が実際にやっていることを5つ紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "702f36e8b652",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0716f93806be",
+          "text": "どれも「考えないようにする」方法ではありません。考えないようにしようと考えるほど、頭は動き続けるからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6aa0bdc5b5e5",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "752418104b63",
+          "text": "①考える時間を決めて夜は閉じる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f9d16e4ced29",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7c65f515f4f5",
+          "text": "1つ目は、考える時間をあらかじめ決めることです。私は「夜は決めない」と先に決めています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "51009e4efeb8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "46994d940da9",
+          "text": "夜に出てくる結論は、悪いほうに寄りがちです。暗い部屋で一人になると、ほかの刺激がなくなって考えごとだけが残るからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "27b3b118fdc7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f6c3300237ef",
+          "text": "気になることが浮かんだら、メモに一行だけ残して「朝に考える」と預けます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "132c8ab0cf05",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1952f3825eb7",
+          "text": "翌朝に読み返すと、前の晩ほど大きな問題に見えないことが多いものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "267246fbc11a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7df8f60be5d1",
+          "text": "②問いを「今日決められること」まで小さくする",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d97a5da6591e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f6fc33e5d796",
+          "text": "2つ目は、考える対象を小さくすることです。「どうすればいいのか」は大きすぎて、答えが出ません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9185cc116f34",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d878de31a21c",
+          "text": "たとえば「あの人は怒っているのか」は、相手の中にしか答えがない問いです。考えても材料が増えません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ee85f8b300c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c76b10dc8c68",
+          "text": "これを「明日の朝、ひと言声をかけるかどうか」に置き換えます。自分が今日決められる範囲まで下げるのがコツです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6c9526ab620b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1babe751e43d",
+          "text": "答えが出る問いに変えると、考えごとは一回で終わります。終わらないのは、頭が悪いからではなく問いが大きいからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4f220225509",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5cccb9f4f9e2",
+          "text": "③疲れているときに出した結論は採用しない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "957c19657fe7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dd7ece376b6f",
+          "text": "3つ目は、疲れている日の結論を採用しないことです。これは私自身の失敗から決めたことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "419fae534c44",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4a9706b46982",
+          "text": "以前、仕事の進め方を2つのうちどちらにするか、車の中で何十分も考えていたことがあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "897f316e149e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2844ca059259",
+          "text": "行ったり来たりするばかりで、その日は結局決まりませんでした。あとで気づいたのは、疲れた日ほど手っ取り早いほうに寄っていたことです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "890333562b44",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cc28ed99253f",
+          "text": "同じ材料でも、体の状態で結論が変わります。だから疲れている日は、考えるのをやめて寝たほうが早いのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8b501a37aea9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "56a972210615",
+          "text": "判断は、体力が残っている時間に回す。消耗しやすい気質ほど、この順番が効きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2ec1862db79a",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "37a156724d9a",
+          "text": "④考える材料をこれ以上増やさない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bf743089cecf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8a93d17568d8",
+          "text": "4つ目は、調べるのをいったん止めることです。決められないとき、人はもっと情報を集めようとします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d3ced113016f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "476af72110c2",
+          "text": "ところが選択肢が増えれば、比べる組み合わせも増えます。材料を足すほど決まらなくなるのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fc706d33a909",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "24ba66fa5dc4",
+          "text": "私も、同じテーマの記事や動画を何本も見比べて、前より迷っている状態をよく作っていました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "50ee38aa6b92",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "65d3746575ea",
+          "text": "「今ある材料で決める」と区切ったほうが、手は早く動きます。足りなかったとしても、動いたあとに分かります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "37c8407de2ae",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1bb76113483f",
+          "text": "やりたいことや気になることが同時に走っているなら、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "e267a615aefa",
+          "text": "頭の中の情報を引き算する",
+          "marks": [
+            "c48cfac422e8"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "3eeebf449ab7",
+          "text": "ほうが先です。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "c48cfac422e8",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-shikou-seiri",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "c980796abcbd",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d51f311c7747",
+          "text": "⑤考えごとが始まる場所から動く",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c77cc762d9a5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6d42337cd13d",
+          "text": "5つ目は、場所と姿勢を変えることです。考えごとは、静かで一人の場面ほど強く動きます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4b61dc453b0f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d5de536e62ad",
+          "text": "布団の中、風呂、通勤の電車。手が空いて目の前に何もないときに始まりやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d1f7a2d5a3f8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "70bb799b1bec",
+          "text": "止めたいときは、立ち上がって別のことを始めます。皿を洗う、洗濯物をたたむ、外に出て歩く。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0baba79b6cf5",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "85c3adc4e6e2",
+          "text": "頭の中で止めようとするより、体に別の仕事を渡すほうが早く途切れます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "3c66022d4229",
+      "text": "「考えても答えが出ないのに頭が止まらない」。そんなときの整え方を公式LINEで発信しています。"
+    },
+    {
+      "_type": "block",
+      "_key": "e5c21ab98935",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f7e7d84748a5",
+          "text": "周りから「考えすぎ」と言われたときの受け取り方",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "aa175dda8b4c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "29910d24fcfe",
+          "text": "対処法と同じくらい厄介なのが、周りからの一言です。「考えすぎだよ」と流されると、よけいに孤独になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0691af05688d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd3605ac9fcb",
+          "text": "あの言葉は、たいてい悪意から出たものではありません。相手には同じ量の情報が入っていないので、こちらが何を処理しているのか見えていないだけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "89465aed31a7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "403c93441452",
+          "text": "10の情報を拾っている人と、3しか拾っていない人が同じ場面を見れば、受け取り方は違って当然です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "bfad7df183a4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b24852e5c640",
+          "text": "だから「考えすぎ」と言われても、考える量を減らす必要はありません。必要なのは、考える先を答えの出る問いに向けることです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "258906f08ea8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "98d477b9b323",
+          "text": "一方で、言ってきた相手を「分かってくれない人」と切り捨てないほうが楽になります。拾う量が違うだけで、どちらが正しいという話ではないからです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4f6813d1a967",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2370010ca72e",
+          "text": "考えすぎは深く考えられる力の裏返し",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a09c7e5ecfc7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "747c227e5bf1",
+          "text": "ここまで対処法を書いてきましたが、考える量そのものは手放さなくていいものです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "76620062c00a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a61572186d57",
+          "text": "先を読んで準備できる、相手の事情を想像できる、リスクに早く気づける。深く処理する気質は、そのまま仕事で役に立ちます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7b07bda7b111",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ad868822ba63",
+          "text": "私も、記事の構成を組んだり企画を考えたりするときは、この気質に助けられています。細かい懸念が先に浮かぶので、抜けが減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0185e661aca0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "753e7403b16a",
+          "text": "違いが出るのは、考える力を向ける先です。答えが出る問いに向けば準備になり、答えのない問いに向けば消耗になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7d4e145bf925",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "062ff2adc4a6",
+          "text": "考えすぎをなくすのではなく、向ける先を選ぶ。そう考えると、気質と戦わずに済みます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b1746738ea05",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2c43ad1416b7",
+          "text": "それでも一人だと不安が戻ってくる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2c197fa7b94a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "02eb01cae12b",
+          "text": "ここまでの方法で、考えごとは短くできます。ただ、一人では完結しにくい部分も残ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b65de97f981b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7dc6149dca1e",
+          "text": "私はAIに相談して考えを整理することもあります。そのときは頭がすっきりするのに、進んでいる最中にまた不安が戻ってきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9e06d3b423b9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "42927912dd3b",
+          "text": "「本当にこれで合っているのか」と手が止まる。整理はできても、確信までは一人では作りにくいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a01496de5b28",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d7c24e92ffd5",
+          "text": "隣に誰かがいて「それでいい」と言ってもらえるだけで、歩みは速くなります。足りないのは情報ではなく、確かめる相手なのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0ff89866a2ec",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2bd4d7ba504f",
+          "text": "なお、眠れない状態や気分の落ち込みが何週間も続くときは、気質の話とは分けて医療機関に相談してください。この記事は気質の傾向を知るための目安です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3c568fe87260",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b615a47603cc",
+          "text": "まとめ｜考えすぎは「向ける先」で変わる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9e42cff7bce3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c348fab8e28e",
+          "text": "HSPが考えすぎてしまうのは、情報を深く処理する気質のためです。心が弱いからでも、気にしすぎだからでもありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "950e5b7ff813",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a18938ce0b7a",
+          "text": "つらくなるのは、答えの出ない問いを頭の中だけで回しているときです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "b2793f4694ca",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "75b28367538e",
+          "text": "考えすぎる理由は深い処理・先回りの察知・間違えたくない気持ち",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "43f34d707ad4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "cd0e8419f95c",
+          "text": "つらいのは深く考えることではなく同じ考えが戻ってくること",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "0f751456bf9f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "accbf5dc7d74",
+          "text": "夜は決めず、問いを今日決められることまで小さくする",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "68a2536db3e2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7b9d7e9b6745",
+          "text": "疲れている日の結論は採用しない。判断は体力が残る時間に回す",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "f04fbab8ea81",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "83c072e65606",
+          "text": "「考えすぎ」と言われても量は減らさず向ける先を変える",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "025ef6dabcfa",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dafd7163475d",
+          "text": "考える力は、あなたの持ち味です。向ける先だけ、少し変えてみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "df5b1c4f7482",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "17afceea06b7",
+          "text": "「頭の中で同じところを回っている」と感じた方は、公式LINEをのぞいてみてください。同じ気質の視点から、考えごとを軽くするヒントを発信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "title": "HSPが考えすぎてしまう理由｜頭の中が止まらないときの対処法",
+  "seoTitle": "HSPが考えすぎてしまう3つの理由｜止まらないときの対処法5つ",
+  "seoDescription": "HSPが考えすぎてしまうのは、情報を深く処理する気質のためです。つらくなるのは答えの出ない問いを頭の中だけで回しているとき。考えすぎが続くと起きることと、止まらないときの5つの対処法、周りに「考えすぎ」と言われたときの受け取り方まで当事者の視点で解説します。",
+  "excerpt": "答えが出ないのに同じことを何度も考えてしまう。HSPが考えすぎてしまう理由と、頭の中が止まらないときの対処法を当事者の視点で解説します。",
+  "audience": "both",
+  "category": {
+    "_type": "reference",
+    "_ref": "category-mind-care"
+  },
+  "tags": [
+    "HSP",
+    "考えすぎ",
+    "不安",
+    "心の整え方"
+  ],
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "d425e6f81608",
+      "_ref": "964f46a4-4dfc-4c49-85af-e02668c3fb22"
+    },
+    {
+      "_type": "reference",
+      "_key": "8916c30c0966",
+      "_ref": "548f3053-08a8-45f2-bea5-a95c35bc4230"
+    },
+    {
+      "_type": "reference",
+      "_key": "e5178ac6df80",
+      "_ref": "02f01a8f-5125-468f-9e06-694922321017"
+    }
+  ]
+}

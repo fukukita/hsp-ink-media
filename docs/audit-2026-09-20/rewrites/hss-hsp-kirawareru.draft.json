@@ -1,0 +1,1595 @@
+{
+  "_id": "drafts.e2fdd9bd-ecfa-4028-b0c2-dc3837d286ac",
+  "_type": "post",
+  "slug": {
+    "_type": "slug",
+    "current": "hss-hsp-kirawareru"
+  },
+  "body": [
+    {
+      "_type": "block",
+      "_key": "c46453a08051",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d5a49ba19e7d",
+          "text": "返信が一行だけだったことが気になって、何度も画面を見返してしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "36ae1988104f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a99b887abc2e",
+          "text": "自分だけ誘われていなかった気がして、思い当たる原因を探してしまう。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "369934532cf9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ace7ed1e444f",
+          "text": "HSS型HSPであれば、「嫌われたかもしれない」と感じた経験が一度はあると思います。私も何度もありました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5a289b73c38d",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "df032bb82320",
+          "text": "ただ、嫌われる原因が気質にあるわけではありません。小さな変化を人より多く拾うので、同じ場面でも「嫌われたかも」と感じやすいのです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6f245cdd151f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b90fd8f04943",
+          "text": "この記事では、嫌われたと感じる引き金と、本当に嫌われているかの確かめ方について解説していきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d62ab9f33375",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a152930294a3",
+          "text": "「自分は避けられているのではないか」と感じているなら、ぜひ参考にしてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8b3b82b45cda",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "41f69884d1ac",
+          "text": "まずは、こんな心当たりがないか振り返ってみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "checklist",
+      "_key": "8cf4d739005a",
+      "items": [
+        "既読のまま返事が来ないと理由を探してしまう",
+        "自分だけ誘われていない気がする",
+        "相手の表情や声の温度が変わるとすぐ気づく",
+        "愛想笑いをされた気がして落ち込む",
+        "嫌われていないか確かめたくて連絡したくなる",
+        "嫌われるのが怖くて本音を出せない"
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "9b623ffa4eeb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "79ffccef5072",
+          "text": "当てはまるほど、小さな変化を拾って悪いほうに結びつけているのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2ee1fb933c7a",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5392e6b37351",
+          "text": "嫌われたと感じる3つの引き金",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2658a6c53981",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "47ad64d287e8",
+          "text": "では、なぜ「嫌われたかも」と感じるのでしょうか。引き金になっているものを3つ挙げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "16861eee3fcf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e6766bf1dd5f",
+          "text": "自分がどこで引っかかっているか分かると、同じ場面でも揺れは小さくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "51a6086efab8",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "676cf346f281",
+          "text": "①相手の小さな変化を拾う",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2b32efc12f11",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0e691f6aeff5",
+          "text": "1つ目は、変化に気づく力です。HSPの気質があると、返信の長さ、絵文字の有無、声の温度といった差を細かく拾います。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9e9e9679b668",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e8469d083eb",
+          "text": "ほかの人が気づかない差に気づけるので、場の空気を読むのは得意です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "1fdd2af3ecb3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6628927ee1f9",
+          "text": "ただ、拾った差には理由がついていません。空いたところは、自分で埋めることになります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "25be1f29dc63",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "71fd05ddb284",
+          "text": "②悪い想像のほうが勝つ",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "712dcee92fdb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "36392b88290d",
+          "text": "2つ目は、埋めるときに浮かぶ理由の偏りです。「忙しかったのかな」より「嫌われたのかな」が先に来ます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0326af72b18c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "53cb8f05f298",
+          "text": "危険を先に想定する働きがあるので、安全な解釈は後回しになります。これは気質の守りの働きです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cba6b141d78b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "664fceda8416",
+          "text": "しかも想像は、思い出すたびに少し大げさになります。朝は気にしていなかった一言が、夜には決定的な証拠に見えてきます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "870340a52b9f",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d9d59bc3872b",
+          "text": "③自己評価が下がっている",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "8152bf0dfd74",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3e0bffa62ef9",
+          "text": "3つ目は、そのときの自己評価です。同じ出来事でも、調子のいい日はほとんど気になりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dfea84f0e7e0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f4721ae61fe2",
+          "text": "疲れている日や失敗した日は、「自分は好かれるはずがない」という前提から解釈が始まります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5b1b21bbd8e2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2fd71a54a9b0",
+          "text": "相手の態度ではなく、自分の状態が引き金になっていることもあるわけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ba74c8fdc6d8",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e8725612fd84",
+          "text": "周りから「読みにくい」と思われやすい4つの言動",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fff05c8fe954",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d0213f64dc8d",
+          "text": "一方で、実際に摩擦が起きやすい言動もあります。嫌われているのではなく、分かりにくいと思われている場合です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2837ed28a2fd",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "38f4ea068e92",
+          "text": "心当たりがあれば、伝え方を少し変えるだけで誤解は減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3f2d7b2c0b34",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f234f320fda5",
+          "text": "①行動に一貫性がないように見える",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3b47ebfd26cb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01b4986447e3",
+          "text": "1つ目は、行動が一貫して見えないことです。HSS型HSPは興味がわいたことに飛び込み、飽きたら静かに離れます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5883f12a4535",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "61042450ae80",
+          "text": "本人の中では筋が通っていても、周りからは「言っていたことと違う」と映ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "05e3a22e84e6",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "369909f3e59e",
+          "text": "前回は乗り気だったのに今回は断る。熱心だった話題に触れなくなる。こうした変化が重なると、相手は理由を自分の側に探します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6f9aaf928715",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0491661b2613",
+          "text": "嫌われたのではなく、読みにくいと思われている。この違いは押さえておきたいところです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d922e0063c32",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f2d537fbcf28",
+          "text": "②テンションの波が伝わってしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0c7d290d6e84",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e80b8cfcc92",
+          "text": "2つ目は、気分の波です。刺激が多い日は人と話すのが楽しく、消耗した日は口数が減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "7b2ebeb69b63",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f379882555fb",
+          "text": "本人は疲れているだけでも、相手には「今日は冷たい」と伝わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "67eb9c60c0a0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d8ac05489f21",
+          "text": "とくに楽しい集まりのあとはぐったりしやすく、翌日に連絡を返せないこともあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c33209e6824c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2ee0533dee4d",
+          "text": "そのうえ、",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "5b9e39c1661c",
+          "text": "人といると疲れてしまう理由",
+          "marks": [
+            "c9548654e832"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "84e184026b75",
+          "text": "は外から見えません。だから温度差だけが相手に残ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "c9548654e832",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-ningenkankei",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "ace78f2ecfa6",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "83c24b01a8ac",
+          "text": "③本音を隠して合わせてしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "849ce0e45159",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "efdfc515dd10",
+          "text": "3つ目は、合わせすぎることです。嫌われたくない気持ちが強いと、思っていることを出さずに相手へ寄せます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "caa7b534a6c3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d416723b76dd",
+          "text": "その場は収まりますが、相手には本当のところが伝わりません。何を考えているのか分からない人に見えてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6d47989e1a78",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c4aaa55b43e5",
+          "text": "さらに、合わせた分だけ我慢が溜まります。限界が来たときに態度が急に変わり、相手を驚かせることもあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "60b059ae6c58",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dabd9dee62e7",
+          "text": "本音を少しだけ混ぜておくほうが、長い目で見れば関係は保ちやすくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2a3ea883a1c6",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2d7d4fab7f32",
+          "text": "④疲れると急に距離を取ってしまう",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "068ddef99b48",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2170ca561b80",
+          "text": "4つ目は、消耗したときに連絡を止めてしまうことです。返信も誘いも、いったん全部置きたくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4415e1426c8a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "706c436f2389",
+          "text": "自分を守るための行動なので、必要なことです。ただ、相手には理由が分かりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5f71e9280802",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "782cee02fe65",
+          "text": "「何か怒らせたのかな」と相手に思わせることもあります。嫌われるのが怖くて離れたのに、その距離が誤解を生む形です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "63dcae813599",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c9be71f05b13",
+          "text": "「少し疲れているので返信が遅くなります」と一言だけ置いておくと、誤解は小さくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "11e4ea9e9559",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8cd5f235ca85",
+          "text": "本当に嫌われているかを確かめる3つの見方",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "81313319417c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fb642858dcb5",
+          "text": "ここからが本題です。不安なときに、材料を増やすための見方を3つ紹介します。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "515e357add0b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ed8c16c3d8f0",
+          "text": "気持ちを静めるのではなく、判断の材料をそろえるための方法です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6bd5640cf5e9",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a142260f992b",
+          "text": "①一つの行動だけで判断しない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5c910cc01f55",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e51bf8863bcc",
+          "text": "1つ目は、材料を一つで決めないことです。既読のまま、短い返信、誘いの断り。どれも一回では何も分かりません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a3b55bd344b1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d833421d2fd3",
+          "text": "相手が忙しい、スマホを置いていた、体調が悪い。別の理由はいくらでもあります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "12ec441653cc",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "aaf7b13341cf",
+          "text": "見るなら、何度か積み重なってからです。一度きりの出来事に意味を持たせるほど、悪い想像が勝ちます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "36887950e170",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c1cb1c996b1c",
+          "text": "②ほかの人への接し方と比べる",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "d541ce8029f0",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "67f487244cde",
+          "text": "2つ目は、相手の態度を自分への分だけで見ないことです。その人がほかの人にどう接しているかを見ます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "31cd00509763",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "98c32c2e4a74",
+          "text": "誰にでも返信が遅いなら、それはその人の進め方です。自分だけ扱いが違うなら、そこで初めて考える材料になります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc4c3ee6a75b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "2dcb8c9cea2c",
+          "text": "比べる相手がいるかどうかで、同じ態度の意味は変わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "45fd6adf141f",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1695b29a46b3",
+          "text": "③自分では気づけない部分があると知っておく",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a4cdd09e1ffb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d8fe17fd4641",
+          "text": "3つ目は、自分では見えない部分が必ずあると知っておくことです。無意識の癖は、自分では気づけません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "07535ca2f499",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "fd4f8a327c0d",
+          "text": "私も収録のとき、「ちょっと」「あの」という口癖がなかなか抜けません。人から言われて初めて気づきました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a76742c067a3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "35e95c056792",
+          "text": "やっかいなのは、周りも言いづらいことです。だから材料が集まらないまま、自分の想像で埋めてしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e747c390b8fb",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "97577d1ea81a",
+          "text": "もし誰かが教えてくれたなら、それは直せる機会をもらったということです。痛みはありますが、受け取っておいたほうが得をします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "lineCallout",
+      "_key": "9cee8caf80ee",
+      "text": "「嫌われたかもしれない」と考えはじめると止まらない方へ。人との距離の取り方を公式LINEで発信しています。"
+    },
+    {
+      "_type": "block",
+      "_key": "ccbb8b7b1300",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "148339c860a9",
+          "text": "私が上司と数ヶ月噛み合わなかった話",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2d3e37460016",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8ff78c9a528e",
+          "text": "嫌われたと感じる場面の多くは、好き嫌いではなく噛み合わなさから来ています。私自身の例をお話しします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "afe06b343b6f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7bbafaaa37fb",
+          "text": "勤めている会社で、商品の企画チームにいたときのことです。上司との話が、数ヶ月のあいだ噛み合いませんでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "3a19fb88aaa1",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "41eb08de9f48",
+          "text": "こちらは先に方向性や枠を決めたい。上司はとにかく数を当たって、良さそうなものから積み上げたい。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f978bfe66352",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b896411f51da",
+          "text": "どちらも手を抜いていませんし、相手を嫌っているわけでもありません。それでも提案は通らず、空気だけが重くなりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9dabc21b8ec3",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "7ef0b24e2959",
+          "text": "当時は「自分の説明が悪いのか」「嫌われているのか」とよく考えました。原因は、考える順番の違いでした。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "6a2ef8d140d2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "47e96b592832",
+          "text": "最後は、もう一つ上の上司に会議へ入ってもらい、先に枠を決める形で落ち着きました。人を変えたのではなく、進め方を変えただけです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "2e505981675f",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c322daa805e3",
+          "text": "噛み合わないときは、相性ではなく手順を疑う。この一件から、私はそう考えるようになりました。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "086652d6509e",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4c8d9dd42763",
+          "text": "不安が大きくなったときの3つの対処",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "cae363630b10",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "928c1a6541d5",
+          "text": "確かめても分からないことは残ります。そんなときに効く手を3つ挙げます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "fa851f4c09b2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "45c00125ed85",
+          "text": "どれも気持ちを明るくする方法ではなく、考える対象を減らすための方法です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f7726a59cbe4",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4d2641e6b064",
+          "text": "①確かめようのない問いを手放す",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "4b08badc64c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1f9eee361d13",
+          "text": "1つ目は、答えが相手の中にしかない問いを置くことです。「本当はどう思われているのか」は、考えても材料が増えません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "86f34b454503",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d8f4e16aeab3",
+          "text": "とはいえ、気にしないようにするのは難しいものです。かわりに、自分が次に何をするかだけ決めます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "0aff9c8aae60",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d8051130c7a2",
+          "text": "明日あいさつをするときに一言添える。それだけ決めて、残りは持ち越さないようにします。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "5f972a4c12cf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f68b0efabfc",
+          "text": "考える先を自分の行動に移すと、不安が動きに変わります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "63e1b0c80651",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1ea0a84d8ba3",
+          "text": "②合わない相手とは距離を取る",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "598d035093a7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "58e0815d123a",
+          "text": "2つ目は、全員と仲良くしようとしないことです。気質や考え方が違えば、合わない相手は必ずいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c49de6148f85",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "007d2c60c151",
+          "text": "合わない人に時間と神経を使うほど、好いてくれている人へ回す余力が減ります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "ef67cd310ad4",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "e371e0cd9384",
+          "text": "仕事なら、必要な連絡を丁寧にやれば十分です。それ以上を求めなくていいと決めると、気が軽くなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "de6c17d59c93",
+      "style": "h3",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f4240956128",
+          "text": "③好いてくれている人を数える",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "f2817ff056f7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "61a3abf540c4",
+          "text": "3つ目は、すでに関係ができている人を数えることです。不安なときは、いちばん冷たい相手ばかり見てしまいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "575af6c2226c",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9bc2d1f56e5e",
+          "text": "名前を3人書き出すだけでも、見えている景色は変わります。関係が続いている事実は、想像よりも確かな材料です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "33d610d963cf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8c587b3c86f7",
+          "text": "自己評価が下がっているときほど、悪い想像は強くなります。土台から整えたい方は",
+          "marks": []
+        },
+        {
+          "_type": "span",
+          "_key": "2e3c67ba4208",
+          "text": "自己肯定感が低くなる理由",
+          "marks": [
+            "990770df4b22"
+          ]
+        },
+        {
+          "_type": "span",
+          "_key": "c4eacbdff54b",
+          "text": "も読んでみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": [
+        {
+          "_key": "990770df4b22",
+          "_type": "link",
+          "href": "https://hsp.ink/posts/hss-hsp-jiko-koteikan",
+          "blank": false
+        }
+      ]
+    },
+    {
+      "_type": "block",
+      "_key": "caeae49708a1",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1f5baa8ad4d6",
+          "text": "全員に好かれようとすると消耗する",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "009c9c7f8d78",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "32dbaaffb46d",
+          "text": "最後に、前提を一つ置かせてください。全員に好かれることは、そもそも起きません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "a753fecdb8f7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "ac07ba3ec6fc",
+          "text": "人は、自分と違うものや分からないものを遠ざけやすいからです。HSS型HSPは人口の約6%といわれる少数派で、理解されにくい側にいます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dafd17d31e95",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6881774e3d22",
+          "text": "だから一定の割合で「よく分からない人」と思われます。これは自分の価値の話ではなく、数の話です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "075740acdbc7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d70bcc595dd8",
+          "text": "嫌われないように立ち回るより、合う人の中で深く付き合うほうが消耗は少なくなります。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "9065ece9febc",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "524d6405161c",
+          "text": "それでも一人では確かめにくい",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "33efe007faca",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "99914107c0fe",
+          "text": "ここまでの見方で、材料は少し増やせます。ただ、自分のことだけは最後まで客観的に見えません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e05b8da31e76",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "1d06b781d7d0",
+          "text": "先に書いたように、周りの人はわざわざ指摘してくれません。嫌われたかどうかも、本人には言ってもらえない部分です。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c87033c2775e",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6b8d7db2398a",
+          "text": "だから一人で考えると、足りない材料を想像で埋めることになります。悪い想像のほうが強いので、だいたい重いほうへ転びます。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "61fb6941c53a",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9ac01b3aa607",
+          "text": "同じ気質の人に話すと、「それはよくある」と分かることも多いものです。足りないのは強い心ではなく、照らし合わせる相手なのかもしれません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "c682e054ddd5",
+      "style": "h2",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "33b14b885a9a",
+          "text": "まとめ｜嫌われたかどうかは一つの出来事では決まらない",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "381505d1a210",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "723894fc01b5",
+          "text": "HSS型HSPが「嫌われたかも」と感じやすいのは、小さな変化を人より多く拾うからです。気質が嫌われる原因になっているわけではありません。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "dc4ea1c77f11",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a33e3b668c59",
+          "text": "大切なのは、次のポイントです。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "18e6748a35d2",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "3b5e00fc72af",
+          "text": "引き金は変化を拾う力・悪い想像の強さ・その日の自己評価",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "b51cfb7b9adf",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "9e2d4a57520c",
+          "text": "一貫性のなさや気分の波は「読みにくい」と思われやすい",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "306ddb9806d7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "f4eb077ae41c",
+          "text": "一つの行動では判断せず、積み重なりとほかの人への態度で見る",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "e756a7450cc8",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "04c32d49b7a4",
+          "text": "噛み合わないときは相性ではなく進め方を疑う",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "109a44ecdf0b",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "169a85df3015",
+          "text": "全員に好かれることは起きない。合う人の中で深く付き合う",
+          "marks": []
+        }
+      ],
+      "markDefs": [],
+      "listItem": "bullet",
+      "level": 1
+    },
+    {
+      "_type": "block",
+      "_key": "13278c23e9c7",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "140dd26f3742",
+          "text": "今日の出来事が気になっているなら、まずは一つの材料だけで決めていないか確かめてみてください。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    },
+    {
+      "_type": "block",
+      "_key": "e9be2c2e9fb9",
+      "style": "normal",
+      "children": [
+        {
+          "_type": "span",
+          "_key": "798f33efd891",
+          "text": "「嫌われている気がして落ち着かない」という方は、公式LINEをのぞいてみてください。同じ気質の視点から、人との距離の取り方を発信しています。",
+          "marks": []
+        }
+      ],
+      "markDefs": []
+    }
+  ],
+  "title": "HSS型HSPは嫌われるのか｜嫌われてる気がするときの確かめ方",
+  "seoTitle": "HSS型HSPは嫌われる？嫌われてる気がする理由と確かめ方",
+  "seoDescription": "HSS型HSPが「嫌われたかも」と感じやすいのは、小さな変化を人より多く拾うためです。嫌われたと感じる3つの引き金と、読みにくいと思われやすい4つの言動、本当に嫌われているかを確かめる3つの見方、不安が大きいときの対処まで当事者の視点で解説します。",
+  "excerpt": "既読のまま返事が来ないと理由を探してしまう。HSS型HSPが嫌われたと感じやすい理由と、本当に嫌われているかの確かめ方を当事者の視点で解説します。",
+  "audience": "hss-hsp",
+  "category": {
+    "_type": "reference",
+    "_ref": "category-relationships"
+  },
+  "tags": [
+    "HSS型HSP",
+    "嫌われる",
+    "人間関係",
+    "不安"
+  ],
+  "relatedPosts": [
+    {
+      "_type": "reference",
+      "_key": "febf78283efc",
+      "_ref": "0a80c320-9b46-4a2b-bc32-4c1fa5607609"
+    },
+    {
+      "_type": "reference",
+      "_key": "af4ebe4dc736",
+      "_ref": "837f9735-9d56-4fab-93f6-5e962b11e41a"
+    },
+    {
+      "_type": "reference",
+      "_key": "77f69555b9f4",
+      "_ref": "1879ab3c-a1fd-4f19-9acc-f35f140cec39"
+    }
+  ]
+}
